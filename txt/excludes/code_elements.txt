@@ -1,0 +1,6 @@
+class="string_container">
+class="original">
+<div
+</div>
+<strong>
+</strong>

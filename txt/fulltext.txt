@@ -1,0 +1,2691 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Перевод песен Rolling Stones, The: перевод песни Angie, текст песни. Лингво-лаборатория Амальгама.
+</title>
+<meta http-equiv="Description" content="Лингво-лаборатория Амальгама: перевод текста песни Angie группы Rolling Stones, The">
+<meta http-equiv="Keywords" content="перевод песен, Angie, Rolling Stones, The, лингво-лаборатория Амальгама, текст песни.">
+<link rel="canonical" href="https://www.amalgama-lab.com/songs/r/rolling_stones/angie.html">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="theme-color" content="#3366ff">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" media="all" type="text/css" href="/style.css?v4.99" />
+<link rel="stylesheet" media="print" style="text/css" href="/style_p.css" />
+<script src="/js/jquery-2.2.4.min.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/pict/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/pict/favicons/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/pict/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/pict/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/pict/favicons/favicon-16x16.png">
+<link href="/manifest.json" rel="manifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#3366ff">
+<meta name="apple-mobile-web-app-title" content="Амальгама">
+<meta name="application-name" content="Амальгама">
+<meta name="msapplication-TileColor" content="#3366ff">
+<meta name="msapplication-config" content="/browserconfig.xml"></head>
+<body>
+<noscript>
+<div style="background:red; color:#fff; padding:5px;" align="center">Для корректной работы сайта необходимо включить Javascript в настройках браузера.</div>
+</noscript>
+
+<!--
+<div class="noprint">
+<a id="move_up" href="#" style="display: none; ">&uarr;</a>
+</div>
+-->
+
+<style type="text/css">
+#container {width:2560px; margin:auto; position: relative; height:52px; left:50%; margin-left:-1280px;}
+.background {z-index:1;}
+.forest {z-index:2;}
+.title {z-index:3;}
+.flowers {z-index:4;}
+.blur_flowers {z-index:5;}
+.background,.forest,.flowers,.blur_flowers,.title {position:absolute;}
+
+@media screen and (min-width: 0px) and (max-width: 1023px) {
+.background, .forest, .flowers, .blur_flowers { background-image: none; }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1920px) {
+.background, .forest, .flowers, .blur_flowers { 
+width:2560px;
+height:52px;
+}
+.background { 
+background-image:url(/pict/spring_2015/background_2.jpg);
+}
+.forest { 
+background-image:url(/pict/spring_2015/flowers_behind_2.png);
+}
+.flowers { 
+background-image:url(/pict/spring_2015/flowers_2.png);
+}
+.blur_flowers { 
+background-image:url(/pict/spring_2015/front.png);
+}
+}
+</style>
+
+<div class="noprint" style="border-bottom:gold 5px solid; position: relative; z-index:1;"></div>
+<div class="noprint" style="border-bottom:whitesmoke 1px solid"></div>
+
+<div class="noprint" onclick="location.href='/'" style="overflow:hidden; position:relative; cursor:hand; cursor:pointer; background: #3366ff;">
+	<div class="noprint" id="container">
+		<div class="background"></div>
+		<div class="forest"></div>
+<div align="center" class="title" style="width:2560px; height:52px;"><a class="top" href="/"><strong>Лингво-лаборатория «Амальгама»</strong></a><br><span style="margin-top: 28px; color: white; font-style: italic; font-weight:normal; font-family:Trebuchet MS; font-size:13px;">Мы стираем границы между языками</span></div>
+		<div class="flowers"></div>
+		<div class="blur_flowers"></div>
+    </div>
+</div>	
+
+<div id="ground" class="noprint" style="border-bottom:whitesmoke 1px solid"></div>
+<div class="noprint" style="border-bottom:gold 13px solid;"></div>
+
+
+<div class="row noprint">
+  <div id="header" class="col">
+    <div class="row">
+<div align="center" id="searchform" class="col">
+<style>#ya-site-form0 .ya-site-form__search-input{padding: 4px}#ya-site-form0 .ya-site-form__submit{margin:0;}</style>
+<div style="max-width:555px; padding-right:5px; padding-left:5px; height:3.3em; display:table-cell; vertical-align:middle;">
+<div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'/search/','arrow':false,'bg':'#ffd700','fontsize':16,'fg':'#000000','language':'ru','logo':'rb','publicname':'Лингво-лаборатория Амальгама','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2148731,'webopt':false,'websearch':false,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':'','input_placeholderColor':'#000000','input_borderColor':'#ffffff'}"><form action="//yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2148731"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+</div>
+</div>
+<div style="padding-right:10px;" id="button_main_nav" class="col"><a href="#" onClick="return false;" title="Главное меню"><svg class='icons white svg_shadow_menu'><use xlink:href='#icon-menu'></use></svg></a></div>
+	  </div>
+  </div>
+</div>
+
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-parallel" viewBox="0 0 48 48">
+<title>Параллельно</title>
+<path d="M 47.991824,13.68863 H 26.229475 V 35.540571 H 47.991824 Z M 45.861255,33.342266 H 28.414669 V 15.895676 H 45.861255 Z M 21.813198,13.68863 H 0.05084746 V 35.540571 H 21.813198 Z"/></path>
+</symbol>
+<symbol id="icon-alternation" viewBox="0 0 48 48">
+<title>Построчно</title>
+<path d="M 39.369533,39.243914 V 17.44487 H 17.480746 V 39.243914 Z M 19.682758,37.109756 V 19.633749 H 37.158766 V 37.109756 Z M 30.659985,17.44487 V 8.6893561 H 8.7930867 V 30.578143 l 8.7598923,-0.01751 V 17.427359 Z"/></path>
+</symbol>
+<symbol id="icon-change" viewBox="0 0 48 48">
+<title>Оригинал / Перевод</title>
+<path d="M 47.87674,47.804694 H 26.32139 V 26.160603 H 47.87674 Z M 45.766442,28.342328 H 28.4858 V 45.61864 H 45.766442 Z M 0.15801485,0.0859687 H 21.802106 V 21.730059 H 0.15801485 Z M 26.130923,8.7089736 h 10.789579 v 8.6251694 h 4.361285 l -5.376392,7.27025 -5.445653,-7.237783 H 34.78856 V 11.042207 H 26.165553 Z M 21.769639,39.045332 H 10.98006 V 30.422325 H 6.6187755 l 5.3763915,-7.272415 5.445653,7.237786 h -4.328817 v 6.324402 h 8.623006 z"/></path>
+</symbol>
+<symbol id="icon-fast" viewBox="0 0 44 44">
+<title>Мгновенный переход к переводу песни</title>
+<path d="M 32,20 H 16 l 8,10 z M 42,38 V 10 C 42,7.79 40.21,6 38,6 H 10 C 7.79,6 6,7.79 6,10 v 28 c 0,2.21 1.79,4 4,4 h 28 c 2.21,0 4,-1.79 4,-4 z M 10,38 V 10 h 28 v 28 z"/></path>
+</symbol>
+<symbol id="icon-close" viewBox="0 0 48 48">
+<title>Закрыть</title>
+<path d="M 44.988336,39.153503 31.979303,26.065259 44.988336,13.054812 c 0.544578,-0.543163 0.544578,-1.424388 0,-1.968965 L 39.081441,5.1803654 c -0.541749,-0.5445773 -1.422974,-0.5445773 -1.967552,0 L 24.126075,18.168181 11.216056,5.1803654 c -0.543163,-0.5445773 -1.4243877,-0.5445773 -1.9689654,0 L 3.3416094,11.085847 c -0.5431628,0.544577 -0.5431628,1.425802 0,1.968965 L 16.251628,26.042627 3.3430239,38.951231 c -0.5431628,0.543163 -0.5431628,1.424388 0,1.968965 l 5.9054812,5.905482 c 0.5431632,0.544577 1.4243879,0.544577 1.9689659,0 L 24.103443,33.939706 37.115304,47.027949 c 0.544578,0.544576 1.425802,0.544576 1.967551,0 l 5.906896,-5.905481 C 45.5315,40.57789 45.5315,39.696666 44.988351,39.153503 Z"/></path>
+</symbol>
+<symbol id="icon-list" viewBox="0 0 48 48">
+<title>Выбор исполнителя и названия перевода</title>
+<path d="m 4.3049532,21.866547 h 6.5659988 v 6.565998 H 4.3049532 Z m 0,13.132005 H 10.870952 V 41.56455 H 4.3049532 Z m 0,-26.2640086 H 10.870952 V 15.30054 H 4.3049532 Z M 17.43696,21.866547 h 26.264009 v 6.565998 H 17.43696 Z m 0,13.132005 H 43.700969 V 41.56455 H 17.43696 Z m 0,-26.2640086 H 43.700969 V 15.30054 H 17.43696 Z"/></path>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 48 48">
+<title>Меню</title>
+<path d="M 4.5084746,41.480228 V 34.974012 H 43.545767 v 6.506216 z m 0,-19.518647 H 43.545767 v 6.506216 H 4.5084746 Z m 0,-13.0124286 H 43.545767 V 15.455367 H 4.5084746 Z"/></path>
+</symbol> 
+<symbol id="icon-az" viewBox="0 0 48 48">
+<title>Выбор исполнителя по первой букве (цифре)</title>
+<path d="m 20.541122,34.018837 c 0.138585,0.415748 0.225636,0.74621 0.2594,0.98961 0.03376,0.243411 -0.01033,0.424636 -0.138581,0.548996 -0.127929,0.120842 -0.353562,0.193658 -0.676926,0.225646 -0.323351,0.03014 -0.769297,0.04084 -1.336061,0.04084 -0.589859,0 -1.050019,-0.0089 -1.378705,-0.02668 -0.328688,-0.01778 -0.580977,-0.04973 -0.755094,-0.106666 -0.174114,-0.05152 -0.294927,-0.122516 -0.364218,-0.214978 -0.06929,-0.09416 -0.127929,-0.213202 -0.174116,-0.364216 L 14.46664,30.600493 H 6.0362796 l -1.4231249,4.390185 c -0.046199,0.163458 -0.1066071,0.298485 -0.1829981,0.406857 -0.076397,0.110157 -0.1972121,0.197213 -0.3642198,0.259399 -0.1670092,0.06403 -0.4050846,0.108351 -0.7106737,0.129694 -0.305589,0.02125 -0.7088972,0.03735 -1.2063684,0.03735 -0.5312275,0 -0.9487481,-0.01958 -1.24900741,-0.05152 C 0.59962664,35.736901 0.38997858,35.655225 0.2744939,35.518395 0.15901061,35.383366 0.11814574,35.196822 0.15367703,34.956965 0.18920832,34.713554 0.2744939,34.390201 0.41307281,33.985123 L 7.336808,14.068504 c 0.069283,-0.195435 0.1492412,-0.355341 0.2434056,-0.477934 0.094157,-0.122517 0.2398518,-0.213201 0.4423944,-0.277165 0.2025427,-0.0639 0.4832584,-0.104857 0.8421493,-0.120843 0.3588886,-0.01597 0.8332647,-0.02668 1.4231217,-0.02668 0.682247,0 1.225913,0.0089 1.630996,0.02668 0.405084,0.01777 0.719556,0.05681 0.945195,0.120843 0.225639,0.0639 0.387317,0.159904 0.485034,0.286054 0.09771,0.126126 0.182999,0.300253 0.25229,0.520564 z M 10.234581,17.552535 h -0.01776 l -3.1749328,9.544346 h 6.3676338 z m 20.421194,9.439516 c 0,0.671592 -0.06222,1.142416 -0.190102,1.405358 -0.124321,0.262955 -0.330461,0.39976 -0.607627,0.39976 h -7.216887 c -0.289597,0 -0.497467,-0.135027 -0.625394,-0.40686 -0.127928,-0.270066 -0.190102,-0.737332 -0.190102,-1.396478 0,-0.646716 0.0639,-1.105095 0.190102,-1.369827 0.126126,-0.264721 0.335797,-0.399747 0.625394,-0.399747 h 7.216887 c 0.138582,0 0.259399,0.03014 0.357117,0.08708 0.09765,0.05681 0.181227,0.156347 0.25051,0.29493 0.0693,0.138583 0.119039,0.325142 0.149237,0.556108 0.02667,0.227411 0.04084,0.502798 0.04084,0.829706 z m 17.264032,6.921957 c 0,0.334017 -0.01416,0.620072 -0.03903,0.851039 -0.03014,0.230967 -0.07279,0.419291 -0.131469,0.561429 -0.05681,0.145694 -0.126126,0.248733 -0.214981,0.305586 -0.08708,0.05513 -0.184768,0.08708 -0.287819,0.08708 H 34.010152 c -0.463714,0 -0.819053,-0.133248 -1.067786,-0.399762 -0.252287,-0.264718 -0.374884,-0.653812 -0.374884,-1.161945 v -0.763969 c 0,-0.232745 0.01597,-0.444166 0.04265,-0.632492 0.03014,-0.188337 0.0764,-0.385551 0.145692,-0.580985 0.06931,-0.193658 0.174114,-0.408635 0.305584,-0.641382 0.131473,-0.229188 0.298488,-0.506353 0.492146,-0.83326 l 8.70929,-13.810157 h -8.640009 c -0.138585,0 -0.257622,-0.03195 -0.353562,-0.09598 -0.09945,-0.06403 -0.181214,-0.165239 -0.243401,-0.303822 -0.06222,-0.138581 -0.111949,-0.325127 -0.13858,-0.556093 -0.03014,-0.230968 -0.04445,-0.508134 -0.04445,-0.833262 0,-0.346462 0.01777,-0.637838 0.04445,-0.875917 0.02846,-0.238066 0.07639,-0.42818 0.13858,-0.572083 0.06222,-0.143915 0.143904,-0.246965 0.243401,-0.30382 0.09945,-0.05681 0.214977,-0.08708 0.353562,-0.08708 h 12.404801 c 0.476155,0 0.826162,0.120842 1.051794,0.364216 0.225647,0.24341 0.335798,0.584528 0.335798,1.023376 v 0.851026 c 0,0.312696 -0.01416,0.580974 -0.04084,0.806618 -0.03194,0.225633 -0.08169,0.445945 -0.156349,0.659146 -0.0764,0.213203 -0.177671,0.433515 -0.305584,0.659148 -0.126126,0.225644 -0.28782,0.493923 -0.485033,0.80662 l -8.57073,13.621835 h 9.386219 c 0.220313,0 0.389095,0.13857 0.5028,0.413957 0.113757,0.278943 0.174115,0.762198 0.174115,1.440888 z"/></path>
+</symbol>
+<symbol id="icon-smilerate" viewBox="0 0 48 48">
+<title>SmileRate</title>
+<path d="m 35.296693,29.588884 q -1.135766,3.714262 -4.236104,5.985797 -3.100338,2.271534 -6.998778,2.271534 -3.898444,0 -6.998778,-2.271534 -3.100337,-2.271535 -4.236103,-5.985797 -0.245572,-0.767413 0.122784,-1.488779 0.368357,-0.721361 1.166463,-0.966933 0.767409,-0.245572 1.488774,0.122784 0.721366,0.368356 0.966938,1.166462 0.76741,2.455713 2.839416,3.975185 2.07201,1.519472 4.650506,1.519472 2.578497,0 4.650503,-1.519472 2.072006,-1.519472 2.839419,-3.975185 0.245568,-0.798106 0.982285,-1.166462 0.736712,-0.368356 1.504121,-0.122784 0.767409,0.245572 1.135769,0.966933 0.368357,0.721366 0.122785,1.488779 z M 20.132671,16.235949 q 0,1.62691 -1.151112,2.778026 -1.151116,1.151112 -2.778025,1.151112 -1.62691,0 -2.778026,-1.151112 -1.151116,-1.151116 -1.151116,-2.778026 0,-1.626909 1.151116,-2.778025 1.151116,-1.151115 2.778026,-1.151115 1.626909,0 2.778025,1.151115 1.151112,1.151116 1.151112,2.778025 z m 15.716556,0 q 0,1.62691 -1.151116,2.778026 -1.151112,1.151112 -2.778022,1.151112 -1.626909,0 -2.778025,-1.151112 -1.151115,-1.151116 -1.151115,-2.778026 0,-1.626909 1.151115,-2.778025 1.151116,-1.151115 2.778025,-1.151115 1.62691,0 2.778022,1.151115 1.151116,1.151116 1.151116,2.778025 z m 7.858278,7.858279 q 0,-3.990531 -1.565515,-7.628057 Q 40.576474,12.82865 37.95193,10.204105 35.327389,7.5795648 31.689864,6.0140491 28.052342,4.4485297 24.061811,4.4485297 q -3.99053,0 -7.628056,1.5655194 -3.637522,1.5655157 -6.262066,4.1900559 -2.6245411,2.624545 -4.1900566,6.262066 -1.5655193,3.637526 -1.5655193,7.628057 0,3.990531 1.5655193,7.628053 1.5655155,3.637525 4.1900566,6.262065 2.624544,2.624544 6.262066,4.19006 3.637526,1.565516 7.628056,1.565516 3.990531,0 7.628053,-1.565516 3.637525,-1.565516 6.262066,-4.19006 2.624544,-2.62454 4.19006,-6.262065 1.565515,-3.637522 1.565515,-7.628053 z m 3.929141,0 q 0,6.415547 -3.161732,11.833462 -3.161727,5.417913 -8.57964,8.57964 -5.417916,3.161732 -11.833463,3.161732 -6.415547,0 -11.833462,-3.161732 Q 6.8104361,41.345603 3.6487043,35.92769 0.48697622,30.509775 0.48697622,24.094228 q 0,-6.415547 3.16172808,-11.833463 3.1617318,-5.4179122 8.5796447,-8.579644 5.417915,-3.16172814 11.833462,-3.16172814 6.415547,0 11.833463,3.16172814 5.417913,3.1617318 8.57964,8.579644 3.161732,5.417916 3.161732,11.833463 z"/></path>
+</symbol>
+<symbol id="icon-print" viewBox="0 0 48 48">
+<title>Печать</title>
+<path d="m 43.655516,23.190296 h -3.252027 c -0.448636,0 -0.818237,0.364952 -0.818237,0.818237 0,0.453284 0.369601,0.818237 0.818237,0.818237 h 3.252027 c 1.373801,0 2.489579,1.118102 2.489579,2.487254 v 16.346142 c 0,1.366828 -1.115778,2.48493 -2.489579,2.48493 H 4.3568996 c -1.371477,0 -2.48493,-1.118102 -2.48493,-2.48493 V 27.314024 c 0,-1.369152 1.113453,-2.487254 2.48493,-2.487254 h 3.254351 c 0.453285,0 0.818237,-0.364953 0.818237,-0.818237 0,-0.453285 -0.364952,-0.818237 -0.818237,-0.818237 h -3.254351 c -2.275722,0 -4.12605304,1.850331 -4.12605304,4.123728 v 16.346142 c 0,2.273397 1.85033104,4.123728 4.12605304,4.123728 H 43.655516 c 2.278046,0 4.128377,-1.850331 4.128377,-4.123728 V 27.314024 c 0,-2.273397 -1.850331,-4.123728 -4.128377,-4.123728 z m -19.649309,-6.22046 h -8.198641 c -0.45096,0 -0.820561,0.364952 -0.820561,0.818237 0,0.453284 0.369601,0.820561 0.820561,0.820561 h 8.198641 c 0.453285,0 0.820562,-0.367277 0.820562,-0.820561 0,-0.453285 -0.367277,-0.818237 -0.820562,-0.818237 z m 8.200966,-5.051219 H 15.807566 c -0.45096,0 -0.820561,0.367277 -0.820561,0.820562 0,0.453285 0.369601,0.820561 0.820561,0.820561 h 16.399607 c 0.448635,0 0.820561,-0.367276 0.820561,-0.820561 0,-0.453285 -0.371926,-0.820562 -0.820561,-0.820562 z m 0,-5.1279281 H 15.807566 c -0.45096,0 -0.820561,0.367276 -0.820561,0.820561 0,0.453285 0.369601,0.820561 0.820561,0.820561 h 16.399607 c 0.448635,0 0.820561,-0.367276 0.820561,-0.820561 0,-0.453285 -0.371926,-0.820561 -0.820561,-0.820561 z M 12.311463,3.8501504 c 0,-1.092533 0.885649,-1.9781809 1.975856,-1.9781809 H 33.72742 c 1.090207,0 1.97818,0.8856479 1.97818,1.9781809 V 27.083895 H 12.311463 Z M 7.6112506,27.083895 c -0.453285,0 -0.820561,0.364952 -0.820561,0.818237 0,0.453284 0.367276,0.820561 0.820561,0.820561 H 40.403489 c 0.453285,0 0.820562,-0.367277 0.820562,-0.820561 0,-0.453285 -0.367277,-0.818237 -0.820562,-0.818237 H 37.346723 V 3.8501504 c 0,-1.9967769 -1.622526,-3.61930377 -3.619303,-3.61930377 H 14.287319 c -1.996777,0 -3.616979,1.62252687 -3.616979,3.61930377 V 27.083895 Z m 8.7565294,9.723537 c 0,0.869377 0.699685,1.566738 1.562088,1.566738 0.867053,0 1.566738,-0.697361 1.566738,-1.566738 0,-0.864728 -0.699685,-1.566738 -1.566738,-1.566738 -0.862403,0 -1.562088,0.70201 -1.562088,1.566738 z m -5.623055,0.0023 c 0,0.634599 -0.518371,1.155295 -1.1576184,1.155295 -0.639247,0 -1.157619,-0.520696 -1.157619,-1.155295 0,-0.636923 0.518372,-1.155294 1.157619,-1.155294 0.6392474,0 1.1576184,0.518371 1.1576184,1.155294 z m -3.9540354,0 c 0,1.541168 1.252925,2.796418 2.796417,2.796418 1.5411674,0 2.7940924,-1.25525 2.7940924,-2.796418 0,-1.543492 -1.252925,-2.798742 -2.7940924,-2.798742 -1.543492,0 -2.796417,1.25525 -2.796417,2.798742 z"/></path>
+</symbol>
+</defs>
+</svg><div class="row">
+<div id="main_nav" class="col noprint">
+<div id="main_nav_top">Меню:</div>
+<div id="block_main_nav" class="left_column col">
+      <ul>
+      <li><a href="/">Главная</a></li>      <li><a href="/songs/">Перевод песен</a></li>      <li><a style="color:#FFF;" href="/smilerate/" title="Рейтинг переводов песен «SmileRate»"><span class="smile_S">S</span><span class="smile_m">m</span><span class="smile_i">i</span><span class="smile_l">l</span><span class="smile_e">e</span><span class="rate_R">R</span><span class="rate_a">a</span><span class="rate_t">t</span><span class="rate_e">e</span></a></li>      <li><a href="/prizes/">Призовые конкурсы</a></li>      <li><a href="/prizes/guaranteed/">Гарантированные призы</a></li>      <li><a href="/prizes/archive/">Архив конкурсов</a></li>      <li><a href="/collections/">Коллекции переводов</a></li>      <li><a href="/suggestsong/">Отправить свой перевод</a></li>      <li><a href="/reviews/">Отзывы</a></li>      <li><a href="/contacts/">Контакты</a></li>    </ul>
+</div>
+
+<div style="padding:10px; clear:both;" align="center">
+<a target="_blank" style="border-bottom:0px;" href="https://play.google.com/store/apps/details?id=com.amalgama_lab"><img src="/pict/google-play-badge.png" width="200" alt="Android приложение от Амальгамы" title="Android приложение от Амальгамы" /></a>
+</div>
+
+<div class="left_column col"></div>
+  
+    <div id="popular_translations" class="left_column col"><strong>Популярные переводы:</strong><br>
+      <ul type="square" style="color:#dcdcdc; padding-left:21px; padding-right:5px;">
+<li><a href="/songs/t/tom_odell/another_love.html"><strong>Tom Odell</strong> - Another Love</a></li>
+<li><a href="/songs/j/john_lennon/imagine.html"><strong>John Lennon</strong> - Imagine</a></li>
+<li><a href="/songs/s/stromae/papaoutai.html"><strong>Stromae</strong> - Papaoutai</a></li>
+<li><a href="/songs/h/harry_styles/as_it_was.html"><strong>Harry Styles</strong> - As It Was</a></li>
+<li><a href="/songs/s/silk_sonic/leave_the_door_open.html"><strong>Silk Sonic</strong> - Leave the Door Open</a></li>
+<li><a href="/songs/e/elley_duhe/middle_of_the_night.html"><strong>Elley Duhe</strong> - MIDDLE OF THE NIGHT</a></li>
+<li><a href="/songs/g/gayle/abcdefu.html"><strong>GAYLE</strong> - abcdefu</a></li>
+<li><a href="/songs/i/imagine_dragons_and_jid/enemy.html"><strong>Imagine Dragons & JID</strong> - Enemy</a></li>
+<li><a href="/songs/n/nirvana/smells_like_teen_spirit.html"><strong>Nirvana</strong> - Smells Like Teen Spirit</a></li>
+<li><a href="/songs/h/hozier/take_me_to_church.html"><strong>Hozier</strong> - Take Me to Church</a></li>
+<li><a href="/songs/i/imagine_dragons/believer.html"><strong>Imagine Dragons</strong> - Believer</a></li>
+<li><a href="/songs/l/lara_fabian/je_t_aime.html"><strong>Lara Fabian</strong> - Je T'Aime</a></li>
+<li><a href="/songs/l/lp/lost_on_you.html"><strong>LP</strong> - Lost on You</a></li>
+<li><a href="/songs/c/cranberries/zombie.html"><strong>The Cranberries</strong> - Zombie</a></li>
+<li><a href="/songs/n/neighbourhood/sweater_weather.html"><strong>The Neighbourhood</strong> - Sweater Weather</a></li>
+      </ul>
+    </div>
+    
+    <div class="left_column col"></div>
+    
+    <div id="fresh_translations" class="left_column col"><strong>Свежие переводы:</strong>  
+		  
+   <div id="calendar">
+		    	    
+  <div style="margin: 12px;" align="center">Переводы песен<br /> от <strong>05.04.2022</strong>:</div><ul type="square" style="color:#dcdcdc; padding-left: 10px; margin-left: 10px; border-bottom:1px dashed gainsboro; padding-bottom: 10px;"><li><a href="/songs/i/intelligent_music_project/intention.html"><strong>Intelligent Music Project</strong> - Intention</a></li>
+<li><a href="/songs/j/jeremie_makiese/miss_you.html"><strong>J&eacute;r&eacute;mie Makiese</strong> - Miss You</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/careless_hands.html"><strong>Jerry Lee Lewis</strong> - Careless Hands</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/come_as_you_were.html"><strong>Jerry Lee Lewis</strong> - Come as You Were</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/i_m_looking_over_a_four_leaf_clover.html"><strong>Jerry Lee Lewis</strong> - I&#039;m Looking over a Four Leaf Clover</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/ol_glory.html"><strong>Jerry Lee Lewis feat. Toby Keith</strong> - Ol&#039; Glory</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/poison_love.html"><strong>Jerry Lee Lewis</strong> - Poison Love</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/send_me_the_pillow_you_dream_on.html"><strong>Jerry Lee Lewis</strong> - Send Me the Pillow You Dream On</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/twilight.html"><strong>Jerry Lee Lewis</strong> - Twilight</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/when_two_worlds_collide.html"><strong>Jerry Lee Lewis</strong> - When Two Worlds Collide</a></li>
+
+<div style="display:none; border-top:1px dashed gold; padding-top:5px; margin-top:5px;" id="more_bands_1">
+<li><a class="grey" href="/songs/l/laura_doggett/beautiful_undone.html"><strong>Laura Doggett</strong> - Beautiful Undone</a></li>
+<li><a href="/songs/l/lum_x/halo.html"><strong>LUM!Х feat. Pia Maria</strong> - Halo</a></li>
+<li><a href="/songs/r/ronela_hajati/sekret.html"><strong>Ronela Hajati</strong> - Sekret</a></li>
+</div><div style='margin-top:7px;' id='more_bands_down_1' align='center'><span onclick="document.getElementById('more_bands_down_1').style.display='none'; document.getElementById('more_bands_1').style.display='block'; document.getElementById('more_bands_up_1').style.display='block'" class='more_link'>Все переводы за <strong>05.04.2022</strong> <span class='more_space'></span> <span class='more_arrow_down'></span></span></div>
+
+<div style='display:none; margin-top:7px;' id='more_bands_up_1' align='center'><span onclick="document.getElementById('more_bands_down_1').style.display='block'; document.getElementById('more_bands_1').style.display='none'; document.getElementById('more_bands_up_1').style.display='none'" class='more_link'>Свернуть <span class='more_space'></span> <span class='more_arrow_up'></span></span></div>
+
+</ul><div style="margin: 12px;" align="center">Переводы песен<br /> от <strong>04.04.2022</strong>:</div><ul type="square" style="color:#dcdcdc; padding-left: 10px; margin-left: 10px; border-bottom:1px dashed gainsboro; padding-bottom: 10px;"><li><a href="/songs/j/jerry_lee_lewis/good_time_charlie_s_got_the_blues.html"><strong>Jerry Lee Lewis</strong> - Good Time Charlie&#039;s Got the Blues</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/honky_tonk_women.html"><strong>Jerry Lee Lewis</strong> - Honky Tonk Women*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/lovin_up_a_storm.html"><strong>Jerry Lee Lewis</strong> - Lovin&#039; Up a Storm</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/lucille.html"><strong>Jerry Lee Lewis</strong> - Lucille*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/money.html"><strong>Jerry Lee Lewis</strong> - Money</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/only_you_and_you_alone.html"><strong>Jerry Lee Lewis</strong> - Only You (And You Alone)*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/over_the_rainbow.html"><strong>Jerry Lee Lewis</strong> - Over the Rainbow</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/toot_toot_tootsie_goodbye.html"><strong>Jerry Lee Lewis</strong> - Toot, Toot, Tootsie, Goodbye</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/you_are_my_sunshine.html"><strong>Jerry Lee Lewis feat. Sheryl Crow &amp; Jon Brion</strong> - You Are My Sunshine</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/you_can_have_her.html"><strong>Jerry Lee Lewis feat. Eric Clapton &amp; James Burton</strong> - You Can Have Her</a></li>
+</ul><div style="margin: 12px;" align="center">Переводы песен<br /> от <strong>03.04.2022</strong>:</div><ul type="square" style="color:#dcdcdc; padding-left: 10px; margin-left: 10px; border-bottom:1px dashed gainsboro; padding-bottom: 10px;"><li><a class="grey" href="/songs/b/bukahara/new_home.html"><strong>Bukahara</strong> - New Home</a></li>
+<li><a href="/songs/e/edx/on_my_mind.html"><strong>EDX</strong> - On My Mind</a></li>
+<li><a href="/songs/f/finneas/naked.html"><strong>FINNEAS</strong> - Naked</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/i_saw_her_standing_there.html"><strong>Jerry Lee Lewis</strong> - I Saw Her Standing There*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/just_a_bummin_around.html"><strong>Jerry Lee Lewis</strong> - Just a Bummin&#039; Around</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/pumpin_piano_rock.html"><strong>Jerry Lee Lewis</strong> - Pumpin&#039; Piano Rock</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/rock_n_roll_funeral.html"><strong>Jerry Lee Lewis</strong> - Rock &#039;n&#039; Roll Funeral</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/rock_n_roll_ruby.html"><strong>Jerry Lee Lewis</strong> - Rock &#039;n&#039; Roll Ruby</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/stepchild.html"><strong>Jerry Lee Lewis feat. Daniel Lanois &amp; Doyle Bramhall II</strong> - Stepchild*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/sunday_morning_coming_down.html"><strong>Jerry Lee Lewis</strong> - Sunday Morning Coming Down</a></li>
+
+<div style="display:none; border-top:1px dashed gold; padding-top:5px; margin-top:5px;" id="more_bands_3">
+<li><a href="/songs/j/jerry_lee_lewis/the_ballad_of_forty_dollars.html"><strong>Jerry Lee Lewis</strong> - The Ballad of Forty Dollars*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/wild_one.html"><strong>Jerry Lee Lewis</strong> - Wild One*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/you_re_all_too_ugly_tonight.html"><strong>Jerry Lee Lewis</strong> - You&#039;re All Too Ugly Tonight</a></li>
+<li><a class="grey" href="/songs/m/maro/saudade_saudade.html"><strong>MARO</strong> - Saudade, Saudade</a></li>
+<li><a class="grey" href="/songs/m/milow/michael_jordan.html"><strong>Milow</strong> - Michael Jordan</a></li>
+<li><a class="grey" href="/songs/m/milow/nobody_needs_you_like_i_do.html"><strong>Milow</strong> - Nobody Needs You Like I Do</a></li>
+<li><a class="grey" href="/songs/m/milow/tourist.html"><strong>Milow</strong> - Tourist</a></li>
+</div><div style='margin-top:7px;' id='more_bands_down_3' align='center'><span onclick="document.getElementById('more_bands_down_3').style.display='none'; document.getElementById('more_bands_3').style.display='block'; document.getElementById('more_bands_up_3').style.display='block'" class='more_link'>Все переводы за <strong>03.04.2022</strong> <span class='more_space'></span> <span class='more_arrow_down'></span></span></div>
+
+<div style='display:none; margin-top:7px;' id='more_bands_up_3' align='center'><span onclick="document.getElementById('more_bands_down_3').style.display='block'; document.getElementById('more_bands_3').style.display='none'; document.getElementById('more_bands_up_3').style.display='none'" class='more_link'>Свернуть <span class='more_space'></span> <span class='more_arrow_up'></span></span></div>
+
+</ul>
+      </div> 
+          
+    
+    </div>
+
+
+
+
+
+
+
+    
+</div>  <h1>Перевод текста песни Angie исполнителя (группы) Rolling Stones, The</h1>
+  <div id="nav" class="col noprint">
+    <div style="padding:0 5px 0 5px;" class="row">
+      <div id="button_songs_nav" class="col"><a href="#" onClick="return false;" title="Выбор исполнителя и названия перевода"><svg class='icons white svg_shadow_list'><use xlink:href='#icon-list'></use></svg></a></div>
+      <div id="button_fast_nav" class="col"><a href="#" onClick="return false;" title="Мгновенный переход к переводу песни"><svg class='icons white svg_shadow_fast'><use xlink:href='#icon-fast'></use></svg></a></div>
+      <div id="button_az_nav" class="col"><a href="#" onClick="return false;" title="Выбор исполнителя по первой букве (цифре)"><svg class='icons white svg_shadow_az'><use xlink:href='#icon-az'></use></svg></a></div>
+    </div>
+  </div>
+  <div class="main_content col">
+    <div class="row noprint">
+      <div id="fast_nav" class="col">
+<div id="fast_nav_top" align="center">Мгновенный переход к переводу:</div>
+
+<link rel="stylesheet" media="all" type="text/css" href="/fast_song_menu/select2.min.css?v2" />
+<script src="/js/select2.min.js?v2"></script>
+
+<style>
+li.select2-results__option {
+	border-bottom: 1px solid #f5f5f5;
+	padding: 7px;
+}
+.container_select {
+  position: relative;
+  margin:10px;
+}
+.preloader:after {
+  content: '';
+  display: block;
+  z-index: 101;
+  height: 100%;
+  width: 100%;
+  border-radius: 4px;
+  background: -webkit-linear-gradient(to right, #fff 0, #fff 48%, #3498db 0, #3498db 52%, #fff 0, #fff 100%);
+  background: linear-gradient(to right, #fff 0, #fff 48%, #3498db 0, #3498db 52%, #fff 0, #fff 100%);
+  background-size: 195% 195%;		
+  box-shadow: 0 0 3px rgba(0,0,0,0.5);
+  opacity: 0.5;
+  -webkit-animation: preloaderanim 3s ease-in-out infinite, fadein 1s;
+  animation: preloaderanim 3s ease-in-out infinite, fadein 1s;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+@-webkit-keyframes preloaderanim { 
+    0%{background-position: 0% 50%}
+    50%{background-position: 100% 50%}
+    100%{background-position: 0% 50%}
+}  
+@keyframes preloaderanim { 
+    0%{background-position: 0% 50%}
+    50%{background-position: 100% 50%}
+    100%{background-position: 0% 50%}
+}
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.5; }
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.5; }
+}
+</style>
+
+<script type="text/javascript">
+$.ajaxSetup({cache:false});(function($){$(document).ready(function(){if(document.documentElement.clientWidth<1000){$('select').on('select2:open',function(e){$('.select2-search input').prop('focus',false);})}
+$('#letter').select2({placeholder:"Выберите букву (цифру)",width:"250px"});$('#band').select2({placeholder:"Выберите исполнителя",width:"250px",disabled:true});$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:true});$.fn.clearSelect=function(){return this.each(function(){if(this.tagName=='SELECT'){this.options.length=0;$(this).prop('disabled','disabled');$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:true});}});}
+$.fn.fillSelect=function(dataArray){return this.clearSelect().each(function(){if(this.tagName=='SELECT'){var currentSelect=this;$.each(dataArray,function(index,data){var option=new Option(data.text,data.value);if($.support.cssFloat){currentSelect.add(option,null);}else{currentSelect.add(option);}});}});}
+$('#letter').change(function(){adjustBand();document.getElementById('button').disabled=true;}).change();$('#band').change(function(){adjustSong();document.getElementById('button').disabled=true;}).change();$('#song').change(function(){document.getElementById('button').disabled=false;});function adjustBand(){var letterValue=$('#letter').val();var tmpSelect=$('#band');if(letterValue.length==0){tmpSelect.clearSelect();adjustSong();}else{$('#band').clearSelect();$('#song').clearSelect();$('#band').parent('div').addClass('preloader');var jqxhr=$.getJSON('/fast_song_menu/cascadeSelectBand.php',{letter:letterValue},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#band').select2({placeholder:"Выберите исполнителя",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});adjustSong();});jqxhr.complete(function(){document.getElementById('button').disabled=false;$('#band').parent('div').removeClass('preloader');})}};function adjustSong(){var letterValue=$('#letter').val();var bandValue=$('#band').val();var tmpSelect=$('#song');if(letterValue.length==0||bandValue.length==0){tmpSelect.clearSelect();}else{$('#song').clearSelect();$('#song').parent('div').addClass('preloader');var jqxhr=$.getJSON('/fast_song_menu/cascadeSelectSong.php',{letter:letterValue,band:bandValue},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});jqxhr.complete(function(){document.getElementById('button').disabled=false;$('#song').parent('div').removeClass('preloader');})}};fill_fsm('/songs/r/rolling_stones/angie.html');function fill_fsm(path){var arr_path=path.split('/');var path_letter=arr_path[2]+'/';var path_band=arr_path[3]+'/';var path_song=arr_path[4];if(arr_path[2]==''){}else{$('#letter').val(path_letter).trigger('change.select2');$('#band').parent('div').addClass('preloader');var tmpSelect=$('#band');var jqxhr=$.getJSON('/fast_song_menu/cascadeSelectBand.php',{letter:path_letter},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#band').select2({placeholder:"Выберите исполнителя",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});jqxhr.complete(function(){$('#band').parent('div').removeClass('preloader');if(arr_path[3]==''){}else{$("#band").val(path_band).trigger('change.select2');$('#song').parent('div').addClass('preloader');$("#band").select2({placeholder:"Выберите исполнителя",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});var tmpSelect=$('#song');var jqxhr2=$.getJSON('/fast_song_menu/cascadeSelectSong.php',{letter:path_letter,band:path_band},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});jqxhr2.complete(function(){$('#song').parent('div').removeClass('preloader');$("#song").val(path_song).trigger('change.select2');$("#song").select2({placeholder:"Выберите песню",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});};});};}});})(jQuery);function going(){if(!!$('#letter').val()&&!$('#band').val()&&!$('#song').val()){window.location.href='/songs/'+$('#letter').val();}else if(!!$('#letter').val()&&!!$('#band').val()&&!$('#song').val()){window.location.href='/songs/'+$('#letter').val()+$('#band').val();}else if(!!$('#letter').val()&&!!$('#band').val()&&!!$('#song').val()){window.location.href='/songs/'+$('#letter').val()+$('#band').val()+$('#song').val();}else{window.location.href='/';}}
+</script>
+
+<div align="center">
+<span style="width:270px; display: inline-table; text-align:center; vertical-align:middle;">
+<div align="left" class="container_select"><select name="select" id="letter">
+<option value="">Выберите букву (цифру)</option>
+<option value="0/">0</option>
+<option value="1/">1</option>
+<option value="2/">2</option>
+<option value="3/">3</option>
+<option value="4/">4</option>
+<option value="5/">5</option>
+<option value="6/">6</option>
+<option value="7/">7</option>
+<option value="8/">8</option>
+<option value="9/">9</option>
+<option value="a/">A</option>
+<option value="b/">B</option>
+<option value="c/">C</option>
+<option value="d/">D</option>
+<option value="e/">E</option>
+<option value="f/">F</option>
+<option value="g/">G</option>
+<option value="h/">H</option>
+<option value="i/">I</option>
+<option value="j/">J</option>
+<option value="k/">K</option>
+<option value="l/">L</option>
+<option value="m/">M</option>
+<option value="n/">N</option>
+<option value="o/">O</option>
+<option value="p/">P</option>
+<option value="q/">Q</option>
+<option value="r/">R</option>
+<option value="s/">S</option>
+<option value="t/">T</option>
+<option value="u/">U</option>
+<option value="v/">V</option>
+<option value="w/">W</option>
+<option value="x/">X</option>
+<option value="y/">Y</option>
+<option value="z/">Z</option>
+</select></div>
+<div align="left" class="container_select"><select name="select2" disable="disable" id="band"><option value="">Выберите исполнителя</option></select></div>
+<div align="left" class="container_select"><select name="select3" disable="disable" id="song"><option value="">Выберите песню</option></select></div>
+</span>
+<span style="display:inline-table; width:35%; margin-bottom:20px; margin-top:10px;">
+	<input disabled="disabled" name="button" type="button" id="button" style="font-size:0.95em; padding:3px 10px 4px 10px;" onclick="going()" value="Перейти" /></span>
+</div>
+
+</div>      <div id="az_nav" class="col">
+<div id="az_nav_top" align="center">Выберите исполнителя по первой букве (цифре):</div>
+<ul>
+<li><a  href="/songs/0/">0</a></li>
+<li><a  href="/songs/1/">1</a></li>
+<li><a  href="/songs/2/">2</a></li>
+<li><a  href="/songs/3/">3</a></li>
+<li><a  href="/songs/4/">4</a></li>
+<li><a  href="/songs/5/">5</a></li>
+<li><a  href="/songs/6/">6</a></li>
+<li><a  href="/songs/7/">7</a></li>
+<li><a  href="/songs/8/">8</a></li>
+<li><a  href="/songs/9/">9</a></li>
+<li><a  href="/songs/a/">A</a></li>
+<li><a  href="/songs/b/">B</a></li>
+<li><a  href="/songs/c/">C</a></li>
+<li><a  href="/songs/d/">D</a></li>
+<li><a  href="/songs/e/">E</a></li>
+<li><a  href="/songs/f/">F</a></li>
+<li><a  href="/songs/g/">G</a></li>
+<li><a  href="/songs/h/">H</a></li>
+<li><a  href="/songs/i/">I</a></li>
+<li><a  href="/songs/j/">J</a></li>
+<li><a  href="/songs/k/">K</a></li>
+<li><a  href="/songs/l/">L</a></li>
+<li><a  href="/songs/m/">M</a></li>
+<li><a  href="/songs/n/">N</a></li>
+<li><a  href="/songs/o/">O</a></li>
+<li><a  href="/songs/p/">P</a></li>
+<li><a  href="/songs/q/">Q</a></li>
+<li><a class="current" href="/songs/r/">R</a></li>
+<li><a  href="/songs/s/">S</a></li>
+<li><a  href="/songs/t/">T</a></li>
+<li><a  href="/songs/u/">U</a></li>
+<li><a  href="/songs/v/">V</a></li>
+<li><a  href="/songs/w/">W</a></li>
+<li><a  href="/songs/x/">X</a></li>
+<li><a  href="/songs/y/">Y</a></li>
+<li><a  href="/songs/z/">Z</a></li>
+<div style="clear:both;"></div>
+</ul>
+</div>    </div>
+    <div class="row">
+<div id="songs_nav" class="col noprint">
+
+<div id="hide_songs_nav">&larr;</div>
+<div id="show_songs_nav">&rarr;</div>
+
+<div id="songs_nav_top" align="center">Выберите имя/название:</div>
+
+<!-- Начало подменю активной группы -->
+<ul>
+    
+		          <li><a style="display:block; width:inherit;" href="/songs/r/rolling_stones/">Rolling Stones, The:</a>
+            <div class="list_songs"></div>
+          </li>
+                  <ul>
+			            											<li><a href="19th_nervous_breakdown.html">19th Nervous Breakdown*</a></li>
+										            											<li><a href="all_of_your_love.html">All of Your Love</a></li>
+										            											<li class="active">Angie</li>
+										            											<li><a href="anybody_seen_my_baby.html">Anybody Seen My Baby</a></li>
+										            											<li><a href="as_tears_go_by.html">As Tears Go by*</a></li>
+										            											<li><a href="beast_of_burden.html">Beast of Burden</a></li>
+										            											<li><a href="blue_and_lonesome.html">Blue And Lonesome</a></li>
+										            											<li><a href="break_the_spell.html">Break the Spell</a></li>
+										            											<li><a href="brown_sugar.html">Brown Sugar*</a></li>
+										            											<li><a href="commit_a_crime.html">Commit a Crime</a></li>
+										            											<li><a href="dandelion.html">Dandelion</a></li>
+										            											<li><a href="doom_and_gloom.html">Doom And Gloom</a></li>
+										            											<li><a href="flight_505.html">Flight 505</a></li>
+										            											<li><a href="fortune_teller.html">Fortune Teller</a></li>
+										            											<li><a href="gimme_shelter.html">Gimme Shelter</a></li>
+										            											<li><a href="i_can_t_get_no_satisfaction.html">(I Can't Get No) Satisfaction</a></li>
+										            											<li><a href="i_gotta_go.html">I Gotta Go</a></li>
+										            											<li><a href="i_m_free.html">I’m Free</a></li>
+										            											<li><a href="if_you_need_me.html">If You Need Me</a></li>
+										            											<li><a href="it_s_only_rock_n_roll_but_i_like_it.html">It&#039;s Only Rock &#039;n&#039; Roll (But I Like It)</a></li>
+										            											<li><a href="jumpin_jack_flash.html">Jumpin&#039; Jack Flash</a></li>
+										            											<li><a href="just_your_fool.html">Just Your Fool</a></li>
+										            											<li><a href="laugh_i_nearly_died.html">Laugh I Nearly Died</a></li>
+										            											<li><a href="living_in_a_ghost_town.html">Living in a Ghost Town</a></li>
+										            											<li><a href="love_in_vain.html">Love in Vain</a></li>
+										            											<li><a href="love_is_strong.html">Love Is Strong</a></li>
+										            											<li><a href="mercy_mercy.html">Mercy Mercy*</a></li>
+										            											<li><a href="miss_you.html">Miss You</a></li>
+										            											<li><a href="mother_s_little_helper.html">Mother's Little Helper</a></li>
+										            											<li><a href="my_good_thing.html">Everybody Knows about My Good Thing</a></li>
+										            											<li><a href="out_of_control.html">Out of Control</a></li>
+										            											<li><a href="paint_it_black.html">Paint It Black</a></li>
+										            											<li><a href="play_with_fire.html">Play with Fire*</a></li>
+										            											<li><a href="rain_fall_down.html">Rain Fall Down</a></li>
+										            											<li><a href="ride_em_on_down.html">Ride &#039;Em on Down*</a></li>
+										            											<li><a href="ruby_tuesday.html">Ruby Tuesday</a></li>
+										            											<li><a href="saint_of_me.html">Saint of Me</a></li>
+										            											<li><a href="scarlet.html">Scarlet</a></li>
+										            											<li><a href="she_s_a_rainbow.html">She&#039;s a Rainbow</a></li>
+										            											<li><a href="sister_morphine.html">Sister Morphine</a></li>
+										            											<li><a href="sympathy_for_the_devil_neptunes_remix.html">Sympathy for the Devil (Neptunes Remix)*</a></li>
+										            											<li><a href="take_it_or_leave_it.html">Take It Or Leave It</a></li>
+										            											<li><a href="the_streets_of_love.html">The Streets of Love</a></li>
+										            											<li><a href="under_my_thumb.html">Under My Thumb</a></li>
+										            											<li><a href="wild_horses.html">Wild Horses*</a></li>
+										            											<li><a href="you_better_move_on.html">You Better Move On</a></li>
+										            											<li><a href="you_can_t_always_get_what_you_want.html">You Can&#039;t Always Get What You Want*</a></li>
+										            
+			<!-- Ajax загрузка оставшихся переводов, если их количество превышает 250. Начало -->
+						<div class="songs_loading"></div>
+			<script type="text/javascript">
+			$('#show_more_songs').click(function (){ 
+			$.ajax({
+						  type: "POST",
+						  url: "/ajax/more_songs.php",
+						  data: "folder_path=/songs/r/rolling_stones&name_song=angie&imax=250",
+						  beforeSend: function(){
+										//Показываем прелоадер 
+										$('.songs_loading').show(200);
+									  },
+						  complete: function() {
+										//Уничтожаем прелоадер
+										$(".songs_loading").slideUp('fast', function(){ $(this).remove(); });
+									  },
+						  success: function(result_songs)
+							  {
+								  $('#list_more_songs').html(result_songs);
+								  $('.more_songs').slideDown('fast');
+							  },
+						  error: function()
+						  {
+							  alert('При запросе переводов возникли проблемы!');
+						  }
+					});
+					$("#show_more_songs").hide();
+			});
+			</script>	
+			<!-- Ajax загрузка оставшихся переводов, если их количество превышает 250. Конец. -->
+          </ul>
+<br>
+          
+
+
+
+
+<!-- Конец подменю активной группы -->          
+
+<div></div> 
+       
+<div id="songs_nav_top" align="center">По популярности:</div>
+<li><a href="/songs/r/rammstein/">Rammstein</a>
+  <div class="list_songs" data-href="/songs/r/rammstein/" title="Cписок переводов Rammstein">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rihanna/">Rihanna</a>
+  <div class="list_songs" data-href="/songs/r/rihanna/" title="Cписок переводов Rihanna">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/red_hot_chili_peppers/">Red Hot Chili Peppers</a>
+  <div class="list_songs" data-href="/songs/r/red_hot_chili_peppers/" title="Cписок переводов Red Hot Chili Peppers">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/radiohead/">Radiohead</a>
+  <div class="list_songs" data-href="/songs/r/radiohead/" title="Cписок переводов Radiohead">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/robbie_williams/">Robbie Williams</a>
+  <div class="list_songs" data-href="/songs/r/robbie_williams/" title="Cписок переводов Robbie Williams">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/roxette/">Roxette</a>
+  <div class="list_songs" data-href="/songs/r/roxette/" title="Cписок переводов Roxette">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rick_astley/">Rick Astley</a>
+  <div class="list_songs" data-href="/songs/r/rick_astley/" title="Cписок переводов Rick Astley">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rasmus/">Rasmus, The</a>
+  <div class="list_songs" data-href="/songs/r/rasmus/" title="Cписок переводов Rasmus, The">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rag_n_bone_man/">Rag'n'Bone Man</a>
+  <div class="list_songs" data-href="/songs/r/rag_n_bone_man/" title="Cписок переводов Rag'n'Bone Man">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li class="current">Rolling Stones, The</li>
+<li><a href="/songs/r/rae_sremmurd/">Rae Sremmurd</a>
+  <div class="list_songs" data-href="/songs/r/rae_sremmurd/" title="Cписок переводов Rae Sremmurd">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ray_charles/">Ray Charles</a>
+  <div class="list_songs" data-href="/songs/r/ray_charles/" title="Cписок переводов Ray Charles">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rem/">REM (R.E.M.)</a>
+  <div class="list_songs" data-href="/songs/r/rem/" title="Cписок переводов REM (R.E.M.)">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/reamonn/">Reamonn</a>
+  <div class="list_songs" data-href="/songs/r/reamonn/" title="Cписок переводов Reamonn">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/royksopp/">Royksopp</a>
+  <div class="list_songs" data-href="/songs/r/royksopp/" title="Cписок переводов Royksopp">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/roy_orbison/">Roy Orbison</a>
+  <div class="list_songs" data-href="/songs/r/roy_orbison/" title="Cписок переводов Roy Orbison">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rise_against/">Rise Against</a>
+  <div class="list_songs" data-href="/songs/r/rise_against/" title="Cписок переводов Rise Against">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ruth_b/">Ruth B</a>
+  <div class="list_songs" data-href="/songs/r/ruth_b/" title="Cписок переводов Ruth B">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/red/">Red</a>
+  <div class="list_songs" data-href="/songs/r/red/" title="Cписок переводов Red">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ricky_martin/">Ricky Martin</a>
+  <div class="list_songs" data-href="/songs/r/ricky_martin/" title="Cписок переводов Ricky Martin">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ryan_gosling/">Ryan Gosling</a>
+  <div class="list_songs" data-href="/songs/r/ryan_gosling/" title="Cписок переводов Ryan Gosling">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rita_ora/">Rita Ora</a>
+  <div class="list_songs" data-href="/songs/r/rita_ora/" title="Cписок переводов Rita Ora">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/regina_spektor/">Regina Spektor</a>
+  <div class="list_songs" data-href="/songs/r/regina_spektor/" title="Cписок переводов Regina Spektor">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/robin_schulz/">Robin Schulz</a>
+  <div class="list_songs" data-href="/songs/r/robin_schulz/" title="Cписок переводов Robin Schulz">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rose_blackpink/">ROS&#201 (of BLACKPINK)</a>
+  <div class="list_songs" data-href="/songs/r/rose_blackpink/" title="Cписок переводов ROS&#201 (of BLACKPINK)">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rage_against_the_machine/">Rage Against The Machine</a>
+  <div class="list_songs" data-href="/songs/r/rage_against_the_machine/" title="Cписок переводов Rage Against The Machine">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/richard_marx/">Richard Marx</a>
+  <div class="list_songs" data-href="/songs/r/richard_marx/" title="Cписок переводов Richard Marx">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ricchi_e_poveri/">Ricchi E Poveri</a>
+  <div class="list_songs" data-href="/songs/r/ricchi_e_poveri/" title="Cписок переводов Ricchi E Poveri">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rainbow/">Rainbow</a>
+  <div class="list_songs" data-href="/songs/r/rainbow/" title="Cписок переводов Rainbow">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rob_zombie/">Rob Zombie</a>
+  <div class="list_songs" data-href="/songs/r/rob_zombie/" title="Cписок переводов Rob Zombie">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rosalia/">ROSAL&#205;A</a>
+  <div class="list_songs" data-href="/songs/r/rosalia/" title="Cписок переводов ROSAL&#205;A">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rockwell/">Rockwell</a>
+  <div class="list_songs" data-href="/songs/r/rockwell/" title="Cписок переводов Rockwell">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ruelle/">Ruelle</a>
+  <div class="list_songs" data-href="/songs/r/ruelle/" title="Cписок переводов Ruelle">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rednex/">Rednex</a>
+  <div class="list_songs" data-href="/songs/r/rednex/" title="Cписок переводов Rednex">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ramones/">Ramones</a>
+  <div class="list_songs" data-href="/songs/r/ramones/" title="Cписок переводов Ramones">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rod_stewart/">Rod Stewart</a>
+  <div class="list_songs" data-href="/songs/r/rod_stewart/" title="Cписок переводов Rod Stewart">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/r_kelly/">R. Kelly</a>
+  <div class="list_songs" data-href="/songs/r/r_kelly/" title="Cписок переводов R. Kelly">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/reel_2_real/">Reel 2 Real</a>
+  <div class="list_songs" data-href="/songs/r/reel_2_real/" title="Cписок переводов Reel 2 Real">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rock_mafia/">Rock Mafia</a>
+  <div class="list_songs" data-href="/songs/r/rock_mafia/" title="Cписок переводов Rock Mafia">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rachel_platten/">Rachel Platten</a>
+  <div class="list_songs" data-href="/songs/r/rachel_platten/" title="Cписок переводов Rachel Platten">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/raye/">Raye</a>
+  <div class="list_songs" data-href="/songs/r/raye/" title="Cписок переводов Raye">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/royal_blood/">Royal Blood</a>
+  <div class="list_songs" data-href="/songs/r/royal_blood/" title="Cписок переводов Royal Blood">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/radical_face/">Radical Face</a>
+  <div class="list_songs" data-href="/songs/r/radical_face/" title="Cписок переводов Radical Face">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rixton/">Rixton</a>
+  <div class="list_songs" data-href="/songs/r/rixton/" title="Cписок переводов Rixton">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/randy_newman/">Randy Newman</a>
+  <div class="list_songs" data-href="/songs/r/randy_newman/" title="Cписок переводов Randy Newman">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/robin_thicke/">Robin Thicke</a>
+  <div class="list_songs" data-href="/songs/r/robin_thicke/" title="Cписок переводов Robin Thicke">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/romeo_et_juliette/">Romeo et Juliette (мюзикл)</a>
+  <div class="list_songs" data-href="/songs/r/romeo_et_juliette/" title="Cписок переводов Romeo et Juliette (мюзикл)">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rodrigo_amarante/">Rodrigo Amarante</a>
+  <div class="list_songs" data-href="/songs/r/rodrigo_amarante/" title="Cписок переводов Rodrigo Amarante">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rembrandts/">Rembrandts, The</a>
+  <div class="list_songs" data-href="/songs/r/rembrandts/" title="Cписок переводов Rembrandts, The">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rob_thomas/">Rob Thomas</a>
+  <div class="list_songs" data-href="/songs/r/rob_thomas/" title="Cписок переводов Rob Thomas">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<div style="margin-top:20px;" align="center"><a class="grey" href="/songs/r/">Все <strong>611</strong> на букву <strong>R</strong></a></div>
+
+<script type="text/javascript">
+$('.list_songs').click(function (){
+if($(this).hasClass('hide_songs')) {
+	$(this).attr('class', 'list_songs');
+	$(this).html('<div class="list_songs_arrow">&darr;</div>');
+	$(this).next('.container').children('.all_songs').slideUp('fast', function(){ $(this).remove(); });
+} else {
+	var folder_path = $(this).attr('data-href');
+	var band = $(this).text();
+	$.ajax({
+				  type: "POST",
+				  url: "/ajax/all_songs.php",
+				  data: "folder_path="+folder_path,
+				  context: this,
+				  cache: false,
+				  beforeSend: function(){
+							//создаем div
+							var loading = $("<div>", {"class" : "songs_loading"});
+							//добавляем созданный div в конец
+							$(this).next('.container').after(loading);
+							$('.songs_loading').show(200);
+						  },
+				  complete: function() {
+							//уничтожаем div
+							$(".songs_loading").slideUp('fast', function(){ $(this).remove(); });
+						  },
+				  success: function(result_songs)
+				  {
+					  $(this).next('.container').html(result_songs);
+					  $('.all_songs').slideDown('fast');
+					  $(this).attr('class', 'hide_songs');
+					  $(this).html('<div class="list_songs_arrow">&uarr;</div>');
+				  },
+				  error: function()
+				  {
+					  alert('При запросе переводов возникли проблемы!');
+				  }
+			});
+}
+return false;
+});
+</script>
+
+
+       
+ 
+</ul>
+
+<br>
+</div>         
+
+
+    <div class="noprint">
+        <div style="display:table; border:none;" class="texts">
+        <div id="breadcrumbs_nav">
+<a href="/">Главная</a> 
+ 
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> 
+<a href="/songs/">Переводы песен</a>
+ 
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> 
+<a href="/songs/r/">R</a>
+ 
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> 
+<a href="/songs/r/rolling_stones/">Rolling Stones, The</a>
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> Angie 
+</div>                <div id="location_texts">
+
+			
+			
+			<div style="margin: 0 auto; display: inline-block;">
+			<a id="parallel" class="icons_location il_select" onClick="return false" href="#" title="Параллельно"><svg class="icons blue"><use xlink:href="#icon-parallel"></use></svg></a>
+			<a id="alternation" class="icons_location" onClick="return false" href="#" title="Построчно"><svg class="icons blue"><use xlink:href="#icon-alternation"></use></svg></a>
+			<a id="change" class="icons_location" onClick="return false" href="#" title="Оригинал / Перевод"><svg class="icons blue"><use xlink:href="#icon-change"></use></svg></a>
+			<a id="print" href="javascript:window.print()" title="Печать"><svg style="width: 27px; height: 27px; top: -2px; left: 0px;" class="icons blue"><use xlink:href="#icon-print"></use></a>
+			<a id="smilerate_place" href="/smilerate/" title="Позиция перевода в рейтинге SmileRate"><svg style="width:27px; height:27px; top: -1px; left: 0px;" class="icons white svg_shadow_gray"><use xlink:href="#icon-smilerate"></use></svg></a>
+			</div>
+
+        </div>
+                </div>
+    </div>
+
+<div class="texts col">
+      
+    
+<div style="overflow:hidden;">
+<h2 style="font-weight:bold;" class="original">Angie <span>(оригинал The Rolling Stones)</span></h2>
+<h2 style="font-weight:bold !important;" class="translate few">Энджи <span>(перевод <a href="/author/?id=2400" rel="nofollow">Jagerin из Санкт-Петербурга</a>)</span></h2>
+</div>
+<div id="click_area">  
+<div class="string_container"><div class="original">Angie, Angie, when will those clouds all disappear? </div>
+<div class="translate">Энджи, Энджи, когда же развеются все эти облака?</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, where will it lead us from here? </div>
+<div class="translate">
+Энджи, Энджи, куда нас это всё заведёт?</div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats </div>
+<div class="translate">
+Мы не чувствуем любви, в карманах денег нет,</div></div>
+<div class="string_container"><div class="original">
+You can't say we're satisfied </div>
+<div class="translate">
+Ты же не скажешь, что нам и этого хватит?</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, you can't say we never tried </div>
+<div class="translate">
+Но, Энджи... Энджи, ты же не скажешь, что мы не пытались?</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+Angie, you're beautiful, but ain't it time we said good-bye? </div>
+<div class="translate">
+Энджи... Ты прекрасна, но не пора ли прощаться?</div></div>
+<div class="string_container"><div class="original">
+Angie, I still love you, remember all those nights we cried? </div>
+<div class="translate">
+Энджи, я ещё люблю тебя, помнишь — мы ночами плакали?</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+All the dreams we held so close seemed to all go up in smoke </div>
+<div class="translate">
+Кажется, что все наши тайные мечты обратились в дым.</div></div>
+<div class="string_container"><div class="original">
+Let me whisper in your ear: </div>
+<div class="translate">
+Позволь же прошептать тебе на ухо:</div></div>
+<div class="noprint" align="center">
+<div class="texts_ads" style="padding-top:25px; padding-bottom:25px;">
+
+<div style="margin-left:10px; margin-right:10px;">
+<!-- Yandex.RTB R-A-2197-2 -->
+<div id="yandex_rtb_R-A-2197-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-2197-2",
+                renderTo: "yandex_rtb_R-A-2197-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+
+</div>
+</div>
+<div class="string_container"><div class="original">
+Angie, Angie, where will it lead us from here? </div>
+<div class="translate">
+Энджи, Энджи... Куда нас всё это заведёт?</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+Oh, Angie, don't you weep, all your kisses still taste sweet </div>
+<div class="translate">
+Ну, Энджи, не плачь — твои поцелуи ещё сладки,</div></div>
+<div class="string_container"><div class="original">
+I hate that sadness in your eyes </div>
+<div class="translate">
+А я ненавижу грусть в глазах твоих.</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, ain't it time we said good-bye? </div>
+<div class="translate">
+Но Энджи... Энджи, не пора ли прощаться?</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats </div>
+<div class="translate">
+Мы не чувствуем любви, в карманах денег нет,</div></div>
+<div class="string_container"><div class="original">
+You can't say we're satisfied </div>
+<div class="translate">
+Ты же не скажешь, что нам и этого хватит?</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+But Angie, I still love you, baby </div>
+<div class="translate">
+Но Энджи... Детка, я ещё люблю тебя, </div></div>
+<div class="string_container"><div class="original">
+Ev'rywhere I look I see your eyes </div>
+<div class="translate">
+Куда ни взгляну — везде твои глаза.</div></div>
+<div class="string_container"><div class="original">
+There ain't a woman that comes close to you </div>
+<div class="translate">
+Ни одна женщина с тобой не сравнится.</div></div>
+<div class="string_container"><div class="original">
+Come on baby, dry your eyes </div>
+<div class="translate">
+Ну же, детка, вытри слёзы.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, ain't it good to be alive? </div>
+<div class="translate">
+Но Энджи... Энджи... Разве не хорошо остаться в живых?</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, they can't say we never tried
+</div>
+<div class="translate">
+Энджи... Энджи... Никто не скажет, что мы не пытались.
+</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+<strong>Angie</strong></div>
+<div class="translate">
+<strong class='few'>Энджи (перевод Psychea)</strong></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+
+Angie, Angie, when will those clouds all disappear?</div>
+<div class="translate">
+
+Энджи, Энджи — о, рассеются ли эти облака?</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, where will it lead us from here?</div>
+<div class="translate">
+Энджи, Энджи — куда же мы теперь придём?</div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats</div>
+<div class="translate">
+В наших сердцах нет любви, в карманах — ни копейки...</div></div>
+<div class="string_container"><div class="original">
+You can't say we're satisfied</div>
+<div class="translate">
+Не будешь же ты утверждать, что и этого достаточно?</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, you can't say we never tried</div>
+<div class="translate">
+О, Энджи, Энджи, ты ведь не скажешь, что мы и не пробовали ничего предпринять...</div></div>
+<div class="string_container"><div class="original">
+Angie, you're beautiful, but ain't it time we said good-bye?</div>
+<div class="translate">
+Энджи, ты прекрасна — и всё же не пришло ли время сказать "Прощай"?</div></div>
+<div class="string_container"><div class="original">
+Angie, I still love you, remember all those nights we cried?</div>
+<div class="translate">
+Энджи, я по-прежнему люблю тебя — ты ведь помнишь, как мы плакали ночи напролёт...</div></div>
+<div class="string_container"><div class="original">
+All the dreams we held so close seemed to all go up in smoke</div>
+<div class="translate">
+Все наши мечты, которые мы, казалось, хранили так бережно, рассеялись, словно дым.</div></div>
+<div class="string_container"><div class="original">
+Let me whisper in your ear:</div>
+<div class="translate">
+Можно, я шепну тебе кое-что на ухо?</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, where will it lead us from here?</div>
+<div class="translate">
+- О, Энджи, куда же мы теперь придём?..</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">
+Oh, Angie, don't you weep, all your kisses still taste sweet</div>
+<div class="translate">
+Энджи, не плачь — твои поцелуи по-прежнему кажутся мне сладкими,</div></div>
+<div class="string_container"><div class="original">
+I hate that sadness in your eyes</div>
+<div class="translate">
+И горечь в твоих глазах ненавистна мне -</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, ain't it time we said good-bye?</div>
+<div class="translate">
+Но всё же не пришло ли время сказать "Прощай"?</div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats</div>
+<div class="translate">
+В наших сердцах — ни капли любви, в карманах — ни копейки, -</div></div>
+<div class="string_container"><div class="original">
+You can't say we're satisfied</div>
+<div class="translate">
+Не будешь же ты утверждать, что и этого для нас с тобой достаточно?</div></div>
+<div class="string_container"><div class="original">
+But Angie, I still love you, baby</div>
+<div class="translate">
+...Но, Энджи — я по-прежнему люблю тебя, малышка;</div></div>
+<div class="string_container"><div class="original">
+Ev'rywhere I look I see your eyes</div>
+<div class="translate">
+Я смотрю в твои глаза и понимаю — нет и не может быть женщины, которая стала бы твоей соперницей...</div></div>
+<div class="string_container"><div class="original">
+There ain't a woman that comes close to you</div>
+<div class="translate">
+Так что осуши слёзы, детка.</div></div>
+<div class="string_container"><div class="original">
+Come on Baby, dry your eyes</div>
+<div class="translate">
+О, Энджи, Энджи, разве это не прекрасно — быть просто  ж и в ы м?</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, ain't it good to be alive?</div>
+<div class="translate">
+Энджи, Энджи — ты ведь не скажешь, что мы и не пробовали ничего предпринять...
+</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, they can't say we never tried
+</div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+<strong class='few'>Энджи (перевод Victor из Киева)</strong></div></div>
+<div class="string_container"><div class="original">
+<strong>Angie</strong></div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+ Энджи, Энджи! Когда над нами разойдутся тучи-облака?</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, when will those clouds all disappear?</div>
+<div class="translate">
+ Энджи, Энджи! И что же станет с нами,</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, where will it lead us from here?</div>
+<div class="translate">
+ Когда любовь ушла и в душе пустота, в пальто — ни гроша — только дыра в кармане?</div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats</div>
+<div class="translate">
+ Говорить не спеши! Молчанье не обманет...</div></div>
+<div class="string_container"><div class="original">
+You can't say we're satisfied</div>
+<div class="translate">
+ Не спеши, Энджи, не говори, что мы не знали, что с нами может статься!</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, you can't say we never tried</div>
+<div class="translate">
+ И хотя ты так прекрасна, Энджи, не пора ли нам расстаться?</div></div>
+<div class="string_container"><div class="original">
+Angie, you're beautiful, but ain't it time we said good-bye?</div>
+<div class="translate">
+ Энджи, я всё ещё люблю тебя... Помнишь те ночи, когда нам хотелось плакать от любви?</div></div>
+<div class="string_container"><div class="original">
+Angie, I still love you, remember all those nights we cried?</div>
+<div class="translate">
+ Но наши нежные мечты унесло словно дым... </div></div>
+<div class="string_container"><div class="original">
+All the dreams we held so close seemed to all go up in smoke</div>
+<div class="translate">
+ Подставь своё ушко, я хочу тебе шепнуть:</div></div>
+<div class="string_container"><div class="original">
+Let me whisper in your ear:</div>
+<div class="translate">
+ "Энджи, что же станет с нами?"...</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, where will it lead us from here?</div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+ Не плачь — твои поцелуи по-прежнему сладки,</div></div>
+<div class="string_container"><div class="original">
+Oh, Angie, don't you weep, all your kisses still taste sweet</div>
+<div class="translate">
+ Но грусть в глазах горька,</div></div>
+<div class="string_container"><div class="original">
+I hate that sadness in your eyes</div>
+<div class="translate">
+ И может статься, я скажу тебе: "Энджи, Энджи — не пора ли нам расстаться?"</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, ain't it time we said good-bye?</div>
+<div class="translate">
+ Когда любовь ушла — в душе пустота, в пальто — ни гроша — только дыры в кармане?</div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats</div>
+<div class="translate">
+ Говорить не спеши! Молчанье не обманет...</div></div>
+<div class="string_container"><div class="original">
+You can't say we're satisfied</div>
+<div class="translate">
+ Энджи, я всё ещё люблю тебя...</div></div>
+<div class="string_container"><div class="original">
+But Angie, I still love you, baby</div>
+<div class="translate">
+ Твои глаза повсюду...</div></div>
+<div class="string_container"><div class="original">
+Ev'rywhere I look I see your eyes</div>
+<div class="translate">
+ Ты бесподобна и несравненна...</div></div>
+<div class="string_container"><div class="original">
+There ain't a woman that comes close to you</div>
+<div class="translate">
+ Утри же слезы!</div></div>
+<div class="string_container"><div class="original">
+Come on Baby, dry your eyes</div>
+<div class="translate">
+ Разве не стоит жить?</div></div>
+<div class="string_container"><div class="original">
+But Angie, Angie, ain't it good to be alive?</div>
+<div class="translate">
+ Энджи, Энджи! Нельзя сказать, что мы не пытались...
+
+</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, they can't say we never tried
+</div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+<strong class='few'>Ангел (перевод Евгений Рыбаченко из Братска)</strong></div></div>
+<div class="string_container"><div class="original">
+<strong>Angie</strong></div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+...ангел, ангел, в облаках не видно путь,</div></div>
+<div class="string_container"><div class="original">
+Angie, Angie, when will those clouds all disappear?</div>
+<div class="translate">
+  ангел, ангел, как с дороги не свернуть?</div></div>
+<div class="string_container"><div class="original">
+  Angie, Angie, where will it lead us from here?</div>
+<div class="translate">
+  ...без любви пуста душа, и в кармане ни гроша,</div></div>
+<div class="string_container"><div class="original">
+  With no loving in our souls and no money in our coats</div>
+<div class="translate">
+  словно злой судьбы печать,</div></div>
+<div class="string_container"><div class="original">
+  You can't say we're satisfied</div>
+<div class="translate">
+  ангел, ангел, надо что-нибудь менять,</div></div>
+<div class="string_container"><div class="original">
+  But Angie, Angie, you can't say we never tried</div>
+<div class="translate">
+  ангел, ты красива, надо злу сказать: "прощай",</div></div>
+<div class="string_container"><div class="original">
+  Angie, you're beautiful, but ain't it time we said good-bye?</div>
+<div class="translate">
+  ангел, любимая, ночи слёз уйдут пускай,</div></div>
+<div class="string_container"><div class="original">
+  Angie, I still love you, remember all those nights we cried?</div>
+<div class="translate">
+  часто мы мечту храним, а она пуста, как дым,</div></div>
+<div class="string_container"><div class="original">
+  All the dreams we held so close seemed to all go up in smoke</div>
+<div class="translate">
+  можно на ухо шепнуть,</div></div>
+<div class="string_container"><div class="original">
+  Let me whisper in your ear:</div>
+<div class="translate">
+  ангел, ангел, уведи куда-нибудь,</div></div>
+<div class="string_container"><div class="original">
+  Angie, Angie, where will it lead us from here?</div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+о, мой ангел, слёз не лей, сладкий поцелуй нужней,</div></div>
+<div class="string_container"><div class="original">
+Oh, Angie, don't you weep, all your kisses still taste sweet</div>
+<div class="translate">
+  и печаль уйдёт пускай,</div></div>
+<div class="string_container"><div class="original">
+  I hate that sadness in your eyes</div>
+<div class="translate">
+  ангел, ангел, надо злу сказать: "прощай",</div></div>
+<div class="string_container"><div class="original">
+  But Angie, Angie, ain't it time we said good-bye?</div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate">
+без любви пуста душа, и в кармане ни гроша,</div></div>
+<div class="string_container"><div class="original">
+With no loving in our souls and no money in our coats</div>
+<div class="translate">
+  словно злой судьбы печать,</div></div>
+<div class="string_container"><div class="original">
+  You can't say we're satisfied</div>
+<div class="translate">
+  но, ангел, моя любимая,</div></div>
+<div class="string_container"><div class="original">
+  But Angie, I still love you, baby</div>
+<div class="translate">
+  не хочу тебя терять,</div></div>
+<div class="string_container"><div class="original">
+  Ev'rywhere I look I see your eyes</div>
+<div class="translate">
+  ты, как свет в глазах опять,</div></div>
+<div class="string_container"><div class="original">
+  There ain't a woman that comes close to you</div>
+<div class="translate">
+  и уходит грусти дым,</div></div>
+<div class="string_container"><div class="original">
+  Come on Baby, dry your eyes</div>
+<div class="translate">
+  ангел, ангел, так приятно быть живым,</div></div>
+<div class="string_container"><div class="original">
+  But Angie, Angie, ain't it good to be alive?</div>
+<div class="translate">
+  ангел, ангел, надо что-нибудь менять...</div></div>
+<div class="string_container"><div class="original">
+  Angie, Angie, they can't say we never tried </div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div><div class="translate">
+*Вольный перевод, особенно вольный в понимании главного образа.<br /></div></div>
+<div class="empty_container"><div class="original"><br /></div><div class="translate"><br /></div></div>
+<div class="empty_container"><div class="original"><br /></div><div class="translate"><br /></div></div>
+<div id="quality" class="noprint"><div id="close_quality">Х</div><img src="/pict/quality.png" width="250" alt="Качество перевода подтверждено" title="Качество перевода подтверждено" /></div>
+</div> 
+<div class="noprint" align="center">
+
+<div style="padding-top:25px; padding-bottom:25px;">
+
+<!-- Yandex.RTB R-A-2197-4 -->
+<div id="yandex_rtb_R-A-2197-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-2197-4",
+                renderTo: "yandex_rtb_R-A-2197-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</div>
+
+</div>
+
+        
+<br>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+<script src="/js/few.js"></script>
+<script src="/js/scripts.js?v3.7"></script>
+
+<div id="footer" class="col">
+    <div id="footer_logo"><a style="border-bottom:0px;" href="/"><img src="/pict/amalgama_logo.png" title="Лингво-лаборатория «Амальгама»" width="55" height="55"></a></div>
+    <div id="footer_copy"> &copy; 2005-2022 Лингво-лаборатория «Амальгама».
+</div>
+
+<div style="margin-top:1.8em;" class="noprint">
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1092181-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script type="text/javascript" >
+var yaParams = {ip: "85.249.165.103"};
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(233350, "init", {
+	params:window.yaParams,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+
+
+
+<style>
+#ctrlcopy {
+    color:transparent;
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    width:1px;
+}
+</style>
+<script>
+// Скрипт источника
+jQuery.fn.addtocopy = function(usercopytxt) {
+    var options = {htmlcopytxt: '<br>More: <a href="'+window.location.href+'">'+window.location.href+'</a> <br>', minlen: 100, addcopyfirst: false}
+    jQuery.extend(options, usercopytxt);
+	var copy_sp = document.createElement('span');
+	copy_sp.id = 'ctrlcopy';
+	copy_sp.innerHTML = options.htmlcopytxt;
+	return this.each(function(){
+		jQuery(this).mousedown(function(){jQuery('#ctrlcopy').remove();});
+		jQuery(this).mouseup(function(){
+			if(window.getSelection){	//good times
+				var slcted=window.getSelection();
+				var seltxt=slcted.toString();
+				if(!seltxt||seltxt.length<options.minlen) return;
+				var nslct = slcted.getRangeAt(0);
+				seltxt = nslct.cloneRange();
+				seltxt.collapse(options.addcopyfirst);
+				seltxt.insertNode(copy_sp);
+				if (!options.addcopyfirst) nslct.setEndAfter(copy_sp);
+				slcted.removeAllRanges();
+				slcted.addRange(nslct);
+			} else if(document.selection){	//bad times
+				var slcted = document.selection;
+				var nslct=slcted.createRange();
+				var seltxt=nslct.text;
+				if (!seltxt||seltxt.length<options.minlen) return;
+				seltxt=nslct.duplicate();
+				seltxt.collapse(options.addcopyfirst);
+				seltxt.pasteHTML(copy_sp.outerHTML);
+				if (!options.addcopyfirst) {nslct.setEndPoint("EndToEnd",seltxt); nslct.select();}
+			}
+		});
+  });
+}
+$('html').addtocopy({htmlcopytxt: "<br /><br />Источник: <a href='" + document.location.href + "'>" + document.location.href + "</a><br /> &copy; Лингво-лаборатория «Амальгама»: <a href='https://www.amalgama-lab.com/'>www.amalgama-lab.com/</a>."});
+</script>
+</div>
+</body>
+</html>
+
+<!-- Runtime: 0.0124 Queries: 10 -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Перевод песен Rolling Stones, The: перевод песни Beast of Burden, текст песни. Лингво-лаборатория Амальгама.
+</title>
+<meta http-equiv="Description" content="Лингво-лаборатория Амальгама: перевод текста песни Beast of Burden группы Rolling Stones, The">
+<meta http-equiv="Keywords" content="перевод песен, Beast of Burden, Rolling Stones, The, лингво-лаборатория Амальгама, текст песни.">
+<link rel="canonical" href="https://www.amalgama-lab.com/songs/r/rolling_stones/beast_of_burden.html">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="theme-color" content="#3366ff">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" media="all" type="text/css" href="/style.css?v4.99" />
+<link rel="stylesheet" media="print" style="text/css" href="/style_p.css" />
+<script src="/js/jquery-2.2.4.min.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/pict/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/pict/favicons/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/pict/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/pict/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/pict/favicons/favicon-16x16.png">
+<link href="/manifest.json" rel="manifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#3366ff">
+<meta name="apple-mobile-web-app-title" content="Амальгама">
+<meta name="application-name" content="Амальгама">
+<meta name="msapplication-TileColor" content="#3366ff">
+<meta name="msapplication-config" content="/browserconfig.xml"></head>
+<body>
+<noscript>
+<div style="background:red; color:#fff; padding:5px;" align="center">Для корректной работы сайта необходимо включить Javascript в настройках браузера.</div>
+</noscript>
+
+<!--
+<div class="noprint">
+<a id="move_up" href="#" style="display: none; ">&uarr;</a>
+</div>
+-->
+
+<style type="text/css">
+#container {width:2560px; margin:auto; position: relative; height:52px; left:50%; margin-left:-1280px;}
+.background {z-index:1;}
+.forest {z-index:2;}
+.title {z-index:3;}
+.flowers {z-index:4;}
+.blur_flowers {z-index:5;}
+.background,.forest,.flowers,.blur_flowers,.title {position:absolute;}
+
+@media screen and (min-width: 0px) and (max-width: 1023px) {
+.background, .forest, .flowers, .blur_flowers { background-image: none; }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1920px) {
+.background, .forest, .flowers, .blur_flowers { 
+width:2560px;
+height:52px;
+}
+.background { 
+background-image:url(/pict/spring_2015/background_2.jpg);
+}
+.forest { 
+background-image:url(/pict/spring_2015/flowers_behind_2.png);
+}
+.flowers { 
+background-image:url(/pict/spring_2015/flowers_2.png);
+}
+.blur_flowers { 
+background-image:url(/pict/spring_2015/front.png);
+}
+}
+</style>
+
+<div class="noprint" style="border-bottom:gold 5px solid; position: relative; z-index:1;"></div>
+<div class="noprint" style="border-bottom:whitesmoke 1px solid"></div>
+
+<div class="noprint" onclick="location.href='/'" style="overflow:hidden; position:relative; cursor:hand; cursor:pointer; background: #3366ff;">
+	<div class="noprint" id="container">
+		<div class="background"></div>
+		<div class="forest"></div>
+<div align="center" class="title" style="width:2560px; height:52px;"><a class="top" href="/"><strong>Лингво-лаборатория «Амальгама»</strong></a><br><span style="margin-top: 28px; color: white; font-style: italic; font-weight:normal; font-family:Trebuchet MS; font-size:13px;">Мы стираем границы между языками</span></div>
+		<div class="flowers"></div>
+		<div class="blur_flowers"></div>
+    </div>
+</div>	
+
+<div id="ground" class="noprint" style="border-bottom:whitesmoke 1px solid"></div>
+<div class="noprint" style="border-bottom:gold 13px solid;"></div>
+
+
+<div class="row noprint">
+  <div id="header" class="col">
+    <div class="row">
+<div align="center" id="searchform" class="col">
+<style>#ya-site-form0 .ya-site-form__search-input{padding: 4px}#ya-site-form0 .ya-site-form__submit{margin:0;}</style>
+<div style="max-width:555px; padding-right:5px; padding-left:5px; height:3.3em; display:table-cell; vertical-align:middle;">
+<div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'/search/','arrow':false,'bg':'#ffd700','fontsize':16,'fg':'#000000','language':'ru','logo':'rb','publicname':'Лингво-лаборатория Амальгама','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2148731,'webopt':false,'websearch':false,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':'','input_placeholderColor':'#000000','input_borderColor':'#ffffff'}"><form action="//yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2148731"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+</div>
+</div>
+<div style="padding-right:10px;" id="button_main_nav" class="col"><a href="#" onClick="return false;" title="Главное меню"><svg class='icons white svg_shadow_menu'><use xlink:href='#icon-menu'></use></svg></a></div>
+	  </div>
+  </div>
+</div>
+
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-parallel" viewBox="0 0 48 48">
+<title>Параллельно</title>
+<path d="M 47.991824,13.68863 H 26.229475 V 35.540571 H 47.991824 Z M 45.861255,33.342266 H 28.414669 V 15.895676 H 45.861255 Z M 21.813198,13.68863 H 0.05084746 V 35.540571 H 21.813198 Z"/></path>
+</symbol>
+<symbol id="icon-alternation" viewBox="0 0 48 48">
+<title>Построчно</title>
+<path d="M 39.369533,39.243914 V 17.44487 H 17.480746 V 39.243914 Z M 19.682758,37.109756 V 19.633749 H 37.158766 V 37.109756 Z M 30.659985,17.44487 V 8.6893561 H 8.7930867 V 30.578143 l 8.7598923,-0.01751 V 17.427359 Z"/></path>
+</symbol>
+<symbol id="icon-change" viewBox="0 0 48 48">
+<title>Оригинал / Перевод</title>
+<path d="M 47.87674,47.804694 H 26.32139 V 26.160603 H 47.87674 Z M 45.766442,28.342328 H 28.4858 V 45.61864 H 45.766442 Z M 0.15801485,0.0859687 H 21.802106 V 21.730059 H 0.15801485 Z M 26.130923,8.7089736 h 10.789579 v 8.6251694 h 4.361285 l -5.376392,7.27025 -5.445653,-7.237783 H 34.78856 V 11.042207 H 26.165553 Z M 21.769639,39.045332 H 10.98006 V 30.422325 H 6.6187755 l 5.3763915,-7.272415 5.445653,7.237786 h -4.328817 v 6.324402 h 8.623006 z"/></path>
+</symbol>
+<symbol id="icon-fast" viewBox="0 0 44 44">
+<title>Мгновенный переход к переводу песни</title>
+<path d="M 32,20 H 16 l 8,10 z M 42,38 V 10 C 42,7.79 40.21,6 38,6 H 10 C 7.79,6 6,7.79 6,10 v 28 c 0,2.21 1.79,4 4,4 h 28 c 2.21,0 4,-1.79 4,-4 z M 10,38 V 10 h 28 v 28 z"/></path>
+</symbol>
+<symbol id="icon-close" viewBox="0 0 48 48">
+<title>Закрыть</title>
+<path d="M 44.988336,39.153503 31.979303,26.065259 44.988336,13.054812 c 0.544578,-0.543163 0.544578,-1.424388 0,-1.968965 L 39.081441,5.1803654 c -0.541749,-0.5445773 -1.422974,-0.5445773 -1.967552,0 L 24.126075,18.168181 11.216056,5.1803654 c -0.543163,-0.5445773 -1.4243877,-0.5445773 -1.9689654,0 L 3.3416094,11.085847 c -0.5431628,0.544577 -0.5431628,1.425802 0,1.968965 L 16.251628,26.042627 3.3430239,38.951231 c -0.5431628,0.543163 -0.5431628,1.424388 0,1.968965 l 5.9054812,5.905482 c 0.5431632,0.544577 1.4243879,0.544577 1.9689659,0 L 24.103443,33.939706 37.115304,47.027949 c 0.544578,0.544576 1.425802,0.544576 1.967551,0 l 5.906896,-5.905481 C 45.5315,40.57789 45.5315,39.696666 44.988351,39.153503 Z"/></path>
+</symbol>
+<symbol id="icon-list" viewBox="0 0 48 48">
+<title>Выбор исполнителя и названия перевода</title>
+<path d="m 4.3049532,21.866547 h 6.5659988 v 6.565998 H 4.3049532 Z m 0,13.132005 H 10.870952 V 41.56455 H 4.3049532 Z m 0,-26.2640086 H 10.870952 V 15.30054 H 4.3049532 Z M 17.43696,21.866547 h 26.264009 v 6.565998 H 17.43696 Z m 0,13.132005 H 43.700969 V 41.56455 H 17.43696 Z m 0,-26.2640086 H 43.700969 V 15.30054 H 17.43696 Z"/></path>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 48 48">
+<title>Меню</title>
+<path d="M 4.5084746,41.480228 V 34.974012 H 43.545767 v 6.506216 z m 0,-19.518647 H 43.545767 v 6.506216 H 4.5084746 Z m 0,-13.0124286 H 43.545767 V 15.455367 H 4.5084746 Z"/></path>
+</symbol> 
+<symbol id="icon-az" viewBox="0 0 48 48">
+<title>Выбор исполнителя по первой букве (цифре)</title>
+<path d="m 20.541122,34.018837 c 0.138585,0.415748 0.225636,0.74621 0.2594,0.98961 0.03376,0.243411 -0.01033,0.424636 -0.138581,0.548996 -0.127929,0.120842 -0.353562,0.193658 -0.676926,0.225646 -0.323351,0.03014 -0.769297,0.04084 -1.336061,0.04084 -0.589859,0 -1.050019,-0.0089 -1.378705,-0.02668 -0.328688,-0.01778 -0.580977,-0.04973 -0.755094,-0.106666 -0.174114,-0.05152 -0.294927,-0.122516 -0.364218,-0.214978 -0.06929,-0.09416 -0.127929,-0.213202 -0.174116,-0.364216 L 14.46664,30.600493 H 6.0362796 l -1.4231249,4.390185 c -0.046199,0.163458 -0.1066071,0.298485 -0.1829981,0.406857 -0.076397,0.110157 -0.1972121,0.197213 -0.3642198,0.259399 -0.1670092,0.06403 -0.4050846,0.108351 -0.7106737,0.129694 -0.305589,0.02125 -0.7088972,0.03735 -1.2063684,0.03735 -0.5312275,0 -0.9487481,-0.01958 -1.24900741,-0.05152 C 0.59962664,35.736901 0.38997858,35.655225 0.2744939,35.518395 0.15901061,35.383366 0.11814574,35.196822 0.15367703,34.956965 0.18920832,34.713554 0.2744939,34.390201 0.41307281,33.985123 L 7.336808,14.068504 c 0.069283,-0.195435 0.1492412,-0.355341 0.2434056,-0.477934 0.094157,-0.122517 0.2398518,-0.213201 0.4423944,-0.277165 0.2025427,-0.0639 0.4832584,-0.104857 0.8421493,-0.120843 0.3588886,-0.01597 0.8332647,-0.02668 1.4231217,-0.02668 0.682247,0 1.225913,0.0089 1.630996,0.02668 0.405084,0.01777 0.719556,0.05681 0.945195,0.120843 0.225639,0.0639 0.387317,0.159904 0.485034,0.286054 0.09771,0.126126 0.182999,0.300253 0.25229,0.520564 z M 10.234581,17.552535 h -0.01776 l -3.1749328,9.544346 h 6.3676338 z m 20.421194,9.439516 c 0,0.671592 -0.06222,1.142416 -0.190102,1.405358 -0.124321,0.262955 -0.330461,0.39976 -0.607627,0.39976 h -7.216887 c -0.289597,0 -0.497467,-0.135027 -0.625394,-0.40686 -0.127928,-0.270066 -0.190102,-0.737332 -0.190102,-1.396478 0,-0.646716 0.0639,-1.105095 0.190102,-1.369827 0.126126,-0.264721 0.335797,-0.399747 0.625394,-0.399747 h 7.216887 c 0.138582,0 0.259399,0.03014 0.357117,0.08708 0.09765,0.05681 0.181227,0.156347 0.25051,0.29493 0.0693,0.138583 0.119039,0.325142 0.149237,0.556108 0.02667,0.227411 0.04084,0.502798 0.04084,0.829706 z m 17.264032,6.921957 c 0,0.334017 -0.01416,0.620072 -0.03903,0.851039 -0.03014,0.230967 -0.07279,0.419291 -0.131469,0.561429 -0.05681,0.145694 -0.126126,0.248733 -0.214981,0.305586 -0.08708,0.05513 -0.184768,0.08708 -0.287819,0.08708 H 34.010152 c -0.463714,0 -0.819053,-0.133248 -1.067786,-0.399762 -0.252287,-0.264718 -0.374884,-0.653812 -0.374884,-1.161945 v -0.763969 c 0,-0.232745 0.01597,-0.444166 0.04265,-0.632492 0.03014,-0.188337 0.0764,-0.385551 0.145692,-0.580985 0.06931,-0.193658 0.174114,-0.408635 0.305584,-0.641382 0.131473,-0.229188 0.298488,-0.506353 0.492146,-0.83326 l 8.70929,-13.810157 h -8.640009 c -0.138585,0 -0.257622,-0.03195 -0.353562,-0.09598 -0.09945,-0.06403 -0.181214,-0.165239 -0.243401,-0.303822 -0.06222,-0.138581 -0.111949,-0.325127 -0.13858,-0.556093 -0.03014,-0.230968 -0.04445,-0.508134 -0.04445,-0.833262 0,-0.346462 0.01777,-0.637838 0.04445,-0.875917 0.02846,-0.238066 0.07639,-0.42818 0.13858,-0.572083 0.06222,-0.143915 0.143904,-0.246965 0.243401,-0.30382 0.09945,-0.05681 0.214977,-0.08708 0.353562,-0.08708 h 12.404801 c 0.476155,0 0.826162,0.120842 1.051794,0.364216 0.225647,0.24341 0.335798,0.584528 0.335798,1.023376 v 0.851026 c 0,0.312696 -0.01416,0.580974 -0.04084,0.806618 -0.03194,0.225633 -0.08169,0.445945 -0.156349,0.659146 -0.0764,0.213203 -0.177671,0.433515 -0.305584,0.659148 -0.126126,0.225644 -0.28782,0.493923 -0.485033,0.80662 l -8.57073,13.621835 h 9.386219 c 0.220313,0 0.389095,0.13857 0.5028,0.413957 0.113757,0.278943 0.174115,0.762198 0.174115,1.440888 z"/></path>
+</symbol>
+<symbol id="icon-smilerate" viewBox="0 0 48 48">
+<title>SmileRate</title>
+<path d="m 35.296693,29.588884 q -1.135766,3.714262 -4.236104,5.985797 -3.100338,2.271534 -6.998778,2.271534 -3.898444,0 -6.998778,-2.271534 -3.100337,-2.271535 -4.236103,-5.985797 -0.245572,-0.767413 0.122784,-1.488779 0.368357,-0.721361 1.166463,-0.966933 0.767409,-0.245572 1.488774,0.122784 0.721366,0.368356 0.966938,1.166462 0.76741,2.455713 2.839416,3.975185 2.07201,1.519472 4.650506,1.519472 2.578497,0 4.650503,-1.519472 2.072006,-1.519472 2.839419,-3.975185 0.245568,-0.798106 0.982285,-1.166462 0.736712,-0.368356 1.504121,-0.122784 0.767409,0.245572 1.135769,0.966933 0.368357,0.721366 0.122785,1.488779 z M 20.132671,16.235949 q 0,1.62691 -1.151112,2.778026 -1.151116,1.151112 -2.778025,1.151112 -1.62691,0 -2.778026,-1.151112 -1.151116,-1.151116 -1.151116,-2.778026 0,-1.626909 1.151116,-2.778025 1.151116,-1.151115 2.778026,-1.151115 1.626909,0 2.778025,1.151115 1.151112,1.151116 1.151112,2.778025 z m 15.716556,0 q 0,1.62691 -1.151116,2.778026 -1.151112,1.151112 -2.778022,1.151112 -1.626909,0 -2.778025,-1.151112 -1.151115,-1.151116 -1.151115,-2.778026 0,-1.626909 1.151115,-2.778025 1.151116,-1.151115 2.778025,-1.151115 1.62691,0 2.778022,1.151115 1.151116,1.151116 1.151116,2.778025 z m 7.858278,7.858279 q 0,-3.990531 -1.565515,-7.628057 Q 40.576474,12.82865 37.95193,10.204105 35.327389,7.5795648 31.689864,6.0140491 28.052342,4.4485297 24.061811,4.4485297 q -3.99053,0 -7.628056,1.5655194 -3.637522,1.5655157 -6.262066,4.1900559 -2.6245411,2.624545 -4.1900566,6.262066 -1.5655193,3.637526 -1.5655193,7.628057 0,3.990531 1.5655193,7.628053 1.5655155,3.637525 4.1900566,6.262065 2.624544,2.624544 6.262066,4.19006 3.637526,1.565516 7.628056,1.565516 3.990531,0 7.628053,-1.565516 3.637525,-1.565516 6.262066,-4.19006 2.624544,-2.62454 4.19006,-6.262065 1.565515,-3.637522 1.565515,-7.628053 z m 3.929141,0 q 0,6.415547 -3.161732,11.833462 -3.161727,5.417913 -8.57964,8.57964 -5.417916,3.161732 -11.833463,3.161732 -6.415547,0 -11.833462,-3.161732 Q 6.8104361,41.345603 3.6487043,35.92769 0.48697622,30.509775 0.48697622,24.094228 q 0,-6.415547 3.16172808,-11.833463 3.1617318,-5.4179122 8.5796447,-8.579644 5.417915,-3.16172814 11.833462,-3.16172814 6.415547,0 11.833463,3.16172814 5.417913,3.1617318 8.57964,8.579644 3.161732,5.417916 3.161732,11.833463 z"/></path>
+</symbol>
+<symbol id="icon-print" viewBox="0 0 48 48">
+<title>Печать</title>
+<path d="m 43.655516,23.190296 h -3.252027 c -0.448636,0 -0.818237,0.364952 -0.818237,0.818237 0,0.453284 0.369601,0.818237 0.818237,0.818237 h 3.252027 c 1.373801,0 2.489579,1.118102 2.489579,2.487254 v 16.346142 c 0,1.366828 -1.115778,2.48493 -2.489579,2.48493 H 4.3568996 c -1.371477,0 -2.48493,-1.118102 -2.48493,-2.48493 V 27.314024 c 0,-1.369152 1.113453,-2.487254 2.48493,-2.487254 h 3.254351 c 0.453285,0 0.818237,-0.364953 0.818237,-0.818237 0,-0.453285 -0.364952,-0.818237 -0.818237,-0.818237 h -3.254351 c -2.275722,0 -4.12605304,1.850331 -4.12605304,4.123728 v 16.346142 c 0,2.273397 1.85033104,4.123728 4.12605304,4.123728 H 43.655516 c 2.278046,0 4.128377,-1.850331 4.128377,-4.123728 V 27.314024 c 0,-2.273397 -1.850331,-4.123728 -4.128377,-4.123728 z m -19.649309,-6.22046 h -8.198641 c -0.45096,0 -0.820561,0.364952 -0.820561,0.818237 0,0.453284 0.369601,0.820561 0.820561,0.820561 h 8.198641 c 0.453285,0 0.820562,-0.367277 0.820562,-0.820561 0,-0.453285 -0.367277,-0.818237 -0.820562,-0.818237 z m 8.200966,-5.051219 H 15.807566 c -0.45096,0 -0.820561,0.367277 -0.820561,0.820562 0,0.453285 0.369601,0.820561 0.820561,0.820561 h 16.399607 c 0.448635,0 0.820561,-0.367276 0.820561,-0.820561 0,-0.453285 -0.371926,-0.820562 -0.820561,-0.820562 z m 0,-5.1279281 H 15.807566 c -0.45096,0 -0.820561,0.367276 -0.820561,0.820561 0,0.453285 0.369601,0.820561 0.820561,0.820561 h 16.399607 c 0.448635,0 0.820561,-0.367276 0.820561,-0.820561 0,-0.453285 -0.371926,-0.820561 -0.820561,-0.820561 z M 12.311463,3.8501504 c 0,-1.092533 0.885649,-1.9781809 1.975856,-1.9781809 H 33.72742 c 1.090207,0 1.97818,0.8856479 1.97818,1.9781809 V 27.083895 H 12.311463 Z M 7.6112506,27.083895 c -0.453285,0 -0.820561,0.364952 -0.820561,0.818237 0,0.453284 0.367276,0.820561 0.820561,0.820561 H 40.403489 c 0.453285,0 0.820562,-0.367277 0.820562,-0.820561 0,-0.453285 -0.367277,-0.818237 -0.820562,-0.818237 H 37.346723 V 3.8501504 c 0,-1.9967769 -1.622526,-3.61930377 -3.619303,-3.61930377 H 14.287319 c -1.996777,0 -3.616979,1.62252687 -3.616979,3.61930377 V 27.083895 Z m 8.7565294,9.723537 c 0,0.869377 0.699685,1.566738 1.562088,1.566738 0.867053,0 1.566738,-0.697361 1.566738,-1.566738 0,-0.864728 -0.699685,-1.566738 -1.566738,-1.566738 -0.862403,0 -1.562088,0.70201 -1.562088,1.566738 z m -5.623055,0.0023 c 0,0.634599 -0.518371,1.155295 -1.1576184,1.155295 -0.639247,0 -1.157619,-0.520696 -1.157619,-1.155295 0,-0.636923 0.518372,-1.155294 1.157619,-1.155294 0.6392474,0 1.1576184,0.518371 1.1576184,1.155294 z m -3.9540354,0 c 0,1.541168 1.252925,2.796418 2.796417,2.796418 1.5411674,0 2.7940924,-1.25525 2.7940924,-2.796418 0,-1.543492 -1.252925,-2.798742 -2.7940924,-2.798742 -1.543492,0 -2.796417,1.25525 -2.796417,2.798742 z"/></path>
+</symbol>
+</defs>
+</svg><div class="row">
+<div id="main_nav" class="col noprint">
+<div id="main_nav_top">Меню:</div>
+<div id="block_main_nav" class="left_column col">
+      <ul>
+      <li><a href="/">Главная</a></li>      <li><a href="/songs/">Перевод песен</a></li>      <li><a style="color:#FFF;" href="/smilerate/" title="Рейтинг переводов песен «SmileRate»"><span class="smile_S">S</span><span class="smile_m">m</span><span class="smile_i">i</span><span class="smile_l">l</span><span class="smile_e">e</span><span class="rate_R">R</span><span class="rate_a">a</span><span class="rate_t">t</span><span class="rate_e">e</span></a></li>      <li><a href="/prizes/">Призовые конкурсы</a></li>      <li><a href="/prizes/guaranteed/">Гарантированные призы</a></li>      <li><a href="/prizes/archive/">Архив конкурсов</a></li>      <li><a href="/collections/">Коллекции переводов</a></li>      <li><a href="/suggestsong/">Отправить свой перевод</a></li>      <li><a href="/reviews/">Отзывы</a></li>      <li><a href="/contacts/">Контакты</a></li>    </ul>
+</div>
+
+<div style="padding:10px; clear:both;" align="center">
+<a target="_blank" style="border-bottom:0px;" href="https://play.google.com/store/apps/details?id=com.amalgama_lab"><img src="/pict/google-play-badge.png" width="200" alt="Android приложение от Амальгамы" title="Android приложение от Амальгамы" /></a>
+</div>
+
+<div class="left_column col"></div>
+  
+    <div id="popular_translations" class="left_column col"><strong>Популярные переводы:</strong><br>
+      <ul type="square" style="color:#dcdcdc; padding-left:21px; padding-right:5px;">
+<li><a href="/songs/t/tom_odell/another_love.html"><strong>Tom Odell</strong> - Another Love</a></li>
+<li><a href="/songs/j/john_lennon/imagine.html"><strong>John Lennon</strong> - Imagine</a></li>
+<li><a href="/songs/s/stromae/papaoutai.html"><strong>Stromae</strong> - Papaoutai</a></li>
+<li><a href="/songs/h/harry_styles/as_it_was.html"><strong>Harry Styles</strong> - As It Was</a></li>
+<li><a href="/songs/s/silk_sonic/leave_the_door_open.html"><strong>Silk Sonic</strong> - Leave the Door Open</a></li>
+<li><a href="/songs/e/elley_duhe/middle_of_the_night.html"><strong>Elley Duhe</strong> - MIDDLE OF THE NIGHT</a></li>
+<li><a href="/songs/g/gayle/abcdefu.html"><strong>GAYLE</strong> - abcdefu</a></li>
+<li><a href="/songs/i/imagine_dragons_and_jid/enemy.html"><strong>Imagine Dragons & JID</strong> - Enemy</a></li>
+<li><a href="/songs/n/nirvana/smells_like_teen_spirit.html"><strong>Nirvana</strong> - Smells Like Teen Spirit</a></li>
+<li><a href="/songs/h/hozier/take_me_to_church.html"><strong>Hozier</strong> - Take Me to Church</a></li>
+<li><a href="/songs/i/imagine_dragons/believer.html"><strong>Imagine Dragons</strong> - Believer</a></li>
+<li><a href="/songs/l/lara_fabian/je_t_aime.html"><strong>Lara Fabian</strong> - Je T'Aime</a></li>
+<li><a href="/songs/l/lp/lost_on_you.html"><strong>LP</strong> - Lost on You</a></li>
+<li><a href="/songs/c/cranberries/zombie.html"><strong>The Cranberries</strong> - Zombie</a></li>
+<li><a href="/songs/n/neighbourhood/sweater_weather.html"><strong>The Neighbourhood</strong> - Sweater Weather</a></li>
+      </ul>
+    </div>
+    
+    <div class="left_column col"></div>
+    
+    <div id="fresh_translations" class="left_column col"><strong>Свежие переводы:</strong>  
+		  
+   <div id="calendar">
+		    	    
+  <div style="margin: 12px;" align="center">Переводы песен<br /> от <strong>06.04.2022</strong>:</div><ul type="square" style="color:#dcdcdc; padding-left: 10px; margin-left: 10px; border-bottom:1px dashed gainsboro; padding-bottom: 10px;"><li><a class="grey" href="/songs/b/below/across_the_dark_river.html"><strong>Below</strong> - Across the Dark River</a></li>
+<li><a class="grey" href="/songs/b/below/bid_you_farewell.html"><strong>Below</strong> - Bid You Farewell</a></li>
+<li><a class="grey" href="/songs/b/below/ghost_of_a_shepherd.html"><strong>Below</strong> - Ghost of a Shepherd</a></li>
+<li><a class="grey" href="/songs/b/below/mare_of_the_night.html"><strong>Below</strong> - Mare of the Night</a></li>
+<li><a class="grey" href="/songs/b/below/the_whitechapel_murderer.html"><strong>Below</strong> - The Whitechapel Murderer</a></li>
+<li><a class="grey" href="/songs/b/below/trapped_under_ground.html"><strong>Below</strong> - Trapped Under Ground</a></li>
+<li><a href="/songs/c/charli_xcx/sorry_if_i_hurt_you.html"><strong>Charli XCX</strong> - Sorry If I Hurt You</a></li>
+<li><a href="/songs/c/chuck_berry/childhood_sweetheart.html"><strong>Chuck Berry</strong> - Childhood Sweetheart</a></li>
+<li><a href="/songs/c/chuck_berry/down_the_road_a_piece.html"><strong>Chuck Berry</strong> - Down the Road a Piece</a></li>
+<li><a href="/songs/c/chuck_berry/i_m_talking_about_you.html"><strong>Chuck Berry</strong> - I'm Talking About You</a></li>
+
+<div style="display:none; border-top:1px dashed gold; padding-top:5px; margin-top:5px;" id="more_bands_1">
+<li><a href="/songs/c/chuck_berry/the_way_it_was_before.html"><strong>Chuck Berry</strong> - The Way It Was Before</a></li>
+<li><a href="/songs/c/chuck_berry/worried_life_blues.html"><strong>Chuck Berry</strong> - Worried Life Blues</a></li>
+<li><a href="/songs/c/clipse/i_m_not_you.html"><strong>Clipse feat. Jadakiss, Styles P &amp; Roscoe P. Coldchain</strong> - I&#039;m Not You</a></li>
+<li><a class="grey" href="/songs/e/emma_muscat/i_am_what_i_am.html"><strong>Emma Muscat</strong> - I Am What I Am</a></li>
+<li><a class="grey" href="/songs/e/emma_muscat/out_of_sight.html"><strong>Emma Muscat</strong> - Out of Sight</a></li>
+<li><a href="/songs/f/frei_wild/krieg_ohne_sieger.html"><strong>Frei.Wild</strong> - Krieg Ohne Sieger</a></li>
+<li><a class="grey" href="/songs/h/harry_styles/as_it_was.html"><strong>Harry Styles</strong> - As It Was</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/alabama_jubilee.html"><strong>Jerry Lee Lewis</strong> - Alabama Jubilee</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/big_legged_woman.html"><strong>Jerry Lee Lewis</strong> - Big Legged Woman</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/cool_cool_ways.html"><strong>Jerry Lee Lewis</strong> - Cool, Cool Ways</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/drinkin_champagne.html"><strong>Jerry Lee Lewis</strong> - Drinkin&#039; Champagne</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/every_day_i_have_to_cry.html"><strong>Jerry Lee Lewis</strong> - Every Day I Have to Cry</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/i_love_you_because.html"><strong>Jerry Lee Lewis</strong> - I Love You Because</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/i_m_so_lonesome_i_could_cry.html"><strong>Jerry Lee Lewis</strong> - I&#039;m So Lonesome I Could Cry*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/lewis_boogie.html"><strong>Jerry Lee Lewis</strong> - Lewis Boogie</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/little_green_valley.html"><strong>Jerry Lee Lewis</strong> - Little Green Valley</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/love_on_broadway.html"><strong>Jerry Lee Lewis</strong> - Love on Broadway</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/miss_the_mississippi_and_you.html"><strong>Jerry Lee Lewis</strong> - Miss the Mississippi and You</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/mississippi_kid.html"><strong>Jerry Lee Lewis feat. Derek Trucks &amp; Doyle Bramhall II</strong> - Mississippi Kid*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/more_and_more.html"><strong>Jerry Lee Lewis</strong> - More and More</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/sweet_dreams.html"><strong>Jerry Lee Lewis</strong> - Sweet Dreams*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/who_will_buy_the_wine.html"><strong>Jerry Lee Lewis</strong> - Who Will Buy the Wine</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/you_ve_still_got_a_place_in_my_heart.html"><strong>Jerry Lee Lewis</strong> - You&#039;ve Still Got a Place in My Heart</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/young_blood.html"><strong>Jerry Lee Lewis</strong> - Young Blood</a></li>
+<li><a href="/songs/j/joel_corry_david_guetta_and_bryson_tiller/what_would_you_do.html"><strong>Joel Corry, David Guetta &amp; Bryson Tiller</strong> - What Would You Do?</a></li>
+<li><a href="/songs/r/red_hot_chili_peppers/i_m_not_the_one.html"><strong>Red Hot Chili Peppers</strong> - I&#039;m Not the One</a></li>
+<li><a href="/songs/t/trinidad_cardona_davido_and_aisha/hayya_hayya_better_together.html"><strong>Trinidad Cardona, Davido & AISHA</strong> - Hayya Hayya (Better Together)*</a></li>
+</div><div style='margin-top:7px;' id='more_bands_down_1' align='center'><span onclick="document.getElementById('more_bands_down_1').style.display='none'; document.getElementById('more_bands_1').style.display='block'; document.getElementById('more_bands_up_1').style.display='block'" class='more_link'>Все переводы за <strong>06.04.2022</strong> <span class='more_space'></span> <span class='more_arrow_down'></span></span></div>
+
+<div style='display:none; margin-top:7px;' id='more_bands_up_1' align='center'><span onclick="document.getElementById('more_bands_down_1').style.display='block'; document.getElementById('more_bands_1').style.display='none'; document.getElementById('more_bands_up_1').style.display='none'" class='more_link'>Свернуть <span class='more_space'></span> <span class='more_arrow_up'></span></span></div>
+
+</ul><div style="margin: 12px;" align="center">Переводы песен<br /> от <strong>05.04.2022</strong>:</div><ul type="square" style="color:#dcdcdc; padding-left: 10px; margin-left: 10px; border-bottom:1px dashed gainsboro; padding-bottom: 10px;"><li><a href="/songs/i/intelligent_music_project/intention.html"><strong>Intelligent Music Project</strong> - Intention</a></li>
+<li><a href="/songs/j/jeremie_makiese/miss_you.html"><strong>J&eacute;r&eacute;mie Makiese</strong> - Miss You</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/careless_hands.html"><strong>Jerry Lee Lewis</strong> - Careless Hands</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/come_as_you_were.html"><strong>Jerry Lee Lewis</strong> - Come as You Were</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/i_m_looking_over_a_four_leaf_clover.html"><strong>Jerry Lee Lewis</strong> - I&#039;m Looking over a Four Leaf Clover</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/ol_glory.html"><strong>Jerry Lee Lewis feat. Toby Keith</strong> - Ol&#039; Glory</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/poison_love.html"><strong>Jerry Lee Lewis</strong> - Poison Love</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/send_me_the_pillow_you_dream_on.html"><strong>Jerry Lee Lewis</strong> - Send Me the Pillow You Dream On</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/twilight.html"><strong>Jerry Lee Lewis</strong> - Twilight</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/when_two_worlds_collide.html"><strong>Jerry Lee Lewis</strong> - When Two Worlds Collide</a></li>
+
+<div style="display:none; border-top:1px dashed gold; padding-top:5px; margin-top:5px;" id="more_bands_2">
+<li><a class="grey" href="/songs/l/laura_doggett/beautiful_undone.html"><strong>Laura Doggett</strong> - Beautiful Undone</a></li>
+<li><a href="/songs/l/lum_x/halo.html"><strong>LUM!Х feat. Pia Maria</strong> - Halo</a></li>
+<li><a href="/songs/r/ronela_hajati/sekret.html"><strong>Ronela Hajati</strong> - Sekret</a></li>
+</div><div style='margin-top:7px;' id='more_bands_down_2' align='center'><span onclick="document.getElementById('more_bands_down_2').style.display='none'; document.getElementById('more_bands_2').style.display='block'; document.getElementById('more_bands_up_2').style.display='block'" class='more_link'>Все переводы за <strong>05.04.2022</strong> <span class='more_space'></span> <span class='more_arrow_down'></span></span></div>
+
+<div style='display:none; margin-top:7px;' id='more_bands_up_2' align='center'><span onclick="document.getElementById('more_bands_down_2').style.display='block'; document.getElementById('more_bands_2').style.display='none'; document.getElementById('more_bands_up_2').style.display='none'" class='more_link'>Свернуть <span class='more_space'></span> <span class='more_arrow_up'></span></span></div>
+
+</ul><div style="margin: 12px;" align="center">Переводы песен<br /> от <strong>04.04.2022</strong>:</div><ul type="square" style="color:#dcdcdc; padding-left: 10px; margin-left: 10px; border-bottom:1px dashed gainsboro; padding-bottom: 10px;"><li><a href="/songs/j/jerry_lee_lewis/good_time_charlie_s_got_the_blues.html"><strong>Jerry Lee Lewis</strong> - Good Time Charlie&#039;s Got the Blues</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/honky_tonk_women.html"><strong>Jerry Lee Lewis</strong> - Honky Tonk Women*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/lovin_up_a_storm.html"><strong>Jerry Lee Lewis</strong> - Lovin&#039; Up a Storm</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/lucille.html"><strong>Jerry Lee Lewis</strong> - Lucille*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/money.html"><strong>Jerry Lee Lewis</strong> - Money</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/only_you_and_you_alone.html"><strong>Jerry Lee Lewis</strong> - Only You (And You Alone)*</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/over_the_rainbow.html"><strong>Jerry Lee Lewis</strong> - Over the Rainbow</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/toot_toot_tootsie_goodbye.html"><strong>Jerry Lee Lewis</strong> - Toot, Toot, Tootsie, Goodbye</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/you_are_my_sunshine.html"><strong>Jerry Lee Lewis feat. Sheryl Crow &amp; Jon Brion</strong> - You Are My Sunshine</a></li>
+<li><a href="/songs/j/jerry_lee_lewis/you_can_have_her.html"><strong>Jerry Lee Lewis feat. Eric Clapton &amp; James Burton</strong> - You Can Have Her</a></li>
+</ul>
+      </div> 
+          
+    
+    </div>
+
+
+
+
+
+
+
+    
+</div>  <h1>Перевод текста песни Beast of Burden исполнителя (группы) Rolling Stones, The</h1>
+  <div id="nav" class="col noprint">
+    <div style="padding:0 5px 0 5px;" class="row">
+      <div id="button_songs_nav" class="col"><a href="#" onClick="return false;" title="Выбор исполнителя и названия перевода"><svg class='icons white svg_shadow_list'><use xlink:href='#icon-list'></use></svg></a></div>
+      <div id="button_fast_nav" class="col"><a href="#" onClick="return false;" title="Мгновенный переход к переводу песни"><svg class='icons white svg_shadow_fast'><use xlink:href='#icon-fast'></use></svg></a></div>
+      <div id="button_az_nav" class="col"><a href="#" onClick="return false;" title="Выбор исполнителя по первой букве (цифре)"><svg class='icons white svg_shadow_az'><use xlink:href='#icon-az'></use></svg></a></div>
+    </div>
+  </div>
+  <div class="main_content col">
+    <div class="row noprint">
+      <div id="fast_nav" class="col">
+<div id="fast_nav_top" align="center">Мгновенный переход к переводу:</div>
+
+<link rel="stylesheet" media="all" type="text/css" href="/fast_song_menu/select2.min.css?v2" />
+<script src="/js/select2.min.js?v2"></script>
+
+<style>
+li.select2-results__option {
+	border-bottom: 1px solid #f5f5f5;
+	padding: 7px;
+}
+.container_select {
+  position: relative;
+  margin:10px;
+}
+.preloader:after {
+  content: '';
+  display: block;
+  z-index: 101;
+  height: 100%;
+  width: 100%;
+  border-radius: 4px;
+  background: -webkit-linear-gradient(to right, #fff 0, #fff 48%, #3498db 0, #3498db 52%, #fff 0, #fff 100%);
+  background: linear-gradient(to right, #fff 0, #fff 48%, #3498db 0, #3498db 52%, #fff 0, #fff 100%);
+  background-size: 195% 195%;		
+  box-shadow: 0 0 3px rgba(0,0,0,0.5);
+  opacity: 0.5;
+  -webkit-animation: preloaderanim 3s ease-in-out infinite, fadein 1s;
+  animation: preloaderanim 3s ease-in-out infinite, fadein 1s;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+@-webkit-keyframes preloaderanim { 
+    0%{background-position: 0% 50%}
+    50%{background-position: 100% 50%}
+    100%{background-position: 0% 50%}
+}  
+@keyframes preloaderanim { 
+    0%{background-position: 0% 50%}
+    50%{background-position: 100% 50%}
+    100%{background-position: 0% 50%}
+}
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.5; }
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.5; }
+}
+</style>
+
+<script type="text/javascript">
+$.ajaxSetup({cache:false});(function($){$(document).ready(function(){if(document.documentElement.clientWidth<1000){$('select').on('select2:open',function(e){$('.select2-search input').prop('focus',false);})}
+$('#letter').select2({placeholder:"Выберите букву (цифру)",width:"250px"});$('#band').select2({placeholder:"Выберите исполнителя",width:"250px",disabled:true});$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:true});$.fn.clearSelect=function(){return this.each(function(){if(this.tagName=='SELECT'){this.options.length=0;$(this).prop('disabled','disabled');$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:true});}});}
+$.fn.fillSelect=function(dataArray){return this.clearSelect().each(function(){if(this.tagName=='SELECT'){var currentSelect=this;$.each(dataArray,function(index,data){var option=new Option(data.text,data.value);if($.support.cssFloat){currentSelect.add(option,null);}else{currentSelect.add(option);}});}});}
+$('#letter').change(function(){adjustBand();document.getElementById('button').disabled=true;}).change();$('#band').change(function(){adjustSong();document.getElementById('button').disabled=true;}).change();$('#song').change(function(){document.getElementById('button').disabled=false;});function adjustBand(){var letterValue=$('#letter').val();var tmpSelect=$('#band');if(letterValue.length==0){tmpSelect.clearSelect();adjustSong();}else{$('#band').clearSelect();$('#song').clearSelect();$('#band').parent('div').addClass('preloader');var jqxhr=$.getJSON('/fast_song_menu/cascadeSelectBand.php',{letter:letterValue},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#band').select2({placeholder:"Выберите исполнителя",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});adjustSong();});jqxhr.complete(function(){document.getElementById('button').disabled=false;$('#band').parent('div').removeClass('preloader');})}};function adjustSong(){var letterValue=$('#letter').val();var bandValue=$('#band').val();var tmpSelect=$('#song');if(letterValue.length==0||bandValue.length==0){tmpSelect.clearSelect();}else{$('#song').clearSelect();$('#song').parent('div').addClass('preloader');var jqxhr=$.getJSON('/fast_song_menu/cascadeSelectSong.php',{letter:letterValue,band:bandValue},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});jqxhr.complete(function(){document.getElementById('button').disabled=false;$('#song').parent('div').removeClass('preloader');})}};fill_fsm('/songs/r/rolling_stones/beast_of_burden.html');function fill_fsm(path){var arr_path=path.split('/');var path_letter=arr_path[2]+'/';var path_band=arr_path[3]+'/';var path_song=arr_path[4];if(arr_path[2]==''){}else{$('#letter').val(path_letter).trigger('change.select2');$('#band').parent('div').addClass('preloader');var tmpSelect=$('#band');var jqxhr=$.getJSON('/fast_song_menu/cascadeSelectBand.php',{letter:path_letter},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#band').select2({placeholder:"Выберите исполнителя",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});jqxhr.complete(function(){$('#band').parent('div').removeClass('preloader');if(arr_path[3]==''){}else{$("#band").val(path_band).trigger('change.select2');$('#song').parent('div').addClass('preloader');$("#band").select2({placeholder:"Выберите исполнителя",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});var tmpSelect=$('#song');var jqxhr2=$.getJSON('/fast_song_menu/cascadeSelectSong.php',{letter:path_letter,band:path_band},function(data){tmpSelect.fillSelect(data).prop('disabled','');$('#song').select2({placeholder:"Выберите песню",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});jqxhr2.complete(function(){$('#song').parent('div').removeClass('preloader');$("#song").val(path_song).trigger('change.select2');$("#song").select2({placeholder:"Выберите песню",width:"250px",disabled:false,escapeMarkup:function(m){return m;}});});};});};}});})(jQuery);function going(){if(!!$('#letter').val()&&!$('#band').val()&&!$('#song').val()){window.location.href='/songs/'+$('#letter').val();}else if(!!$('#letter').val()&&!!$('#band').val()&&!$('#song').val()){window.location.href='/songs/'+$('#letter').val()+$('#band').val();}else if(!!$('#letter').val()&&!!$('#band').val()&&!!$('#song').val()){window.location.href='/songs/'+$('#letter').val()+$('#band').val()+$('#song').val();}else{window.location.href='/';}}
+</script>
+
+<div align="center">
+<span style="width:270px; display: inline-table; text-align:center; vertical-align:middle;">
+<div align="left" class="container_select"><select name="select" id="letter">
+<option value="">Выберите букву (цифру)</option>
+<option value="0/">0</option>
+<option value="1/">1</option>
+<option value="2/">2</option>
+<option value="3/">3</option>
+<option value="4/">4</option>
+<option value="5/">5</option>
+<option value="6/">6</option>
+<option value="7/">7</option>
+<option value="8/">8</option>
+<option value="9/">9</option>
+<option value="a/">A</option>
+<option value="b/">B</option>
+<option value="c/">C</option>
+<option value="d/">D</option>
+<option value="e/">E</option>
+<option value="f/">F</option>
+<option value="g/">G</option>
+<option value="h/">H</option>
+<option value="i/">I</option>
+<option value="j/">J</option>
+<option value="k/">K</option>
+<option value="l/">L</option>
+<option value="m/">M</option>
+<option value="n/">N</option>
+<option value="o/">O</option>
+<option value="p/">P</option>
+<option value="q/">Q</option>
+<option value="r/">R</option>
+<option value="s/">S</option>
+<option value="t/">T</option>
+<option value="u/">U</option>
+<option value="v/">V</option>
+<option value="w/">W</option>
+<option value="x/">X</option>
+<option value="y/">Y</option>
+<option value="z/">Z</option>
+</select></div>
+<div align="left" class="container_select"><select name="select2" disable="disable" id="band"><option value="">Выберите исполнителя</option></select></div>
+<div align="left" class="container_select"><select name="select3" disable="disable" id="song"><option value="">Выберите песню</option></select></div>
+</span>
+<span style="display:inline-table; width:35%; margin-bottom:20px; margin-top:10px;">
+	<input disabled="disabled" name="button" type="button" id="button" style="font-size:0.95em; padding:3px 10px 4px 10px;" onclick="going()" value="Перейти" /></span>
+</div>
+
+</div>      <div id="az_nav" class="col">
+<div id="az_nav_top" align="center">Выберите исполнителя по первой букве (цифре):</div>
+<ul>
+<li><a  href="/songs/0/">0</a></li>
+<li><a  href="/songs/1/">1</a></li>
+<li><a  href="/songs/2/">2</a></li>
+<li><a  href="/songs/3/">3</a></li>
+<li><a  href="/songs/4/">4</a></li>
+<li><a  href="/songs/5/">5</a></li>
+<li><a  href="/songs/6/">6</a></li>
+<li><a  href="/songs/7/">7</a></li>
+<li><a  href="/songs/8/">8</a></li>
+<li><a  href="/songs/9/">9</a></li>
+<li><a  href="/songs/a/">A</a></li>
+<li><a  href="/songs/b/">B</a></li>
+<li><a  href="/songs/c/">C</a></li>
+<li><a  href="/songs/d/">D</a></li>
+<li><a  href="/songs/e/">E</a></li>
+<li><a  href="/songs/f/">F</a></li>
+<li><a  href="/songs/g/">G</a></li>
+<li><a  href="/songs/h/">H</a></li>
+<li><a  href="/songs/i/">I</a></li>
+<li><a  href="/songs/j/">J</a></li>
+<li><a  href="/songs/k/">K</a></li>
+<li><a  href="/songs/l/">L</a></li>
+<li><a  href="/songs/m/">M</a></li>
+<li><a  href="/songs/n/">N</a></li>
+<li><a  href="/songs/o/">O</a></li>
+<li><a  href="/songs/p/">P</a></li>
+<li><a  href="/songs/q/">Q</a></li>
+<li><a class="current" href="/songs/r/">R</a></li>
+<li><a  href="/songs/s/">S</a></li>
+<li><a  href="/songs/t/">T</a></li>
+<li><a  href="/songs/u/">U</a></li>
+<li><a  href="/songs/v/">V</a></li>
+<li><a  href="/songs/w/">W</a></li>
+<li><a  href="/songs/x/">X</a></li>
+<li><a  href="/songs/y/">Y</a></li>
+<li><a  href="/songs/z/">Z</a></li>
+<div style="clear:both;"></div>
+</ul>
+</div>    </div>
+    <div class="row">
+<div id="songs_nav" class="col noprint">
+
+<div id="hide_songs_nav">&larr;</div>
+<div id="show_songs_nav">&rarr;</div>
+
+<div id="songs_nav_top" align="center">Выберите имя/название:</div>
+
+<!-- Начало подменю активной группы -->
+<ul>
+    
+		          <li><a style="display:block; width:inherit;" href="/songs/r/rolling_stones/">Rolling Stones, The:</a>
+            <div class="list_songs"></div>
+          </li>
+                  <ul>
+			            											<li><a href="19th_nervous_breakdown.html">19th Nervous Breakdown*</a></li>
+										            											<li><a href="all_of_your_love.html">All of Your Love</a></li>
+										            											<li><a href="angie.html">Angie</a></li>
+										            											<li><a href="anybody_seen_my_baby.html">Anybody Seen My Baby</a></li>
+										            											<li><a href="as_tears_go_by.html">As Tears Go by*</a></li>
+										            											<li class="active">Beast of Burden</li>
+										            											<li><a href="blue_and_lonesome.html">Blue And Lonesome</a></li>
+										            											<li><a href="break_the_spell.html">Break the Spell</a></li>
+										            											<li><a href="brown_sugar.html">Brown Sugar*</a></li>
+										            											<li><a href="commit_a_crime.html">Commit a Crime</a></li>
+										            											<li><a href="dandelion.html">Dandelion</a></li>
+										            											<li><a href="doom_and_gloom.html">Doom And Gloom</a></li>
+										            											<li><a href="flight_505.html">Flight 505</a></li>
+										            											<li><a href="fortune_teller.html">Fortune Teller</a></li>
+										            											<li><a href="gimme_shelter.html">Gimme Shelter</a></li>
+										            											<li><a href="i_can_t_get_no_satisfaction.html">(I Can't Get No) Satisfaction</a></li>
+										            											<li><a href="i_gotta_go.html">I Gotta Go</a></li>
+										            											<li><a href="i_m_free.html">I’m Free</a></li>
+										            											<li><a href="if_you_need_me.html">If You Need Me</a></li>
+										            											<li><a href="it_s_only_rock_n_roll_but_i_like_it.html">It&#039;s Only Rock &#039;n&#039; Roll (But I Like It)</a></li>
+										            											<li><a href="jumpin_jack_flash.html">Jumpin&#039; Jack Flash</a></li>
+										            											<li><a href="just_your_fool.html">Just Your Fool</a></li>
+										            											<li><a href="laugh_i_nearly_died.html">Laugh I Nearly Died</a></li>
+										            											<li><a href="living_in_a_ghost_town.html">Living in a Ghost Town</a></li>
+										            											<li><a href="love_in_vain.html">Love in Vain</a></li>
+										            											<li><a href="love_is_strong.html">Love Is Strong</a></li>
+										            											<li><a href="mercy_mercy.html">Mercy Mercy*</a></li>
+										            											<li><a href="miss_you.html">Miss You</a></li>
+										            											<li><a href="mother_s_little_helper.html">Mother's Little Helper</a></li>
+										            											<li><a href="my_good_thing.html">Everybody Knows about My Good Thing</a></li>
+										            											<li><a href="out_of_control.html">Out of Control</a></li>
+										            											<li><a href="paint_it_black.html">Paint It Black</a></li>
+										            											<li><a href="play_with_fire.html">Play with Fire*</a></li>
+										            											<li><a href="rain_fall_down.html">Rain Fall Down</a></li>
+										            											<li><a href="ride_em_on_down.html">Ride &#039;Em on Down*</a></li>
+										            											<li><a href="ruby_tuesday.html">Ruby Tuesday</a></li>
+										            											<li><a href="saint_of_me.html">Saint of Me</a></li>
+										            											<li><a href="scarlet.html">Scarlet</a></li>
+										            											<li><a href="she_s_a_rainbow.html">She&#039;s a Rainbow</a></li>
+										            											<li><a href="sister_morphine.html">Sister Morphine</a></li>
+										            											<li><a href="sympathy_for_the_devil_neptunes_remix.html">Sympathy for the Devil (Neptunes Remix)*</a></li>
+										            											<li><a href="take_it_or_leave_it.html">Take It Or Leave It</a></li>
+										            											<li><a href="the_streets_of_love.html">The Streets of Love</a></li>
+										            											<li><a href="under_my_thumb.html">Under My Thumb</a></li>
+										            											<li><a href="wild_horses.html">Wild Horses*</a></li>
+										            											<li><a href="you_better_move_on.html">You Better Move On</a></li>
+										            											<li><a href="you_can_t_always_get_what_you_want.html">You Can&#039;t Always Get What You Want*</a></li>
+										            
+			<!-- Ajax загрузка оставшихся переводов, если их количество превышает 250. Начало -->
+						<div class="songs_loading"></div>
+			<script type="text/javascript">
+			$('#show_more_songs').click(function (){ 
+			$.ajax({
+						  type: "POST",
+						  url: "/ajax/more_songs.php",
+						  data: "folder_path=/songs/r/rolling_stones&name_song=beast_of_burden&imax=250",
+						  beforeSend: function(){
+										//Показываем прелоадер 
+										$('.songs_loading').show(200);
+									  },
+						  complete: function() {
+										//Уничтожаем прелоадер
+										$(".songs_loading").slideUp('fast', function(){ $(this).remove(); });
+									  },
+						  success: function(result_songs)
+							  {
+								  $('#list_more_songs').html(result_songs);
+								  $('.more_songs').slideDown('fast');
+							  },
+						  error: function()
+						  {
+							  alert('При запросе переводов возникли проблемы!');
+						  }
+					});
+					$("#show_more_songs").hide();
+			});
+			</script>	
+			<!-- Ajax загрузка оставшихся переводов, если их количество превышает 250. Конец. -->
+          </ul>
+<br>
+          
+
+
+
+
+<!-- Конец подменю активной группы -->          
+
+<div></div> 
+       
+<div id="songs_nav_top" align="center">По популярности:</div>
+<li><a href="/songs/r/rammstein/">Rammstein</a>
+  <div class="list_songs" data-href="/songs/r/rammstein/" title="Cписок переводов Rammstein">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rihanna/">Rihanna</a>
+  <div class="list_songs" data-href="/songs/r/rihanna/" title="Cписок переводов Rihanna">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/red_hot_chili_peppers/">Red Hot Chili Peppers</a>
+  <div class="list_songs" data-href="/songs/r/red_hot_chili_peppers/" title="Cписок переводов Red Hot Chili Peppers">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/radiohead/">Radiohead</a>
+  <div class="list_songs" data-href="/songs/r/radiohead/" title="Cписок переводов Radiohead">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/robbie_williams/">Robbie Williams</a>
+  <div class="list_songs" data-href="/songs/r/robbie_williams/" title="Cписок переводов Robbie Williams">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/roxette/">Roxette</a>
+  <div class="list_songs" data-href="/songs/r/roxette/" title="Cписок переводов Roxette">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rick_astley/">Rick Astley</a>
+  <div class="list_songs" data-href="/songs/r/rick_astley/" title="Cписок переводов Rick Astley">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rasmus/">Rasmus, The</a>
+  <div class="list_songs" data-href="/songs/r/rasmus/" title="Cписок переводов Rasmus, The">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rag_n_bone_man/">Rag'n'Bone Man</a>
+  <div class="list_songs" data-href="/songs/r/rag_n_bone_man/" title="Cписок переводов Rag'n'Bone Man">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li class="current">Rolling Stones, The</li>
+<li><a href="/songs/r/rae_sremmurd/">Rae Sremmurd</a>
+  <div class="list_songs" data-href="/songs/r/rae_sremmurd/" title="Cписок переводов Rae Sremmurd">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ray_charles/">Ray Charles</a>
+  <div class="list_songs" data-href="/songs/r/ray_charles/" title="Cписок переводов Ray Charles">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rem/">REM (R.E.M.)</a>
+  <div class="list_songs" data-href="/songs/r/rem/" title="Cписок переводов REM (R.E.M.)">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/reamonn/">Reamonn</a>
+  <div class="list_songs" data-href="/songs/r/reamonn/" title="Cписок переводов Reamonn">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/royksopp/">Royksopp</a>
+  <div class="list_songs" data-href="/songs/r/royksopp/" title="Cписок переводов Royksopp">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/roy_orbison/">Roy Orbison</a>
+  <div class="list_songs" data-href="/songs/r/roy_orbison/" title="Cписок переводов Roy Orbison">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rise_against/">Rise Against</a>
+  <div class="list_songs" data-href="/songs/r/rise_against/" title="Cписок переводов Rise Against">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ruth_b/">Ruth B</a>
+  <div class="list_songs" data-href="/songs/r/ruth_b/" title="Cписок переводов Ruth B">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/red/">Red</a>
+  <div class="list_songs" data-href="/songs/r/red/" title="Cписок переводов Red">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ricky_martin/">Ricky Martin</a>
+  <div class="list_songs" data-href="/songs/r/ricky_martin/" title="Cписок переводов Ricky Martin">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ryan_gosling/">Ryan Gosling</a>
+  <div class="list_songs" data-href="/songs/r/ryan_gosling/" title="Cписок переводов Ryan Gosling">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rita_ora/">Rita Ora</a>
+  <div class="list_songs" data-href="/songs/r/rita_ora/" title="Cписок переводов Rita Ora">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/regina_spektor/">Regina Spektor</a>
+  <div class="list_songs" data-href="/songs/r/regina_spektor/" title="Cписок переводов Regina Spektor">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/robin_schulz/">Robin Schulz</a>
+  <div class="list_songs" data-href="/songs/r/robin_schulz/" title="Cписок переводов Robin Schulz">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rose_blackpink/">ROS&#201 (of BLACKPINK)</a>
+  <div class="list_songs" data-href="/songs/r/rose_blackpink/" title="Cписок переводов ROS&#201 (of BLACKPINK)">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rage_against_the_machine/">Rage Against The Machine</a>
+  <div class="list_songs" data-href="/songs/r/rage_against_the_machine/" title="Cписок переводов Rage Against The Machine">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/richard_marx/">Richard Marx</a>
+  <div class="list_songs" data-href="/songs/r/richard_marx/" title="Cписок переводов Richard Marx">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ricchi_e_poveri/">Ricchi E Poveri</a>
+  <div class="list_songs" data-href="/songs/r/ricchi_e_poveri/" title="Cписок переводов Ricchi E Poveri">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rainbow/">Rainbow</a>
+  <div class="list_songs" data-href="/songs/r/rainbow/" title="Cписок переводов Rainbow">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rob_zombie/">Rob Zombie</a>
+  <div class="list_songs" data-href="/songs/r/rob_zombie/" title="Cписок переводов Rob Zombie">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rosalia/">ROSAL&#205;A</a>
+  <div class="list_songs" data-href="/songs/r/rosalia/" title="Cписок переводов ROSAL&#205;A">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rockwell/">Rockwell</a>
+  <div class="list_songs" data-href="/songs/r/rockwell/" title="Cписок переводов Rockwell">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ruelle/">Ruelle</a>
+  <div class="list_songs" data-href="/songs/r/ruelle/" title="Cписок переводов Ruelle">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rednex/">Rednex</a>
+  <div class="list_songs" data-href="/songs/r/rednex/" title="Cписок переводов Rednex">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/ramones/">Ramones</a>
+  <div class="list_songs" data-href="/songs/r/ramones/" title="Cписок переводов Ramones">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rod_stewart/">Rod Stewart</a>
+  <div class="list_songs" data-href="/songs/r/rod_stewart/" title="Cписок переводов Rod Stewart">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/r_kelly/">R. Kelly</a>
+  <div class="list_songs" data-href="/songs/r/r_kelly/" title="Cписок переводов R. Kelly">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/reel_2_real/">Reel 2 Real</a>
+  <div class="list_songs" data-href="/songs/r/reel_2_real/" title="Cписок переводов Reel 2 Real">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rock_mafia/">Rock Mafia</a>
+  <div class="list_songs" data-href="/songs/r/rock_mafia/" title="Cписок переводов Rock Mafia">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rachel_platten/">Rachel Platten</a>
+  <div class="list_songs" data-href="/songs/r/rachel_platten/" title="Cписок переводов Rachel Platten">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/raye/">Raye</a>
+  <div class="list_songs" data-href="/songs/r/raye/" title="Cписок переводов Raye">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/royal_blood/">Royal Blood</a>
+  <div class="list_songs" data-href="/songs/r/royal_blood/" title="Cписок переводов Royal Blood">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/radical_face/">Radical Face</a>
+  <div class="list_songs" data-href="/songs/r/radical_face/" title="Cписок переводов Radical Face">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rixton/">Rixton</a>
+  <div class="list_songs" data-href="/songs/r/rixton/" title="Cписок переводов Rixton">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/randy_newman/">Randy Newman</a>
+  <div class="list_songs" data-href="/songs/r/randy_newman/" title="Cписок переводов Randy Newman">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/robin_thicke/">Robin Thicke</a>
+  <div class="list_songs" data-href="/songs/r/robin_thicke/" title="Cписок переводов Robin Thicke">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/romeo_et_juliette/">Romeo et Juliette (мюзикл)</a>
+  <div class="list_songs" data-href="/songs/r/romeo_et_juliette/" title="Cписок переводов Romeo et Juliette (мюзикл)">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rodrigo_amarante/">Rodrigo Amarante</a>
+  <div class="list_songs" data-href="/songs/r/rodrigo_amarante/" title="Cписок переводов Rodrigo Amarante">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rembrandts/">Rembrandts, The</a>
+  <div class="list_songs" data-href="/songs/r/rembrandts/" title="Cписок переводов Rembrandts, The">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<li><a href="/songs/r/rob_thomas/">Rob Thomas</a>
+  <div class="list_songs" data-href="/songs/r/rob_thomas/" title="Cписок переводов Rob Thomas">
+    <div class="list_songs_arrow">&darr;</div>
+  </div>
+  <div class="container" style="clear:both;"></div>
+</li>
+<div style="margin-top:20px;" align="center"><a class="grey" href="/songs/r/">Все <strong>611</strong> на букву <strong>R</strong></a></div>
+
+<script type="text/javascript">
+$('.list_songs').click(function (){
+if($(this).hasClass('hide_songs')) {
+	$(this).attr('class', 'list_songs');
+	$(this).html('<div class="list_songs_arrow">&darr;</div>');
+	$(this).next('.container').children('.all_songs').slideUp('fast', function(){ $(this).remove(); });
+} else {
+	var folder_path = $(this).attr('data-href');
+	var band = $(this).text();
+	$.ajax({
+				  type: "POST",
+				  url: "/ajax/all_songs.php",
+				  data: "folder_path="+folder_path,
+				  context: this,
+				  cache: false,
+				  beforeSend: function(){
+							//создаем div
+							var loading = $("<div>", {"class" : "songs_loading"});
+							//добавляем созданный div в конец
+							$(this).next('.container').after(loading);
+							$('.songs_loading').show(200);
+						  },
+				  complete: function() {
+							//уничтожаем div
+							$(".songs_loading").slideUp('fast', function(){ $(this).remove(); });
+						  },
+				  success: function(result_songs)
+				  {
+					  $(this).next('.container').html(result_songs);
+					  $('.all_songs').slideDown('fast');
+					  $(this).attr('class', 'hide_songs');
+					  $(this).html('<div class="list_songs_arrow">&uarr;</div>');
+				  },
+				  error: function()
+				  {
+					  alert('При запросе переводов возникли проблемы!');
+				  }
+			});
+}
+return false;
+});
+</script>
+
+
+       
+ 
+</ul>
+
+<br>
+</div>         
+
+
+    <div class="noprint">
+        <div style="display:table; border:none;" class="texts">
+        <div id="breadcrumbs_nav">
+<a href="/">Главная</a> 
+ 
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> 
+<a href="/songs/">Переводы песен</a>
+ 
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> 
+<a href="/songs/r/">R</a>
+ 
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> 
+<a href="/songs/r/rolling_stones/">Rolling Stones, The</a>
+<img align="absmiddle" src="/pict/arrow.png" width="16" height="16"> Beast of Burden 
+</div>                <div id="location_texts">
+
+			
+			
+			<div style="margin: 0 auto; display: inline-block;">
+			<a id="parallel" class="icons_location il_select" onClick="return false" href="#" title="Параллельно"><svg class="icons blue"><use xlink:href="#icon-parallel"></use></svg></a>
+			<a id="alternation" class="icons_location" onClick="return false" href="#" title="Построчно"><svg class="icons blue"><use xlink:href="#icon-alternation"></use></svg></a>
+			<a id="change" class="icons_location" onClick="return false" href="#" title="Оригинал / Перевод"><svg class="icons blue"><use xlink:href="#icon-change"></use></svg></a>
+			<a id="print" href="javascript:window.print()" title="Печать"><svg style="width: 27px; height: 27px; top: -2px; left: 0px;" class="icons blue"><use xlink:href="#icon-print"></use></a>
+			<a id="smilerate_place" href="/smilerate/" title="Позиция перевода в рейтинге SmileRate"><svg style="width:27px; height:27px; top: -1px; left: 0px;" class="icons white svg_shadow_gray"><use xlink:href="#icon-smilerate"></use></svg></a>
+			</div>
+
+        </div>
+                </div>
+    </div>
+
+<div class="texts col">
+      
+    
+<div style="overflow:hidden;">
+<h2 style="font-weight:bold;" class="original">Beast of Burden <span>(оригинал The Rolling Stones)</span></h2>
+<h2 style="font-weight:bold !important;" class="translate few">Ломовая лошадь <span>(перевод <a href="/author/?id=6" rel="nofollow">Tanya Grimm из СПб</a>)</span></h2>
+</div>
+<div id="click_area">  
+<div class="string_container"><div class="original">I'll never be your beast of burden</div>
+<div class="translate">Я никогда не буду твоей ломовой лошадью,</div></div>
+<div class="string_container"><div class="original">My back is broad but it's a hurting</div>
+<div class="translate">Спина у меня широкая, но она болит,</div></div>
+<div class="string_container"><div class="original">All I want is for you to make love to me </div>
+<div class="translate">Все, что я хочу от тебя, это чтобы ты меня любила.</div></div>
+<div class="string_container"><div class="original">I'll never be your beast of burden</div>
+<div class="translate">Я никогда не буду твоей ломовой лошадью,</div></div>
+<div class="string_container"><div class="original">I've walked for miles my feet are hurting </div>
+<div class="translate">Я прошел много миль, и мои ноги болят,</div></div>
+<div class="string_container"><div class="original">All I want is for you to make love to me</div>
+<div class="translate">Все, что я хочу от тебя, это чтобы ты меня любила.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">Am I hard enough</div>
+<div class="translate">Достаточно ли я тверд?</div></div>
+<div class="string_container"><div class="original">Am I rough enough</div>
+<div class="translate">Достаточно ли я резок?</div></div>
+<div class="string_container"><div class="original">Am I rich enough</div>
+<div class="translate">Достаточно ли я богат?</div></div>
+<div class="string_container"><div class="original">I'm not too blind to see</div>
+<div class="translate">Я не настолько слеп, чтобы не видеть сам.</div></div>
+<div class="noprint" align="center">
+<div class="texts_ads" style="padding-top:25px; padding-bottom:25px;">
+
+<div style="margin-left:10px; margin-right:10px;">
+<!-- Yandex.RTB R-A-2197-2 -->
+<div id="yandex_rtb_R-A-2197-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-2197-2",
+                renderTo: "yandex_rtb_R-A-2197-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+
+</div>
+</div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">I'll never be your beast of burden</div>
+<div class="translate">Я никогда не буду твоей ломовой лошадью,</div></div>
+<div class="string_container"><div class="original">So let's go home and draw the curtains</div>
+<div class="translate">Поэтому давай пойдем домой и закроем шторы.</div></div>
+<div class="string_container"><div class="original">Music on the radio</div>
+<div class="translate">Музыка по радио,</div></div>
+<div class="string_container"><div class="original">Come on baby make sweet love to me</div>
+<div class="translate">Давай же, детка, займемся любовью.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">Am I hard enough</div>
+<div class="translate">Достаточно ли я тверд?</div></div>
+<div class="string_container"><div class="original">Am I rough enough</div>
+<div class="translate">Достаточно ли я резок?</div></div>
+<div class="string_container"><div class="original">Am I rich enough</div>
+<div class="translate">Достаточно ли я богат?</div></div>
+<div class="string_container"><div class="original">I'm not too blind to see</div>
+<div class="translate">Я не настолько слеп, чтобы не видеть сам.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">Oh little sister</div>
+<div class="translate">О, сестренка,</div></div>
+<div class="string_container"><div class="original">Pretty, pretty, pretty, pretty girls</div>
+<div class="translate">Милые, милые, милые, милые девочки.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">You're a pretty, pretty, pretty, pretty,</div>
+<div class="translate">Ты милая, милая, милая, милая,</div></div>
+<div class="string_container"><div class="original">pretty, pretty girl</div>
+<div class="translate">милая, милая девочка.</div></div>
+<div class="string_container"><div class="original">Pretty, pretty</div>
+<div class="translate">Милая, милая, </div></div>
+<div class="string_container"><div class="original">Such a pretty, pretty, pretty girl</div>
+<div class="translate">Такая милая, милая, милая девочка.</div></div>
+<div class="string_container"><div class="original">Come on baby please, please, please</div>
+<div class="translate">Давай же, детка, пожалуйста, пожалуйста, пожалуйста.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">I'll tell ya</div>
+<div class="translate">Послушай,</div></div>
+<div class="string_container"><div class="original">You can put me out</div>
+<div class="translate">Ты можешь выгнать меня</div></div>
+<div class="string_container"><div class="original">On the street</div>
+<div class="translate">На улицу,</div></div>
+<div class="string_container"><div class="original">Put me out</div>
+<div class="translate">Выгнать меня</div></div>
+<div class="string_container"><div class="original">With no shoes on my feet</div>
+<div class="translate">Без ботинок на ногах,</div></div>
+<div class="string_container"><div class="original">But put me out, put me out</div>
+<div class="translate">Но выгони меня, выгони меня,</div></div>
+<div class="string_container"><div class="original">Put me out of misery</div>
+<div class="translate">Выгони меня, чтобы прекратить мои страдания.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">Yeah, all your sickness</div>
+<div class="translate">Все твои боли</div></div>
+<div class="string_container"><div class="original">I can suck it up</div>
+<div class="translate">Я смогу забрать,</div></div>
+<div class="string_container"><div class="original">Throw it all at me</div>
+<div class="translate">Кинь мне их все,</div></div>
+<div class="string_container"><div class="original">I can shrug it off</div>
+<div class="translate">Я смогу от них отделаться.</div></div>
+<div class="string_container"><div class="original">There's one thing baby</div>
+<div class="translate">Нет ничего такого, детка,</div></div>
+<div class="string_container"><div class="original">That I don't understand</div>
+<div class="translate">Чего бы я не мог понять,</div></div>
+<div class="string_container"><div class="original">You keep on telling me</div>
+<div class="translate">Но ты продолжаешь говорить,</div></div>
+<div class="string_container"><div class="original">I ain't your kind of man</div>
+<div class="translate">Что я не твой тип мужчины.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">Ain't I rough enough, ooh baby</div>
+<div class="translate">Неужели я недостаточно тверд, детка?</div></div>
+<div class="string_container"><div class="original">Ain't I tough enough</div>
+<div class="translate">Неужели я недостаточно резок?</div></div>
+<div class="string_container"><div class="original">Ain't I rich enough, in love enough</div>
+<div class="translate">Неужели я недостаточно богат и влюблен?</div></div>
+<div class="string_container"><div class="original">Ooh! Ooh! Please</div>
+<div class="translate">О! О! Пожалуйста!</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">I'll never be your beast of burden</div>
+<div class="translate">Я никогда не буду твоей ломовой лошадью,</div></div>
+<div class="string_container"><div class="original">I'll never be your beast of burden</div>
+<div class="translate">Я никогда не буду твоей ломовой лошадью,</div></div>
+<div class="string_container"><div class="original">Never, never, never, never, never, never, never be </div>
+<div class="translate">Никогда, никогда, никогда, никогда, никогда, никогда...</div></div>
+<div class="string_container"><div class="original">I'll never be your beast of burden</div>
+<div class="translate">Я никогда не буду твоей ломовой лошадью,</div></div>
+<div class="string_container"><div class="original">I've walked for miles and my feet are hurting </div>
+<div class="translate">Я прошел много миль, и мои ноги болят,</div></div>
+<div class="string_container"><div class="original">All I want is you to make love to me</div>
+<div class="translate">Все, что я хочу от тебя, это чтобы ты меня любила.</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div>
+<div class="string_container"><div class="original">I don't need beast of burden</div>
+<div class="translate">Мне не нужна ломовая лошадь,</div></div>
+<div class="string_container"><div class="original">I need no fussing</div>
+<div class="translate">Мне не нужно ласок,</div></div>
+<div class="string_container"><div class="original">I need no nursing</div>
+<div class="translate">Мне не нужно нянек,</div></div>
+<div class="string_container"><div class="original">Never, never, never, never, never, never, never be</div>
+<div class="translate">Никогда, никогда, никогда, никогда, никогда, никогда...</div></div>
+<div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div><div class="string_container"><div class="original"><em>* — OST Fifty Shades of Grey (<a href="/collections/fifty_shades_of_grey.html">cаундтрек к фильму «Пятьдесят оттенков серого»</a>)</em></div>
+<div class="translate"><br /></div></div><div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div><div class="empty_container"><div class="original"><br /></div>
+<div class="translate"><br /></div></div><div id="quality" class="noprint"><div id="close_quality">Х</div><img src="/pict/quality.png" width="250" alt="Качество перевода подтверждено" title="Качество перевода подтверждено" /></div>
+</div> 
+<div class="noprint" align="center">
+
+<div style="padding-top:25px; padding-bottom:25px;">
+
+<!-- Yandex.RTB R-A-2197-4 -->
+<div id="yandex_rtb_R-A-2197-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-2197-4",
+                renderTo: "yandex_rtb_R-A-2197-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</div>
+
+</div>
+
+        
+<br>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+<script src="/js/few.js"></script>
+<script src="/js/scripts.js?v3.7"></script>
+
+<div id="footer" class="col">
+    <div id="footer_logo"><a style="border-bottom:0px;" href="/"><img src="/pict/amalgama_logo.png" title="Лингво-лаборатория «Амальгама»" width="55" height="55"></a></div>
+    <div id="footer_copy"> &copy; 2005-2022 Лингво-лаборатория «Амальгама».
+</div>
+
+<div style="margin-top:1.8em;" class="noprint">
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1092181-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script type="text/javascript" >
+var yaParams = {ip: "85.249.165.103"};
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(233350, "init", {
+	params:window.yaParams,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+
+
+
+<style>
+#ctrlcopy {
+    color:transparent;
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    width:1px;
+}
+</style>
+<script>
+// Скрипт источника
+jQuery.fn.addtocopy = function(usercopytxt) {
+    var options = {htmlcopytxt: '<br>More: <a href="'+window.location.href+'">'+window.location.href+'</a> <br>', minlen: 100, addcopyfirst: false}
+    jQuery.extend(options, usercopytxt);
+	var copy_sp = document.createElement('span');
+	copy_sp.id = 'ctrlcopy';
+	copy_sp.innerHTML = options.htmlcopytxt;
+	return this.each(function(){
+		jQuery(this).mousedown(function(){jQuery('#ctrlcopy').remove();});
+		jQuery(this).mouseup(function(){
+			if(window.getSelection){	//good times
+				var slcted=window.getSelection();
+				var seltxt=slcted.toString();
+				if(!seltxt||seltxt.length<options.minlen) return;
+				var nslct = slcted.getRangeAt(0);
+				seltxt = nslct.cloneRange();
+				seltxt.collapse(options.addcopyfirst);
+				seltxt.insertNode(copy_sp);
+				if (!options.addcopyfirst) nslct.setEndAfter(copy_sp);
+				slcted.removeAllRanges();
+				slcted.addRange(nslct);
+			} else if(document.selection){	//bad times
+				var slcted = document.selection;
+				var nslct=slcted.createRange();
+				var seltxt=nslct.text;
+				if (!seltxt||seltxt.length<options.minlen) return;
+				seltxt=nslct.duplicate();
+				seltxt.collapse(options.addcopyfirst);
+				seltxt.pasteHTML(copy_sp.outerHTML);
+				if (!options.addcopyfirst) {nslct.setEndPoint("EndToEnd",seltxt); nslct.select();}
+			}
+		});
+  });
+}
+$('html').addtocopy({htmlcopytxt: "<br /><br />Источник: <a href='" + document.location.href + "'>" + document.location.href + "</a><br /> &copy; Лингво-лаборатория «Амальгама»: <a href='https://www.amalgama-lab.com/'>www.amalgama-lab.com/</a>."});
+</script>
+</div>
+</body>
+</html>
+
+<!-- Runtime: 0.0270 Queries: 10 -->
+
+
