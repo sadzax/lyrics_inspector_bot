@@ -7,27 +7,28 @@ import pandas
 import ssl
 from urllib3 import poolmanager
 
-## 1. _ Ask user to type the name of the artist and force it to lowercase
+## 1. Ask user to type the name of the artist and force it to lowercase
 artist = input('Select Artist: ').lower()
-## 1.1. _ Check if there's some article in artists' name and ignore it
+## 1.1. Check if there's some article in artists' name and ignore it
 if artist[0:4] == 'the ':
     artist = artist[4:]
 elif artist[0:2] == 'a ':
     artist = artist[2:]
-## 1.2. _ Make a list of replacements for a further URL usage (what to replace / by what) and execute replacements
+## 1.2. Make a list of replacements for a further URL usage (what to replace / by what) and execute replacements
 replace_list_for_artists = (' ','_','.','_','&','and','(','',')','','+','and')
 i = 1
 while i < len(replace_list_for_artists):
     artist = artist.replace(replace_list_for_artists[i-1],replace_list_for_artists[i])
     i = i + 2
+
 ## 2. By now we have a decent artist name for a URL search at amalgama-lab project
 ## url_artist = "https://www.amalgama-lab.com/songs/" + artist[0] + '/' + artist
 ## print (url_artist)
 ## data = requests.get(url_artist, verify=False)
 
-## 3. Open the file with some textes and code stuff, a batch from the website
+## 3.1 Open the file with some textes and code stuff, a batch from the website
 text = io.open("txt/fulltext.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-## 3. Form only english lyrics from the song
+## 3.2 Form only english lyrics from the song
 eng_lyrics = []
 i = 0
 while i < len(text):

@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup as BS
+from bs4 import BeautifulSoup as bs
 import requests
 from collections import Counter
 import io
@@ -53,11 +53,16 @@ while j < len(artist_response):
         break
     else:
         j = j+1
-print(len(artist_response))
-print(i)
-print(j)
 artist_songs_urls = [response_piece for response_piece in artist_response[i:j]]
 
-print(artist_songs_urls)
-print(type(artist_songs_urls))
-print(type(artist_response))
+## print(artist_songs_urls)
+
+# 2.3. By now we have some dirty list with URLS, so we're extracting URLs
+every_song_url = []
+for element in artist_songs_urls:
+    soup = bs(element, 'html.parser').find_all('a')
+    every_song_url.append(soup)
+
+print(len(artist_songs_urls))
+print(len(every_song_url))
+print(every_song_url)
