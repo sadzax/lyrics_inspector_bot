@@ -24,6 +24,7 @@ while i < len(replace_list_for_artists):
 
 ## 2. By now we have a decent artist name for a URL search at amalgama-lab project
 url_artist = 'https://www.amalgama-lab.com/songs/' + artist[0] + '/' + artist
+
 ## 2.1. !Secuirty_warning! Found SSL Error decision @ https://stackoverflow.com/questions/61631955/python-requests-ssl-error-during-requests
 class TLSAdapter(requests.adapters.HTTPAdapter):
     def init_poolmanager(self, connections, maxsize, block=False):
@@ -55,14 +56,19 @@ while j < len(artist_response):
         j = j+1
 artist_songs_urls = [response_piece for response_piece in artist_response[i:j]]
 
-## print(artist_songs_urls)
-
 # 2.3. By now we have some dirty list with URLS, so we're extracting URLs
-every_song_url = []
+every_song_urls = []
 for element in artist_songs_urls:
-    soup = bs(element, 'html.parser').find_all('a')
-    every_song_url.append(soup)
+    soup = str(bs(element, 'html.parser').find_all('a', href=True)) # clear some stuff
+    soup = soup.rpartition('<a href="')[2] # trim left side
+    soup = soup.partition('.html">')[0]+soup.partition('.html')[1] # trim right side
+    every_song_urls.append(soup)
+every_song_urls = [element for element in every_song_urls if re.search('html', element)] #delete nulls and non-relevants
+## 2.4. By now our `every_song_urls` URLs is full of copy-paste endings to urls with lyrics
 
 print(len(artist_songs_urls))
-print(len(every_song_url))
-print(every_song_url)
+print(len(every_song_urls))
+print(every_song_urls)
+print(type(every_song_urls))
+print(type(every_song_urls[4]))
+print(every_song_urls[4])
