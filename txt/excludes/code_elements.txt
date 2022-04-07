@@ -1,6 +1,3 @@
-class="string_container">
-class="original">
-<div
+<div class="string_container">
+<div class="original">
 </div>
-<strong>
-</strong>

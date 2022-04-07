@@ -110,13 +110,20 @@ commas_and_symbols = io.open("txt/excludes/commas_and_symbols.txt", mode="r",
 code_elements = io.open("txt/excludes/code_elements.txt", mode="r", encoding='utf-8').read().lower().splitlines()
 stuff_values = io.open("txt/excludes/stuff_values.txt", mode="r", encoding='utf-8').read().lower().splitlines()
 eng_commons = io.open("txt/excludes/eng_commons.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-replace_values = commas_and_symbols + code_elements + stuff_values + eng_commons
+replace_values = code_elements + commas_and_symbols + eng_commons + stuff_values
 
 # 4.2. Finally...
 eng_lyrics = ' '.join(eng_lyrics)
 eng_lyrics = text_replace(eng_lyrics, replace_values)
-eng_lyrics = text_reunion(eng_lyrics, reunion_values)
+# eng_lyrics = text_reunion(eng_lyrics, reunion_values)
 words = eng_lyrics.split(' ')
+
+# Unused - check later
+def words_replace(target_str, words_replace_list, ):
+    for el in words_replace_list:
+        target_str = target_str.replace(el, ' ')
+    return target_str
+
 c = Counter(words).most_common()
 for i in c:
     print(i)
