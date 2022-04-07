@@ -1,7 +1,5 @@
 FROM python:slim
 
-MAINTAINER Marat Ramazanov <sadzax@gmail.com>
-
 WORKDIR /
 
 COPY . /
