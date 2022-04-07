@@ -99,19 +99,26 @@ while i < len(text):
     i = i + 1
 
 # 4.1 Clearing the text from commas, articles etc., defining the lists of exclude words and symbols
+<<<<<<< HEAD
 # 4.1.1.1. /text_reunion is out of use/
+=======
+>>>>>>> 51c819b (ver. 0.2.)
 def text_reunion(target_str, reunion_values, ):
     for el in reunion_values:
         target_str = target_str.replace(el, '')
     return target_str
+<<<<<<< HEAD
 # 4.1.1.2. /text_reunion is out of use/
 eng_shorts = io.open('txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 reunion_values = eng_shorts
 # 4.1.2.1. text_replace is very useful !
+=======
+>>>>>>> 51c819b (ver. 0.2.)
 def text_replace(target_str, replace_values, ):
     for el in replace_values:
         target_str = target_str.replace(el, ' ')
     return target_str
+<<<<<<< HEAD
 # 4.1.2.2. text_replace is very useful !
 code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 commas_and_symbols = io.open('txt/excludes/commas_and_symbols.txt', mode="r",
@@ -121,12 +128,26 @@ eng_commons_expanded = io.open('txt/excludes/eng_commons_expanded.txt', mode="r"
                                encoding='utf-8').read().lower().splitlines()
 stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
+=======
+eng_shorts = io.open("txt/excludes/eng_shorts.txt", mode="r", encoding='utf-8').read().lower().splitlines()
+reunion_values = eng_shorts
+commas_and_symbols = io.open("txt/excludes/commas_and_symbols.txt", mode="r",
+                             encoding='utf-8').read().lower().splitlines()
+code_elements = io.open("txt/excludes/code_elements.txt", mode="r", encoding='utf-8').read().lower().splitlines()
+stuff_values = io.open("txt/excludes/stuff_values.txt", mode="r", encoding='utf-8').read().lower().splitlines()
+eng_commons = io.open("txt/excludes/eng_commons.txt", mode="r", encoding='utf-8').read().lower().splitlines()
+replace_values = commas_and_symbols + code_elements + stuff_values + eng_commons
+>>>>>>> 51c819b (ver. 0.2.)
 
 # 4.2. Finally...
 eng_lyrics = ' '.join(eng_lyrics)
 eng_lyrics = text_replace(eng_lyrics, replace_values)
+<<<<<<< HEAD
 eng_lyrics = text_replace(eng_lyrics, replace_values) # sometimes cleaning leads to a new replaceable values
 # eng_lyrics = text_reunion(eng_lyrics, reunion_values) # Unused
+=======
+eng_lyrics = text_reunion(eng_lyrics, reunion_values)
+>>>>>>> 51c819b (ver. 0.2.)
 words = eng_lyrics.split(' ')
 words = [value for value in words if value] # Remove empty values in list
 nlp = spacy.load("en_core_web_sm")
