@@ -1,0 +1,18 @@
+<div class="string_container">
+<div class="original">
+<div class="translate">
+</div>
+<strong>
+</br>
+ img 
+ src= 
+ pict 
+ /pict 
+ png 
+ width 
+ 250 
+ alt= 
+ title= 
+ width= 
+close_quality
+ x 
