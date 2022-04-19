@@ -115,8 +115,10 @@ replace_values = code_elements + commas_and_symbols + eng_commons + stuff_values
 # 4.2. Finally...
 eng_lyrics = ' '.join(eng_lyrics)
 eng_lyrics = text_replace(eng_lyrics, replace_values)
+eng_lyrics = text_replace(eng_lyrics, replace_values) # sometimes cleaning leads to a new replaceable values
 # eng_lyrics = text_reunion(eng_lyrics, reunion_values)
 words = eng_lyrics.split(' ')
+words = [value for value in words if value] # Remove empty values in list
 
 # Unused - check later
 def words_replace(target_str, words_replace_list, ):
