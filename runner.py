@@ -103,13 +103,13 @@ def text_replace(target_str, replace_values, ):
     for el in replace_values:
         target_str = target_str.replace(el, ' ')
     return target_str
-eng_shorts = io.open("txt/excludes/eng_shorts.txt", mode="r", encoding='utf-8').read().lower().splitlines()
+eng_shorts = io.open('txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 reunion_values = eng_shorts
-commas_and_symbols = io.open("txt/excludes/commas_and_symbols.txt", mode="r",
+commas_and_symbols = io.open('txt/excludes/commas_and_symbols.txt', mode="r",
                              encoding='utf-8').read().lower().splitlines()
-code_elements = io.open("txt/excludes/code_elements.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-stuff_values = io.open("txt/excludes/stuff_values.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-eng_commons = io.open("txt/excludes/eng_commons.txt", mode="r", encoding='utf-8').read().lower().splitlines()
+code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+eng_commons = io.open('txt/excludes/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 replace_values = code_elements + commas_and_symbols + eng_commons + stuff_values
 
 # 4.2. Finally...
