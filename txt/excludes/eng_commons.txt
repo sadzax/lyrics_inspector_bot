@@ -5,6 +5,9 @@
  a 
  in 
  is 
+ isn't 
+ isnt 
+ isn&#039;t 
  that 
  for 
  i 
@@ -216,3 +219,64 @@
  6x 
  7x 
  8x 
+ can 
+ cant 
+ can't 
+ can&#039;t 
+ let 
+ lets 
+ go 
+ goes 
+ take 
+ takes 
+ down 
+ must 
+ make 
+ still 
+ here 
+ get 
+ gets 
+ got 
+ always 
+ every 
+ only 
+ again 
+ everything 
+ nothing 
+ back 
+ together 
+ ever 
+ something 
+ may 
+ though 
+ going 
+ much 
+ over 
+ along 
+ somewhere 
+ sometimes 
+ beneath 
+ somebody 
+ off 
+ enough 
+ once 
+ behind 
+ &quot 
+ nobody 
+ put 
+ puts 
+ nowhere 
+ such 
+ above 
+ &quot;i 
+ 'til 
+ til 
+ &#039;till 
+ until 
+ till 
+ anyway 
+ everyone 
+ 'cos 
+ &#039;cos 
+ instead 
+ 
