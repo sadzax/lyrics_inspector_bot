@@ -93,10 +93,11 @@ def lyrics_inspector_full_cycle(artist):
     eng_lyrics = text_replace(eng_lyrics, replace_values)
     words = eng_lyrics.split(' ')
     words = [value for value in words if value]
-    c = Counter(words).most_common()
-    return c
+    words_counter_list = Counter(words).most_common()
+    words_counter_str = '\n'.join(map(str, words_counter_list[0:60]))
+    return words_counter_str
 
-bot = telebot.TeleBot('5211127451:AAHSNkgWzwl2zSnHF4yzwotSw-fEriyndoI')
+bot = telebot.TeleBot('5211127451:AAEUWq3Bw19D_EA886RhDs1EjlbvbV_JORk')
 
 @bot.message_handler(commands=['start'])
 def start(inbox_message):
@@ -110,6 +111,6 @@ def get_request_from_the_user(inbox_message):
     else:
         artist_requested_by_user = inbox_message.text
         bot.send_message(inbox_message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it\nWait, please...")
-        user_response = lyrics_inspector_full_cycle(artist_requested_by_user)
-        bot.send_message(inbox_message.chat.id, user_response)
+        bot.send_message(inbox_message.chat.id, lyrics_inspector_full_cycle(artist_requested_by_user))
 
+bot.polling(none_stop=True)
