@@ -97,7 +97,8 @@ def lyrics_inspector_full_cycle(artist):
     words_counter_str = '\n'.join(map(str, words_counter_list[0:60]))
     return words_counter_str
 
-bot = telebot.TeleBot('5211127451:AAEUWq3Bw19D_EA886RhDs1EjlbvbV_JORk')
+token = io.open('txt/token.txt', mode="r", encoding='utf-8').read()
+bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start'])
 def start(inbox_message):
@@ -111,6 +112,7 @@ def get_request_from_the_user(inbox_message):
     else:
         artist_requested_by_user = inbox_message.text
         bot.send_message(inbox_message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it\nWait, please...")
+        bot.send_message(inbox_message.chat.id, f"I search all aviable data, it usually takes from 30 sec to a few minutes\nBut if I won't response it means I'm on repair today")
         bot.send_message(inbox_message.chat.id, lyrics_inspector_full_cycle(artist_requested_by_user))
 
 bot.polling(none_stop=True)
