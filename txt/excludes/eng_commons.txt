@@ -4,7 +4,7 @@
  of 
  a 
  in 
- yeah 
+ yeah about
  is 
  isn't 
  isnt 
@@ -15,6 +15,9 @@
  im 
  i'm 
  i&#039;m 
+ i'ma 
+ ima 
+ i&#039;ma 
  ive 
  i've 
  i&#039;ve 
@@ -101,6 +104,8 @@
  so 
  there 
  about 
+ '&#039;bout 
+ 'bout 
  which 
  when 
  what 
@@ -119,6 +124,8 @@
  her 
  other 
  them 
+ 'em 
+ &#039;em 
  she 
  shes 
  she's 
@@ -152,6 +159,8 @@
  aint 
  ain&#039;t 
  oh 
+ oh-oh 
+ oh-oh-oh 
  ya 
  &#039; 
  did 
@@ -183,9 +192,6 @@
  18 
  19 
  20 
- chorus 
- verse 
- pre-chorus 
  shouldn't 
  should 
  shouldn&#039;t 
@@ -233,20 +239,15 @@
  takes 
  down 
  must 
- make 
  still 
  here 
  get 
  gets 
  got 
- always 
  every 
  only 
  again 
- everything 
- nothing 
  back 
- together 
  ever 
  something 
  may 
@@ -276,9 +277,30 @@
  &#039;till 
  until 
  till 
- anyway 
- everyone 
  'cos 
  &#039;cos 
+ cuz 
+ 'cuz 
+ &#039;cuz 
  instead 
- 
+ around 
+ gon 
+ cause 
+ yall 
+ y'all 
+ y&#039;all 
+ intro
+ outro 
+ bridge 
+ verse 
+ chorus 
+ pre-chorus 
+ uh 
+ oh 
+ yeah 
+ yea 
+ la 
+ ola 
+ ha 
+ haha 
+ ha-ha 

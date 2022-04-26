@@ -87,14 +87,18 @@ def lyrics_inspector_full_cycle(artist):
     code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons = io.open('txt/excludes/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    replace_values = code_elements + commas_and_symbols + eng_commons + stuff_values
+    eng_commons_expanded = io.open('txt/excludes/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
     eng_lyrics = ' '.join(eng_lyrics)
     eng_lyrics = text_replace(eng_lyrics, replace_values)
     eng_lyrics = text_replace(eng_lyrics, replace_values)
     words = eng_lyrics.split(' ')
     words = [value for value in words if value]
     words_counter_list = Counter(words).most_common()
-    words_counter_str = '\n'.join(map(str, words_counter_list[0:60]))
+    if len(words_counter_list)>150:
+        words_counter_str = '\n'.join(map(str, words_counter_list[0:150]))
+    else:
+        words_counter_str = '\n'.join(map(str, words_counter_list))
     return words_counter_str
 
 token = io.open('txt/token.txt', mode="r", encoding='utf-8').read()
@@ -111,8 +115,14 @@ def get_request_from_the_user(inbox_message):
         bot.send_message(inbox_message.chat.id, f'<b>Your Technical Data:</b>\n\n{inbox_message}', parse_mode='html')
     else:
         artist_requested_by_user = inbox_message.text
-        bot.send_message(inbox_message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it\nWait, please...")
-        bot.send_message(inbox_message.chat.id, f"I search all aviable data, it usually takes from 30 sec to a few minutes\nBut if I won't response it means I'm on repair today")
-        bot.send_message(inbox_message.chat.id, lyrics_inspector_full_cycle(artist_requested_by_user))
+        bot.send_message(inbox_message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
+                                                f"\nWait, please...")
+        bot.send_message(inbox_message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
+                                                f"sec to a couple of minutes\nBut if I don't response that means I'm on"
+                                                f" repair today")
+        bot.send_message(inbox_message.chat.id, f"So that's {artist_requested_by_user}'s favoutie words:\n\n"
+                                                f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
+                                                f"Please be considered that I have excluded articles, preverbs and "
+                                                f"constructinal words like 'am', 'have', 'been', etc.")
 
 bot.polling(none_stop=True)

@@ -10,6 +10,8 @@
  wanna 
  gonna 
  going 
+ goin 
+ goin' 
  gone 
  need 
  gotta 
@@ -18,3 +20,14 @@
  now 
  no 
  yes 
+ make 
+ made 
+ makes 
+ always 
+ everything 
+ nothing 
+ something 
+ together 
+ everybody 
+ everyone 
+ anyway 

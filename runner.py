@@ -126,8 +126,10 @@ def words_replace(target_str, words_replace_list, ):
         target_str = target_str.replace(el, ' ')
     return target_str
 
-c = Counter(words).most_common()
-print(type(c))
-d = '\n'.join(map(str, c))
-print(type(d))
-print(d)
+words_counter_list = Counter(words).most_common()
+if len(words_counter_list) > 150:
+    words_counter_str = '\n'.join(map(str, words_counter_list[0:150]))
+else:
+    words_counter_str = '\n'.join(map(str, words_counter_list))
+
+print(words)
