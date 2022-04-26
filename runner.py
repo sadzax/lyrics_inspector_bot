@@ -127,5 +127,5 @@ def words_replace(target_str, words_replace_list, ):
     return target_str
 
 c = Counter(words).most_common()
-for i in c:
+for i in c[0:60]:
     print(i)
