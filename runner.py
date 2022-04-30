@@ -5,6 +5,7 @@ import io
 import re
 import ssl
 from urllib3 import poolmanager
+import spacy
 
 # 1.1. Ask user to type the name of the artist and force it to lowercase
 artist = input('Select Artist: ').lower()
@@ -119,6 +120,10 @@ eng_lyrics = text_replace(eng_lyrics, replace_values) # sometimes cleaning leads
 # eng_lyrics = text_reunion(eng_lyrics, reunion_values)
 words = eng_lyrics.split(' ')
 words = [value for value in words if value] # Remove empty values in list
+nlp = spacy.load("en_core_web_sm")
+lemmatizer = nlp.get_pipe("lemmatizer")
+doc = nlp(' '.join(map(str, words)))
+words = [token.lemma_ for token in doc]
 
 # Unused - check later
 def words_replace(target_str, words_replace_list, ):
@@ -131,5 +136,4 @@ if len(words_counter_list) > 150:
     words_counter_str = '\n'.join(map(str, words_counter_list[0:150]))
 else:
     words_counter_str = '\n'.join(map(str, words_counter_list))
-
-print(words)
+print (words_counter_str)
