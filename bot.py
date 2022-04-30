@@ -81,13 +81,13 @@ def lyrics_inspector_full_cycle(artist):
         for el in replace_values:
             target_str = target_str.replace(el, ' ')
         return target_str
-    eng_shorts = io.open('txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_shorts = io.open('/root/sadzax/lyrics/txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     reunion_values = eng_shorts
-    commas_and_symbols = io.open('txt/excludes/commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons = io.open('txt/excludes/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons_expanded = io.open('txt/excludes/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    commas_and_symbols = io.open('/root/sadzax/lyrics/txt/excludes/commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    code_elements = io.open('/root/sadzax/lyrics/txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    stuff_values = io.open('/root/sadzax/lyrics/txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons = io.open('/root/sadzax/lyrics/txt/excludes/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons_expanded = io.open('/root/sadzax/lyrics/txt/excludes/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
     eng_lyrics = ' '.join(eng_lyrics)
     eng_lyrics = text_replace(eng_lyrics, replace_values)
@@ -101,7 +101,7 @@ def lyrics_inspector_full_cycle(artist):
         words_counter_str = '\n'.join(map(str, words_counter_list))
     return words_counter_str
 
-token = io.open('token.txt', mode="r", encoding='utf-8').read()
+token = io.open('/root/sadzax/lyrics/token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start'])
