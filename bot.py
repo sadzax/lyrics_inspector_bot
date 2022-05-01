@@ -229,8 +229,8 @@ def get_request_from_the_user(inbox_message):
     if inbox_message.text == 'testme':
         bot.send_message(inbox_message.chat.id, f'<b>Your Technical Data:</b>\n\n{inbox_message}', parse_mode='html')
     elif inbox_message.text == 'ru':
-        bot.send_message(inbox_message.chat.id, f'<b>Введите зарубежного артиста, чьи самые распространённые '
-                                                f'слова (в русском переводе) вы хотите увидеть: </b>
+        bot.send_message(inbox_message.chat.id, f'Введите зарубежного артиста, чьи самые распространённые '
+                                                f'слова (в русском переводе) вы хотите увидеть: ')
         def get_rus_request_from_the_user(inbox_message_rus):
             artist_requested_by_user = inbox_message_rus.text
             bot.send_message(inbox_message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
