@@ -102,7 +102,8 @@ def lyrics_inspector_full_cycle(artist):
     nlp = spacy.load("en_core_web_sm")
     lemmatizer = nlp.get_pipe("lemmatizer")
     doc = nlp(' '.join(map(str, words)))
-    words = [token.lemma_ for token in doc]
+    words = [token.lemma_ for token in doc if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
+                  or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
     words_counter_list = Counter(words).most_common()
     if len(words_counter_list)>150:
