@@ -82,42 +82,51 @@ for url_tail in every_song_urls:
 
 # 3.1 Open the dirty text_dump_file
 
-# 3.2 Form only english lyrics from the song
+# 3.2 Form lyrics from the song
+# 3.2.1. English:
 eng_lyrics = []
 i = 0
 while i < len(text):
     if text[i].startswith('<div class="string_container">') is True:
         eng_lyrics.append(text[i])  # include original
-        if text[i + 1].startswith('<div class="translate">') is True:  # but exclude translations
-            i = i + 1
-        else:
-            eng_lyrics.append(
-                text[i + 1])  # and include in original 2nd value (because some texts got split with their <div>s
+    i = i + 1
+# 3.2.2. Russian translation:
+translated_lyrics = []
+i = 0
+while i < len(text):
+    if text[i].startswith('<div class="translate">') is True:
+        translated_lyrics.append(text[i])
     i = i + 1
 
 # 4.1 Clearing the text from commas, articles etc., defining the lists of exclude words and symbols
+# 4.1.1.1. /text_reunion is out of use/
 def text_reunion(target_str, reunion_values, ):
     for el in reunion_values:
         target_str = target_str.replace(el, '')
     return target_str
+# 4.1.1.2. /text_reunion is out of use/
+eng_shorts = io.open('txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+reunion_values = eng_shorts
+# 4.1.2.1. text_replace is very useful !
 def text_replace(target_str, replace_values, ):
     for el in replace_values:
         target_str = target_str.replace(el, ' ')
     return target_str
-eng_shorts = io.open('txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-reunion_values = eng_shorts
+# 4.1.2.2. text_replace is very useful !
+code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 commas_and_symbols = io.open('txt/excludes/commas_and_symbols.txt', mode="r",
                              encoding='utf-8').read().lower().splitlines()
-code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 eng_commons = io.open('txt/excludes/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-replace_values = code_elements + commas_and_symbols + eng_commons + stuff_values
+eng_commons_expanded = io.open('txt/excludes/eng_commons_expanded.txt', mode="r",
+                               encoding='utf-8').read().lower().splitlines()
+stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
 
 # 4.2. Finally...
 eng_lyrics = ' '.join(eng_lyrics)
 eng_lyrics = text_replace(eng_lyrics, replace_values)
 eng_lyrics = text_replace(eng_lyrics, replace_values) # sometimes cleaning leads to a new replaceable values
-# eng_lyrics = text_reunion(eng_lyrics, reunion_values)
+# eng_lyrics = text_reunion(eng_lyrics, reunion_values) # Unused
 words = eng_lyrics.split(' ')
 words = [value for value in words if value] # Remove empty values in list
 nlp = spacy.load("en_core_web_sm")
@@ -125,7 +134,17 @@ lemmatizer = nlp.get_pipe("lemmatizer")
 doc = nlp(' '.join(map(str, words)))
 words = [token.lemma_ for token in doc]
 
-# Unused - check later
+translated_lyrics = ' '.join(map(str, translated_lyrics))
+translated_lyrics = text_replace(translated_lyrics, replace_values)
+translates = translated_lyrics.split(' ')
+translates = [value for value in translates if value]  # Remove empty values in list
+nlp = spacy.load("ru_core_news_sm")
+lemmatizer = nlp.get_pipe("lemmatizer")
+doc = nlp(' '.join(map(str, translates)))
+translates = [token.lemma_ for token in doc if token.pos_ == 'ADV' or  token.pos_ == 'ADJ'
+              or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
+
+# Unused
 def words_replace(target_str, words_replace_list, ):
     for el in words_replace_list:
         target_str = target_str.replace(el, ' ')
@@ -136,4 +155,12 @@ if len(words_counter_list) > 150:
     words_counter_str = '\n'.join(map(str, words_counter_list[0:150]))
 else:
     words_counter_str = '\n'.join(map(str, words_counter_list))
-print (words_counter_str)
+
+translates_counter_list = Counter(translates).most_common()
+if len(translates_counter_list) > 150:
+    translates_counter_str = '\n'.join(map(str, translates_counter_list[0:150]))
+else:
+    translates_counter_str = '\n'.join(map(str, translates_counter_list))
+
+for i in translates_counter_list:
+    print(i)
