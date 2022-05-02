@@ -252,12 +252,24 @@ def get_russian_switcher_from_the_user(message):
                                                       f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                       f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+    if message.text == 'testme':
+        bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
+    else:
+        artist_requested_by_user = message.text
+        bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
+                                          f"\nWait, please...")
+        bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
+                                          f"sec to a couple of minutes\nIf I don't response for a too long "
+                                          f"that means I'm on repair today")
+        bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
+                                          f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
+                                          f"Please consider I have tried to exclude articles, preverbs and "
+                                          f"constructinal words like 'am', 'have', 'been', etc. If you find "
+                                          f"some words like this, feel free to contact me (check 'about')")
 
 
 @bot.message_handler()
 def get_request_from_the_user(message):
-    if message.text == 'testme':
-        bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
     elif message.text == '672686918':
         bot.send_message(message.chat.id, f'Введите зарубежного артиста, чьи самые распространённые '
                                                 f'слова (в русском переводе) вы хотите увидеть: ')
@@ -273,17 +285,5 @@ def get_request_from_the_user(message):
                                                         f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                         f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                         f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
-    else:
-        artist_requested_by_user = message.text
-        bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
-                                                f"\nWait, please...")
-        bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
-                                                f"sec to a couple of minutes\nIf I don't response for a too long "
-                                                f"that means I'm on repair today")
-        bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
-                                                f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
-                                                f"Please consider I have tried to exclude articles, preverbs and "
-                                                f"constructinal words like 'am', 'have', 'been', etc. If you find "
-                                                f"some words like this, feel free to contact me (check 'about')")
 
 bot.polling(none_stop=True)
