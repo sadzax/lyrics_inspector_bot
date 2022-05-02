@@ -217,7 +217,6 @@ def lyrics_inspector_full_cycle_translate(artist):
 tokenTG = io.open('/root/sadzax/lyrics/token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(tokenTG)
 
-
 @bot.message_handler(commands=['start'])
 def start(message):
     bot_resopnse_on_start = f'<b>Hello, {message.from_user.first_name}</b>\n\n' \
@@ -266,24 +265,5 @@ def get_russian_switcher_from_the_user(message):
                                           f"Please consider I have tried to exclude articles, preverbs and "
                                           f"constructinal words like 'am', 'have', 'been', etc. If you find "
                                           f"some words like this, feel free to contact me (check 'about')")
-
-
-@bot.message_handler()
-def get_request_from_the_user(message):
-    elif message.text == '672686918':
-        bot.send_message(message.chat.id, f'Введите зарубежного артиста, чьи самые распространённые '
-                                                f'слова (в русском переводе) вы хотите увидеть: ')
-        def get_rus_request_from_the_user(message):
-            artist_requested_by_user = message.text
-            bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
-                                                        f"немного подожите, если имя введено корректно, то я"
-                                                        f"постараюсь всё найти для вас. Обычно, на это уходит пара"
-                                                        f"минут. Если долго не отвечаю, значит, я на починке")
-            bot.send_message(message_rus.chat.id, f"Вот какие слова больше всего любит "
-                                                        f"{artist_requested_by_user}: \n\n"
-                                                        f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
-                                                        f"Я постарался убрать частицы, местоимения, союзы и всё такое "
-                                                        f"подобное, но я ещё совсем юный робот, и я только учусь, "
-                                                        f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
 
 bot.polling(none_stop=True)
