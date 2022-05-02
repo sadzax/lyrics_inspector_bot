@@ -240,7 +240,7 @@ def get_russian_switcher_from_the_user(message):
                                               f'Пришлите мне зарубежного артиста, чьи самые распространённые слова'
                                               f' (в русском переводе) вы хотите увидеть:', parse_mode='html')
             @bot.message_handler()
-            def get_russian_request_from_the_user
+            def get_russian_request_from_the_user(message):
                 artist_requested_by_user = message.text
                 bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
                                                       f"немного подожите, если имя введено корректно, то я"
