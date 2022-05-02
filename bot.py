@@ -214,44 +214,50 @@ def lyrics_inspector_full_cycle_translate(artist):
         translates_counter_str = '\n'.join(map(str, translates_counter_list))
     return translates_counter_str
 
-
 tokenTG = io.open('/root/sadzax/lyrics/token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(tokenTG)
 
 @bot.message_handler(commands=['start'])
-def start(inbox_message):
-    bot_resopnse_on_start = f'<b>Hello, {inbox_message.from_user.first_name} </b> \n Switch to Russian translations ' \
-                            f'by sending me "ru" command (Переключиться на переводы можно, ответив на это сообщение ' \
-                            f'сообщением "ru") \n Send me the name of the Artist:'
-    bot.send_message(inbox_message.chat.id, bot_resopnse_on_start, parse_mode='html')
+def start(message):
+    bot_resopnse_on_start = f'<b>Hello, {message.from_user.first_name}</b>\n\nYou ca switch to Russian translations' \
+                            f' by sending me "Ru" command\n(Переключиться на переводы можно, ответив на это сообщение' \
+                            f' сообщением "Ru")\nSend me the name of the Artist:'
+    bot.send_message(message.chat.id, bot_resopnse_on_start, parse_mode='html')
 
 @bot.message_handler()
-def get_request_from_the_user(inbox_message):
-    if inbox_message.text == 'testme':
-        bot.send_message(inbox_message.chat.id, f'<b>Your Technical Data:</b>\n\n{inbox_message}', parse_mode='html')
-    elif inbox_message.text == 'ru':
-        bot.send_message(inbox_message.chat.id, f'Введите зарубежного артиста, чьи самые распространённые '
+def get_russian_request_from_the_user(message):
+    rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский', 'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
+    for i in rus_switcher:
+        if message.text.lower() == i:
+            bot.send_message(message.chat.id, f'<b>Мы переключились на переводы</b>', parse_mode='html')
+
+@bot.message_handler()
+def get_request_from_the_user(message):
+    if message.text == 'testme':
+        bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
+    elif message.text == '672686918':
+        bot.send_message(message.chat.id, f'Введите зарубежного артиста, чьи самые распространённые '
                                                 f'слова (в русском переводе) вы хотите увидеть: ')
-        def get_rus_request_from_the_user(inbox_message_rus):
-            artist_requested_by_user = inbox_message_rus.text
-            bot.send_message(inbox_message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
+        def get_rus_request_from_the_user(message):
+            artist_requested_by_user = message.text
+            bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
                                                         f"немного подожите, если имя введено корректно, то я"
                                                         f"постараюсь всё найти для вас. Обычно, на это уходит пара"
                                                         f"минут. Если долго не отвечаю, значит, я на починке")
-            bot.send_message(inbox_message_rus.chat.id, f"Вот какие слова больше всего любит "
+            bot.send_message(message_rus.chat.id, f"Вот какие слова больше всего любит "
                                                         f"{artist_requested_by_user}: \n\n"
                                                         f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
                                                         f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                         f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                         f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
     else:
-        artist_requested_by_user = inbox_message.text
-        bot.send_message(inbox_message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
+        artist_requested_by_user = message.text
+        bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
                                                 f"\nWait, please...")
-        bot.send_message(inbox_message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
+        bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
                                                 f"sec to a couple of minutes\nIf I don't response for a too long "
                                                 f"that means I'm on repair today")
-        bot.send_message(inbox_message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
+        bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
                                                 f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
                                                 f"Please consider I have tried to exclude articles, preverbs and "
                                                 f"constructinal words like 'am', 'have', 'been', etc. If you find "
