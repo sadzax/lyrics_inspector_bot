@@ -217,19 +217,42 @@ def lyrics_inspector_full_cycle_translate(artist):
 tokenTG = io.open('/root/sadzax/lyrics/token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(tokenTG)
 
+
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot_resopnse_on_start = f'<b>Hello, {message.from_user.first_name}</b>\n\nYou ca switch to Russian translations' \
-                            f' by sending me "Ru" command\n(Переключиться на переводы можно, ответив на это сообщение' \
-                            f' сообщением "Ru")\nSend me the name of the Artist:'
+    bot_resopnse_on_start = f'<b>Hello, {message.from_user.first_name}</b>\n\n' \
+                            f'You ca switch to Russian translations by sending me messages like' \
+                            f' "Ru", "Translations" etc.\n' \
+                            f'(Переключиться на переводы можно, ответив на это сообщение чем-то вроде' \
+                            f' "переводы", "рус" и т.д.)\n\n' \
+                            f'Send me the name of the Artist:'
     bot.send_message(message.chat.id, bot_resopnse_on_start, parse_mode='html')
 
+
 @bot.message_handler()
-def get_russian_request_from_the_user(message):
+def get_russian_switcher_from_the_user(message):
     rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский', 'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
     for i in rus_switcher:
         if message.text.lower() == i:
-            bot.send_message(message.chat.id, f'<b>Мы переключились на переводы</b>', parse_mode='html')
+            bot.send_message(message.chat.id, f'Мы теперь переключились на переводы\n\n'
+                                              f'Switch back to English by sending me /start commamd\n'
+                                              f'Переключиться обратно на оригиналы можно через команду /start\n\n'
+                                              f'Пришлите мне зарубежного артиста, чьи самые распространённые слова'
+                                              f' (в русском переводе) вы хотите увидеть:', parse_mode='html')
+            @bot.message_handler()
+            def get_russian_request_from_the_user
+                artist_requested_by_user = message.text
+                bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
+                                                      f"немного подожите, если имя введено корректно, то я"
+                                                      f"постараюсь всё найти для вас. Обычно, на это уходит пара"
+                                                      f"минут. Если долго не отвечаю, значит, я на починке")
+                bot.send_message(message_rus.chat.id, f"Вот какие слова больше всего любит "
+                                                      f"{artist_requested_by_user}: \n\n"
+                                                      f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
+                                                      f"Я постарался убрать частицы, местоимения, союзы и всё такое "
+                                                      f"подобное, но я ещё совсем юный робот, и я только учусь, "
+                                                      f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+
 
 @bot.message_handler()
 def get_request_from_the_user(message):
