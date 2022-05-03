@@ -251,7 +251,7 @@ def get_russian_switcher_from_the_user(message):
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
     if message.text == 'testme':
         bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
-    if message.text.lower() not in rus_switcher:
+    if message.text.lower() not in rus_switcher and message.text.lower() != 'testme':
         artist_requested_by_user = message.text
         bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
                                           f"\nWait, please...")
