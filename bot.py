@@ -231,44 +231,37 @@ def start(message):
 @bot.message_handler()
 def get_russian_switcher_from_the_user(message):
     rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский', 'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
-    for i in rus_switcher:
-        if message.text.lower() == i:
-            bot.send_message(message.chat.id, f'Мы теперь переключились на переводы\n\n'
+    if message.text.lower() in rus_switcher:
+        bot.send_message(message.chat.id, f'Мы теперь переключились на переводы\n\n'
                                               f'Switch back to English by sending me /start commamd\n'
                                               f'Переключиться обратно на оригиналы можно через команду /start\n\n'
                                               f'Пришлите мне зарубежного артиста, чьи самые распространённые слова'
                                               f' (в русском переводе) вы хотите увидеть:', parse_mode='html')
-            def get_russian_request_from_the_user(message_rus):
-                artist_requested_by_user = message_rus.text
-                bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
+        def get_russian_request_from_the_user(message_rus):
+            artist_requested_by_user = message_rus.text
+            bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
                                                       f"немного подожите, если имя введено корректно, то я"
                                                       f"постараюсь всё найти для вас. Обычно, на это уходит пара"
                                                       f"минут. Если долго не отвечаю, значит, я на починке")
-                bot.send_message(message_rus.chat.id, f"Вот какие слова больше всего любит "
+            bot.send_message(message_rus.chat.id, f"Вот какие слова больше всего любит "
                                                       f"{artist_requested_by_user}: \n\n"
                                                       f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
                                                       f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                       f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
-        else:
-            continue
     if message.text == 'testme':
         bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
-    for i in rus_switcher:
-        if message.text.lower() != i:
-            artist_requested_by_user = message.text
-            bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
+    if message.text.lower() not in rus_switcher:
+        artist_requested_by_user = message.text
+        bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
                                           f"\nWait, please...")
-            bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
+        bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
                                           f"sec to a couple of minutes\nIf I don't response for a too long "
                                           f"that means I'm on repair today")
-            bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
+        bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
                                           f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
                                           f"Please consider I have tried to exclude articles, preverbs and "
                                           f"constructinal words like 'am', 'have', 'been', etc. If you find "
                                           f"some words like this, feel free to contact me (check 'about')")
-        else:
-            break
-    break
 
 bot.polling(none_stop=True)
