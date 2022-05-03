@@ -237,6 +237,7 @@ def get_russian_switcher_from_the_user(message):
                                               f'Переключиться обратно на оригиналы можно через команду /start\n\n'
                                               f'Пришлите мне зарубежного артиста, чьи самые распространённые слова'
                                               f' (в русском переводе) вы хотите увидеть:', parse_mode='html')
+        @bot.message_handler()
         def get_russian_request_from_the_user(message_rus):
             artist_requested_by_user = message_rus.text
             bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
@@ -249,6 +250,7 @@ def get_russian_switcher_from_the_user(message):
                                                       f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                       f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+        break
     if message.text == 'testme':
         bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
     if message.text.lower() not in rus_switcher and message.text.lower() != 'testme':
