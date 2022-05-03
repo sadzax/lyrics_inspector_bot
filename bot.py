@@ -217,7 +217,7 @@ def lyrics_inspector_full_cycle_translate(artist):
 tokenTG = io.open('/root/sadzax/lyrics/token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(tokenTG)
 
-@bot.message_handler(commands=['start'])
+@bot.message_handler(commands=['start', 'help'])
 def start(message):
     bot_resopnse_on_start = f'<b>Hello, {message.from_user.first_name}</b>\n\n' \
                             f'You ca switch to Russian translations by sending me messages like' \
@@ -238,9 +238,8 @@ def get_russian_switcher_from_the_user(message):
                                               f'Переключиться обратно на оригиналы можно через команду /start\n\n'
                                               f'Пришлите мне зарубежного артиста, чьи самые распространённые слова'
                                               f' (в русском переводе) вы хотите увидеть:', parse_mode='html')
-            @bot.message_handler()
-            def get_russian_request_from_the_user(message):
-                artist_requested_by_user = message.text
+            def get_russian_request_from_the_user(message_rus):
+                artist_requested_by_user = message_rus.text
                 bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
                                                       f"немного подожите, если имя введено корректно, то я"
                                                       f"постараюсь всё найти для вас. Обычно, на это уходит пара"
@@ -251,19 +250,25 @@ def get_russian_switcher_from_the_user(message):
                                                       f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                       f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+        else:
+            continue
     if message.text == 'testme':
         bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
-    else:
-        artist_requested_by_user = message.text
-        bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
+    for i in rus_switcher:
+        if message.text.lower() != i:
+            artist_requested_by_user = message.text
+            bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
                                           f"\nWait, please...")
-        bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
+            bot.send_message(message.chat.id, f"I search in all data aviable for me online, it usually takes from 30 "
                                           f"sec to a couple of minutes\nIf I don't response for a too long "
                                           f"that means I'm on repair today")
-        bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
+            bot.send_message(message.chat.id, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
                                           f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
                                           f"Please consider I have tried to exclude articles, preverbs and "
                                           f"constructinal words like 'am', 'have', 'been', etc. If you find "
                                           f"some words like this, feel free to contact me (check 'about')")
+        else:
+            break
+    break
 
 bot.polling(none_stop=True)
