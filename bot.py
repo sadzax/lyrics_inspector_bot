@@ -106,8 +106,8 @@ def lyrics_inspector_full_cycle(artist):
                   or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
     words_counter_list = Counter(words).most_common()
-    if len(words_counter_list)>150:
-        words_counter_str = '\n'.join(map(str, words_counter_list[0:150]))
+    if len(words_counter_list)>30:
+        words_counter_str = '\n'.join(map(str, words_counter_list[0:30]))
     else:
         words_counter_str = '\n'.join(map(str, words_counter_list))
     return words_counter_str
@@ -208,8 +208,8 @@ def lyrics_inspector_full_cycle_translate(artist):
                   or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
     translates_counter_list = Counter(translates).most_common()
-    if len(translates_counter_list)>150:
-        translates_counter_str = '\n'.join(map(str, translates_counter_list[0:150]))
+    if len(translates_counter_list)>30:
+        translates_counter_str = '\n'.join(map(str, translates_counter_list[0:30]))
     else:
         translates_counter_str = '\n'.join(map(str, translates_counter_list))
     return translates_counter_str
@@ -239,10 +239,10 @@ Switch back to English by sending me /start commamd
 """)
         def get_russian_request_from_the_user(message_rus):
             artist_requested_by_user = message_rus.text
-            bot.reply_to(message_rus, f"Вы выбрали {artist_requested_by_user}\n\nПожалуйста, "
-                                                      f"немного подожите, если имя введено корректно, то я"
-                                                      f"постараюсь всё найти для вас. Обычно, на это уходит пара"
-                                                      f"минут. Если долго не отвечаю, значит, я на починке")
+            bot.reply_to(message_rus, f"Вы выбрали {artist_requested_by_user}\n\nПожалуйста,"
+                                                      f" немного подожите, если имя введено корректно, то я"
+                                                      f" постараюсь всё найти для вас. Обычно, на это уходит пара"
+                                                      f" минут. Если долго не отвечаю, значит, я на починке")
             bot.reply_to(message_rus, f"Вот какие слова больше всего любит "
                                                       f"{artist_requested_by_user}: \n\n"
                                                       f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
@@ -256,8 +256,8 @@ Switch back to English by sending me /start commamd
         artist_requested_by_user = message.text
         bot.reply_to(message, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
                                           f"\nWait, please..."
-                                          f"\nI search in all data aviable for me online, it usually takes"
-                                          f" a couple of minutes\nIf I don't response for a too long "
+                                          f"\n\nI search in all data aviable for me online, it usually takes"
+                                          f" a couple of minutes\nBut if I don't response for a long time "
                                           f"that means I'm on repair today")
         bot.reply_to(message, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
                                           f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
