@@ -227,30 +227,29 @@ def start(message):
                             f'Send me the name of the Artist:'
     bot.send_message(message.chat.id, bot_resopnse_on_start, parse_mode='html')
 
-
 @bot.message_handler()
 def switcher_and_request(message):
     rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский', 'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
     if message.text.lower() in rus_switcher:
         reply_to_rus_switcher = bot.reply_to(message, """\
-Мы теперь переключились на переводы\n\n
-Switch back to English by sending me /start commamd\n
-Переключиться обратно на оригиналы можно через команду /start\n\n
+Мы теперь переключились на переводы\n
+Switch back to English by sending me /start commamd
+Переключиться обратно на оригиналы можно через команду /start\n
 Пришлите мне зарубежного артиста, чьи самые распространённые слова (в русском переводе) вы хотите увидеть:
 """)
-        bot.register_next_step_handler(reply_to_rus_switcher, get_russian_request_from_the_user)
         def get_russian_request_from_the_user(message_rus):
             artist_requested_by_user = message_rus.text
-            bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
+            bot.reply_to(message_rus, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
                                                       f"немного подожите, если имя введено корректно, то я"
                                                       f"постараюсь всё найти для вас. Обычно, на это уходит пара"
                                                       f"минут. Если долго не отвечаю, значит, я на починке")
-            bot.send_message(message_rus.chat.id, f"Вот какие слова больше всего любит "
+            bot.reply_to(message_rus, f"Вот какие слова больше всего любит "
                                                       f"{artist_requested_by_user}: \n\n"
                                                       f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
                                                       f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                       f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+        bot.register_next_step_handler(reply_to_rus_switcher, get_russian_request_from_the_user)
     elif message.text == 'testme':
         bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
     elif message.text.lower() not in rus_switcher and message.text.lower() != 'testme':
