@@ -229,15 +229,16 @@ def start(message):
 
 
 @bot.message_handler()
-def get_russian_switcher_from_the_user(message):
+def switcher_and_request(message):
     rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский', 'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
     if message.text.lower() in rus_switcher:
-        bot.send_message(message.chat.id, f'Мы теперь переключились на переводы\n\n'
-                                              f'Switch back to English by sending me /start commamd\n'
-                                              f'Переключиться обратно на оригиналы можно через команду /start\n\n'
-                                              f'Пришлите мне зарубежного артиста, чьи самые распространённые слова'
-                                              f' (в русском переводе) вы хотите увидеть:', parse_mode='html')
-        @bot.message_handler()
+        reply_to_rus_switcher = bot.reply_to(message, """\
+Мы теперь переключились на переводы\n\n
+Switch back to English by sending me /start commamd\n
+Переключиться обратно на оригиналы можно через команду /start\n\n
+Пришлите мне зарубежного артиста, чьи самые распространённые слова (в русском переводе) вы хотите увидеть:
+""")
+        bot.register_next_step_handler(reply_to_rus_switcher, get_russian_request_from_the_user)
         def get_russian_request_from_the_user(message_rus):
             artist_requested_by_user = message_rus.text
             bot.send_message(message_rus.chat.id, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
@@ -250,9 +251,9 @@ def get_russian_switcher_from_the_user(message):
                                                       f"Я постарался убрать частицы, местоимения, союзы и всё такое "
                                                       f"подобное, но я ещё совсем юный робот, и я только учусь, "
                                                       f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
-    if message.text == 'testme':
+    elif message.text == 'testme':
         bot.send_message(message.chat.id, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
-    if message.text.lower() not in rus_switcher and message.text.lower() != 'testme':
+    elif message.text.lower() not in rus_switcher and message.text.lower() != 'testme':
         artist_requested_by_user = message.text
         bot.send_message(message.chat.id, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
                                           f"\nWait, please...")
