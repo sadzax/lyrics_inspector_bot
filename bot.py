@@ -174,11 +174,11 @@ def lyrics_inspector_full_cycle_translate(artist):
         song_response = session.get(url_song).text.lower().splitlines()
         text.extend(song_response)
 
-    transaled_lyrics = []
+    translated_lyrics = []
     i = 0
     while i < len(text):
         if text[i].startswith('<div class="translate">') is True:
-            transaled_lyrics.append(text[i])
+            translated_lyrics.append(text[i])
         i = i + 1
 
     def text_replace(target_str, replace_values, ):
@@ -239,7 +239,7 @@ Switch back to English by sending me /start commamd
 """)
         def get_russian_request_from_the_user(message_rus):
             artist_requested_by_user = message_rus.text
-            bot.reply_to(message_rus, f"Вы выбрали {artist_requested_by_user} \n Пожалуйста, "
+            bot.reply_to(message_rus, f"Вы выбрали {artist_requested_by_user}\n\nПожалуйста, "
                                                       f"немного подожите, если имя введено корректно, то я"
                                                       f"постараюсь всё найти для вас. Обычно, на это уходит пара"
                                                       f"минут. Если долго не отвечаю, значит, я на починке")
