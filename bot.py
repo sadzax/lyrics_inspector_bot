@@ -220,7 +220,7 @@ bot = telebot.TeleBot(tokenTG)
 @bot.message_handler(commands=['start', 'help'])
 def start(message):
     bot_resopnse_on_start = f'<b>Hello, {message.from_user.first_name}</b>\n\n' \
-                            f'You ca switch to Russian translations by sending me messages like' \
+                            f'You can switch to Russian translations by sending me messages like' \
                             f' "Ru", "Translations" etc.\n' \
                             f'(Переключиться на переводы можно, ответив на это сообщение чем-то вроде' \
                             f' "переводы", "рус" и т.д.)\n\n' \

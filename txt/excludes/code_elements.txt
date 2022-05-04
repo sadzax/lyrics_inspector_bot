@@ -14,6 +14,5 @@
  alt= 
  title= 
  width= 
-br
 close_quality
  x 
