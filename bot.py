@@ -76,6 +76,10 @@ def lyrics_inspector_full_cycle(artist):
     while i < len(text):
         if text[i].startswith('<div class="string_container">') is True:
             eng_lyrics.append(text[i])
+            iter = 1
+            while text[i+iter].startswith('<div class=') is False:
+                eng_lyrics.append(text[i+iter])
+                iter = iter + 1
         i = i + 1
 
     def text_replace(target_str, replace_values, ):
