@@ -88,10 +88,10 @@ def lyrics_inspector_full_cycle(artist):
         return target_str
     code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons = io.open('/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons_expanded = io.open('/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    stuff_values = io.open('/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    stuff_values = io.open('stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
     eng_lyrics = ' '.join(eng_lyrics)
@@ -186,10 +186,10 @@ def lyrics_inspector_full_cycle_translate(artist):
         return target_str
     code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons = io.open('/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons_expanded = io.open('/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    stuff_values = io.open('/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    stuff_values = io.open('stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
     translated_lyrics = ' '.join(map(str, translated_lyrics))
