@@ -1,5 +1,5 @@
-FROM python
+FROM python:slim
 
-RUN pip3 install -r requirements.txt && apt-get update -y && apt-get install -y && python -r requirements_spacy.txt
+RUN pip3 install -r requirements.txt && apt-get update -y && apt-get install -y &&
 
-ENTRYPOINT ["python", "bot.py"]
+ENTRYPOINT ["python", "runner.py"]
