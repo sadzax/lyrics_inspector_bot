@@ -165,4 +165,5 @@ if len(translates_counter_list) > 30:
 else:
     translates_counter_str = '\n'.join(map(str, translates_counter_list))
 
+print("Result: \n")
 print(words_counter_str)
