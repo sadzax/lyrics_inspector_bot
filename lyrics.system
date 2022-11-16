@@ -1,14 +1,11 @@
 [Unit]
-Description=Lyrics_Telegram_Bot
-After=network.target
-StartLimitIntervalSec=0
+Description=lyrics_telegram_bot
 
 [Service]
-Type=simple
-Restart=always
-RestartSec=1
 User=support
-ExecStart=/usr/bin/env python3 /home/lyrics/bot.py
+WorkingDirectory=/home/support/lyrics
+ExecStart=python3 /home/support/lyrics/bot.py 
+Restart=always
 
 [Install]
 WantedBy=multi-user.target
