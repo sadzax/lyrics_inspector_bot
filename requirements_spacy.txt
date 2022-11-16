@@ -1,0 +1,2 @@
+-m spacy download en_core_web_sm
+-m spacy download ru_core_news_sm

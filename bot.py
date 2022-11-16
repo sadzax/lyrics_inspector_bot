@@ -86,17 +86,13 @@ def lyrics_inspector_full_cycle(artist):
         for el in replace_values:
             target_str = target_str.replace(el, ' ')
         return target_str
-    code_elements = io.open('/root/sadzax/lyrics/txt/excludes/code_elements.txt',
-                            mode="r", encoding='utf-8').read().lower().splitlines()
-    commas_and_symbols = io.open('/root/sadzax/lyrics/txt/excludes/commas_and_symbols.txt',
-                                 mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons = io.open('/root/sadzax/lyrics/txt/excludes/eng_commons.txt',
-                          mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons_expanded = io.open('/root/sadzax/lyrics/txt/excludes/eng_commons_expanded.txt',
-                                   mode="r", encoding='utf-8').read().lower().splitlines()
-    stuff_values = io.open('/root/sadzax/lyrics/txt/excludes/stuff_values.txt',
-                           mode="r", encoding='utf-8').read().lower().splitlines()
-    replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
+    code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons = io.open('/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons_expanded = io.open('/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    stuff_values = io.open('/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
     eng_lyrics = ' '.join(eng_lyrics)
     eng_lyrics = text_replace(eng_lyrics, replace_values)
@@ -104,7 +100,6 @@ def lyrics_inspector_full_cycle(artist):
     words = eng_lyrics.split(' ')
     words = [value for value in words if value]
     nlp = spacy.load("en_core_web_sm")
-    lemmatizer = nlp.get_pipe("lemmatizer")
     doc = nlp(' '.join(map(str, words)))
     words = [token.lemma_ for token in doc if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
                   or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
@@ -189,24 +184,19 @@ def lyrics_inspector_full_cycle_translate(artist):
         for el in replace_values:
             target_str = target_str.replace(el, ' ')
         return target_str
-    code_elements = io.open('/root/sadzax/lyrics/txt/excludes/code_elements.txt',
-                            mode="r", encoding='utf-8').read().lower().splitlines()
-    commas_and_symbols = io.open('/root/sadzax/lyrics/txt/excludes/commas_and_symbols.txt',
-                                 mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons = io.open('/root/sadzax/lyrics/txt/excludes/eng_commons.txt',
-                          mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons_expanded = io.open('/root/sadzax/lyrics/txt/excludes/eng_commons_expanded.txt',
-                                   mode="r", encoding='utf-8').read().lower().splitlines()
-    stuff_values = io.open('/root/sadzax/lyrics/txt/excludes/stuff_values.txt',
-                           mode="r", encoding='utf-8').read().lower().splitlines()
-    replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
+    code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons = io.open('/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons_expanded = io.open('/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    stuff_values = io.open('/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
     translated_lyrics = ' '.join(map(str, translated_lyrics))
     translated_lyrics = text_replace(translated_lyrics, replace_values)
     translates = translated_lyrics.split(' ')
     translates = [value for value in translates if value]  # Remove empty values in list
     nlp = spacy.load("ru_core_news_sm")
-    lemmatizer = nlp.get_pipe("lemmatizer")
     doc = nlp(' '.join(map(str, translates)))
     translates = [token.lemma_ for token in doc if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
                   or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
@@ -218,7 +208,7 @@ def lyrics_inspector_full_cycle_translate(artist):
         translates_counter_str = '\n'.join(map(str, translates_counter_list))
     return translates_counter_str
 
-tokenTG = io.open('/root/sadzax/lyrics/token.txt', mode="r", encoding='utf-8').read()
+tokenTG = io.open('token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(tokenTG)
 
 @bot.message_handler(commands=['start', 'help'])

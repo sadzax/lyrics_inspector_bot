@@ -17,7 +17,7 @@ elif artist[0:2] == 'a ':
     artist = artist[2:]
 
 # 1.3. Make a list of replacements for a further URL usage (what to replace / by what) and execute replacements
-replace_list_for_artists = (' ', '_', '.', '_', '&', 'and', '(', '', ')', '', '+', 'and')
+replace_list_for_artists = (' ', '_', '.', '_', '&', 'and', '(', '', ')', '', '+', 'and') # type <list> is bot a good option
 i = 1
 while i < len(replace_list_for_artists):
     artist = artist.replace(replace_list_for_artists[i - 1], replace_list_for_artists[i])
@@ -69,7 +69,7 @@ for element in artist_songs_urls:
     soup = soup.partition('.html">')[0] + soup.partition('.html')[1]  # trim right side
     every_song_urls.append(soup)
 every_song_urls = [url_tail for url_tail in every_song_urls if
-                   re.search('html', url_tail)]  # delete nulls and non-rurl_tailevant
+                   re.search('html', url_tail)]  # delete nulls and non-url_tail
 
 # 2.4. By now our `every_song_urls` URLs is full of copy-paste endings to urls with lyrics
 text = []
@@ -99,70 +99,52 @@ while i < len(text):
     i = i + 1
 
 # 4.1 Clearing the text from commas, articles etc., defining the lists of exclude words and symbols
-<<<<<<< HEAD
 # 4.1.1.1. /text_reunion is out of use/
-=======
->>>>>>> 51c819b (ver. 0.2.)
 def text_reunion(target_str, reunion_values, ):
     for el in reunion_values:
         target_str = target_str.replace(el, '')
     return target_str
-<<<<<<< HEAD
 # 4.1.1.2. /text_reunion is out of use/
-eng_shorts = io.open('txt/excludes/eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+eng_shorts = io.open('eng_shorts.txt', mode="r", encoding='utf-8').read().lower().splitlines()
 reunion_values = eng_shorts
 # 4.1.2.1. text_replace is very useful !
-=======
->>>>>>> 51c819b (ver. 0.2.)
 def text_replace(target_str, replace_values, ):
     for el in replace_values:
         target_str = target_str.replace(el, ' ')
     return target_str
-<<<<<<< HEAD
 # 4.1.2.2. text_replace is very useful !
-code_elements = io.open('txt/excludes/code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-commas_and_symbols = io.open('txt/excludes/commas_and_symbols.txt', mode="r",
+code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+commas_and_symbols = io.open('commas_and_symbols.txt', mode="r",
                              encoding='utf-8').read().lower().splitlines()
-eng_commons = io.open('txt/excludes/eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-eng_commons_expanded = io.open('txt/excludes/eng_commons_expanded.txt', mode="r",
+eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+eng_commons_expanded = io.open('eng_commons_expanded.txt', mode="r",
                                encoding='utf-8').read().lower().splitlines()
-stuff_values = io.open('txt/excludes/stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values
-=======
-eng_shorts = io.open("txt/excludes/eng_shorts.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-reunion_values = eng_shorts
-commas_and_symbols = io.open("txt/excludes/commas_and_symbols.txt", mode="r",
-                             encoding='utf-8').read().lower().splitlines()
-code_elements = io.open("txt/excludes/code_elements.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-stuff_values = io.open("txt/excludes/stuff_values.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-eng_commons = io.open("txt/excludes/eng_commons.txt", mode="r", encoding='utf-8').read().lower().splitlines()
-replace_values = commas_and_symbols + code_elements + stuff_values + eng_commons
->>>>>>> 51c819b (ver. 0.2.)
+stuff_values = io.open('stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
 # 4.2. Finally...
 eng_lyrics = ' '.join(eng_lyrics)
 eng_lyrics = text_replace(eng_lyrics, replace_values)
-<<<<<<< HEAD
 eng_lyrics = text_replace(eng_lyrics, replace_values) # sometimes cleaning leads to a new replaceable values
 # eng_lyrics = text_reunion(eng_lyrics, reunion_values) # Unused
-=======
-eng_lyrics = text_reunion(eng_lyrics, reunion_values)
->>>>>>> 51c819b (ver. 0.2.)
 words = eng_lyrics.split(' ')
 words = [value for value in words if value] # Remove empty values in list
-nlp = spacy.load("en_core_web_sm")
-lemmatizer = nlp.get_pipe("lemmatizer")
-doc = nlp(' '.join(map(str, words)))
-words = [token.lemma_ for token in doc]
+nlp_eng = spacy.load("en_core_web_sm")
+# lemmatizer_eng = nlp_eng.get_pipe("lemmatizer") # nned it?
+doc_eng = nlp_eng(' '.join(map(str, words)))
+words = [token.lemma_ for token in doc_eng if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
+              or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
 translated_lyrics = ' '.join(map(str, translated_lyrics))
 translated_lyrics = text_replace(translated_lyrics, replace_values)
+translated_lyrics = text_replace(translated_lyrics, replace_values)
 translates = translated_lyrics.split(' ')
 translates = [value for value in translates if value]  # Remove empty values in list
-nlp = spacy.load("ru_core_news_sm")
-lemmatizer = nlp.get_pipe("lemmatizer")
-doc = nlp(' '.join(map(str, translates)))
-translates = [token.lemma_ for token in doc if token.pos_ == 'ADV' or  token.pos_ == 'ADJ'
+nlp_rus = spacy.load("ru_core_news_sm")
+# lemmatizer_rus = nlp_rus.get_pipe("lemmatizer") # nned it?
+doc_rus = nlp_rus(' '.join(map(str, translates)))
+translates = [token.lemma_ for token in doc_rus if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
               or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
 # Unused
@@ -172,16 +154,19 @@ def words_replace(target_str, words_replace_list, ):
     return target_str
 
 words_counter_list = Counter(words).most_common()
-if len(words_counter_list) > 150:
-    words_counter_str = '\n'.join(map(str, words_counter_list[0:150]))
+if len(words_counter_list) > 30:
+    words_counter_str = '\n'.join(map(str, words_counter_list[0:30]))
 else:
     words_counter_str = '\n'.join(map(str, words_counter_list))
 
 translates_counter_list = Counter(translates).most_common()
-if len(translates_counter_list) > 150:
-    translates_counter_str = '\n'.join(map(str, translates_counter_list[0:150]))
+if len(translates_counter_list) > 30:
+    translates_counter_str = '\n'.join(map(str, translates_counter_list[0:30]))
 else:
     translates_counter_str = '\n'.join(map(str, translates_counter_list))
+
+for i in words_counter_list:
+    print(i)
 
 for i in translates_counter_list:
     print(i)
