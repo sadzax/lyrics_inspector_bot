@@ -8,7 +8,7 @@ from urllib3 import poolmanager
 import spacy
 
 # 1.1. Ask user to type the name of the artist and force it to lowercase
-artist = input('Select Artist: ').lower()
+artist = str(input('Select Artist: ').lower())
 
 # 1.2. Check if there's some article in artists' name and ignore it
 if artist[0:4] == 'the ':
