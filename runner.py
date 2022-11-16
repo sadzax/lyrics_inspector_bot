@@ -166,4 +166,3 @@ else:
     translates_counter_str = '\n'.join(map(str, translates_counter_list))
 
 print(words_counter_str)
-print(translates_counter_str)
