@@ -227,8 +227,6 @@ def switcher_and_request(message):
     if message.text.lower() in rus_switcher:
         reply_to_rus_switcher = bot.reply_to(message, """\
 Мы теперь переключились на переводы\n
-Switch back to English by sending me /start commamd
-Переключиться обратно на оригиналы можно через команду /start\n
 Пришлите мне зарубежного артиста, чьи самые распространённые слова (в русском переводе) вы хотите увидеть:
 """)
         def get_russian_request_from_the_user(message_rus):
