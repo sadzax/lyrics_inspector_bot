@@ -90,7 +90,7 @@ def lyrics_inspector_full_cycle(artist):
     commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons_expanded = io.open('/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons_expanded = io.open('eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     stuff_values = io.open('stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
@@ -188,7 +188,7 @@ def lyrics_inspector_full_cycle_translate(artist):
     commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     rus_commons = io.open('rus_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
-    eng_commons_expanded = io.open('/eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
+    eng_commons_expanded = io.open('eng_commons_expanded.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     stuff_values = io.open('stuff_values.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     replace_values = code_elements + commas_and_symbols + eng_commons + eng_commons_expanded + stuff_values + rus_commons
 
