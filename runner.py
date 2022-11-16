@@ -142,7 +142,7 @@ translated_lyrics = text_replace(translated_lyrics, replace_values)
 translated_lyrics = text_replace(translated_lyrics, replace_values)
 translates = translated_lyrics.split(' ')
 translates = [value for value in translates if value]  # Remove empty values in list
-nlp_rus = spacy.load("ru_core_news_sm")
+nlp_rus = spacy.load("en_core_web_sm")   # CORRECT !!!!!!!!!!!!!!!!!!!!!!!!!! ru_core_news_sm
 # lemmatizer_rus = nlp_rus.get_pipe("lemmatizer") # nned it?
 doc_rus = nlp_rus(' '.join(map(str, translates)))
 translates = [token.lemma_ for token in doc_rus if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
