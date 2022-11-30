@@ -5,4 +5,3 @@ it's working here:
 
 https://t.me/Lyrics_Inspector_Bot
 
-you can write me preferably in tg: https://t.me/sadzax
