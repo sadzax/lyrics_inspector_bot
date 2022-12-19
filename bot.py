@@ -8,9 +8,9 @@ from urllib3 import poolmanager
 import telebot
 import spacy
 
+
 # The backend process for inspection - requires only artists' name)
 def lyrics_inspector_full_cycle(artist):
-
     artist = artist.lower()
     if artist[0:4] == 'the ':
         artist = artist[4:]
@@ -24,6 +24,7 @@ def lyrics_inspector_full_cycle(artist):
         i = i + 2
 
     url_artist = 'https://www.amalgama-lab.com/songs/' + artist[0] + '/' + artist
+
     class TLSAdapter(requests.adapters.HTTPAdapter):
         def init_poolmanager(self, connections, maxsize, block=False):
             ctx = ssl.create_default_context()
@@ -34,6 +35,7 @@ def lyrics_inspector_full_cycle(artist):
                 block=block,
                 ssl_version=ssl.PROTOCOL_TLS,
                 ssl_context=ctx)
+
     session = requests.session()
     session.mount('https://', TLSAdapter())
     artist_response = session.get(url_artist).text.lower().splitlines()
@@ -61,7 +63,7 @@ def lyrics_inspector_full_cycle(artist):
         soup = soup.partition('.html">')[0] + soup.partition('.html')[1]
         every_song_urls.append(soup)
     every_song_urls = [url_tail for url_tail in every_song_urls if
-                   re.search('html', url_tail)]
+                       re.search('html', url_tail)]
 
     text = []
     for url_tail in every_song_urls:
@@ -77,8 +79,8 @@ def lyrics_inspector_full_cycle(artist):
         if text[i].startswith('<div class="string_container">') is True:
             eng_lyrics.append(text[i])
             iter = 1
-            while text[i+iter].startswith('<div class=') is False:
-                eng_lyrics.append(text[i+iter])
+            while text[i + iter].startswith('<div class=') is False:
+                eng_lyrics.append(text[i + iter])
                 iter = iter + 1
         i = i + 1
 
@@ -86,6 +88,7 @@ def lyrics_inspector_full_cycle(artist):
         for el in replace_values:
             target_str = target_str.replace(el, ' ')
         return target_str
+
     code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
@@ -102,17 +105,17 @@ def lyrics_inspector_full_cycle(artist):
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(' '.join(map(str, words)))
     words = [token.lemma_ for token in doc if token.pos_ == 'ADV' or token.pos_ == 'ADJ'
-                  or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
+             or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
     words_counter_list = Counter(words).most_common()
-    if len(words_counter_list)>30:
+    if len(words_counter_list) > 30:
         words_counter_str = '\n'.join(map(str, words_counter_list[0:30]))
     else:
         words_counter_str = '\n'.join(map(str, words_counter_list))
     return words_counter_str
 
-def lyrics_inspector_full_cycle_translate(artist):
 
+def lyrics_inspector_full_cycle_translate(artist):
     artist = artist.lower()
     if artist[0:4] == 'the ':
         artist = artist[4:]
@@ -126,6 +129,7 @@ def lyrics_inspector_full_cycle_translate(artist):
         i = i + 2
 
     url_artist = 'https://www.amalgama-lab.com/songs/' + artist[0] + '/' + artist
+
     class TLSAdapter(requests.adapters.HTTPAdapter):
         def init_poolmanager(self, connections, maxsize, block=False):
             ctx = ssl.create_default_context()
@@ -136,6 +140,7 @@ def lyrics_inspector_full_cycle_translate(artist):
                 block=block,
                 ssl_version=ssl.PROTOCOL_TLS,
                 ssl_context=ctx)
+
     session = requests.session()
     session.mount('https://', TLSAdapter())
     artist_response = session.get(url_artist).text.lower().splitlines()
@@ -163,7 +168,7 @@ def lyrics_inspector_full_cycle_translate(artist):
         soup = soup.partition('.html">')[0] + soup.partition('.html')[1]
         every_song_urls.append(soup)
     every_song_urls = [url_tail for url_tail in every_song_urls if
-                   re.search('html', url_tail)]
+                       re.search('html', url_tail)]
 
     text = []
     for url_tail in every_song_urls:
@@ -184,6 +189,7 @@ def lyrics_inspector_full_cycle_translate(artist):
         for el in replace_values:
             target_str = target_str.replace(el, ' ')
         return target_str
+
     code_elements = io.open('code_elements.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     commas_and_symbols = io.open('commas_and_symbols.txt', mode="r", encoding='utf-8').read().lower().splitlines()
     eng_commons = io.open('eng_commons.txt', mode="r", encoding='utf-8').read().lower().splitlines()
@@ -202,14 +208,17 @@ def lyrics_inspector_full_cycle_translate(artist):
                   or token.pos_ == 'NOUN' or token.pos_ == 'VERB']
 
     translates_counter_list = Counter(translates).most_common()
-    if len(translates_counter_list)>30:
+    if len(translates_counter_list) > 30:
         translates_counter_str = '\n'.join(map(str, translates_counter_list[0:30]))
     else:
         translates_counter_str = '\n'.join(map(str, translates_counter_list))
     return translates_counter_str
 
+
 tokenTG = io.open('token.txt', mode="r", encoding='utf-8').read()
 bot = telebot.TeleBot(tokenTG)
+bot.set_webhook()
+
 
 @bot.message_handler(commands=['start', 'help'])
 def start(message):
@@ -221,40 +230,45 @@ def start(message):
                             f'Send me the name of the Artist:'
     bot.send_message(message.chat.id, bot_resopnse_on_start, parse_mode='html')
 
+
 @bot.message_handler()
 def switcher_and_request(message):
-    rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский', 'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
+    rus_switcher = ['ru', 'rus', 'russian', 'translation', 'translations', 'trans', 'tr', 'ру', 'рус', 'русский',
+                    'руский', 'русское', 'россия', 'по-русски', 'по-ру', 'порусски', 'перевод', 'переводы']
     if message.text.lower() in rus_switcher:
         reply_to_rus_switcher = bot.reply_to(message, """\
 Мы теперь переключились на переводы\n
 Пришлите мне зарубежного артиста, чьи самые распространённые слова (в русском переводе) вы хотите увидеть:
 """)
+
         def get_russian_request_from_the_user(message_rus):
             artist_requested_by_user = message_rus.text
             bot.reply_to(message_rus, f"Вы выбрали {artist_requested_by_user}\n\nПожалуйста,"
-                                                      f" немного подожите, если имя введено корректно, то я"
-                                                      f" постараюсь всё найти для вас. Обычно, на это уходит пара"
-                                                      f" минут. Если долго не отвечаю, значит, я на починке")
+                                      f" немного подожите, если имя введено корректно, то я"
+                                      f" постараюсь всё найти для вас. Обычно, на это уходит пара"
+                                      f" минут. Если долго не отвечаю, значит, я на починке")
             bot.reply_to(message_rus, f"Вот какие слова больше всего любит "
-                                                      f"{artist_requested_by_user}: \n\n"
-                                                      f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
-                                                      f"Я постарался убрать частицы, местоимения, союзы и всё такое "
-                                                      f"подобное, но я ещё совсем юный робот, и я только учусь, "
-                                                      f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+                                      f"{artist_requested_by_user}: \n\n"
+                                      f"{lyrics_inspector_full_cycle_translate(artist_requested_by_user)}\n\n "
+                                      f"Я постарался убрать частицы, местоимения, союзы и всё такое "
+                                      f"подобное, но я ещё совсем юный робот, и я только учусь, "
+                                      f"поэтому буду рад замечаниям. Контакты есть в моём профиле")
+
         bot.register_next_step_handler(reply_to_rus_switcher, get_russian_request_from_the_user)
     elif message.text == 'testme':
         bot.reply_to(message, f'<b>Your Technical Data:</b>\n\n{message}', parse_mode='html')
     elif message.text.lower() not in rus_switcher and message.text.lower() != 'testme':
         artist_requested_by_user = message.text
         bot.reply_to(message, f"So, it's {artist_requested_by_user}\nNice choice\nI'll try it"
-                                          f"\nWait, please..."
-                                          f"\n\nI search in all data aviable for me online, it usually takes"
-                                          f" a couple of minutes\nBut if I don't response for a long time "
-                                          f"that means I'm on repair today")
+                              f"\nWait, please..."
+                              f"\n\nI search in all data aviable for me online, it usually takes"
+                              f" a couple of minutes\nBut if I don't response for a long time "
+                              f"that means I'm on repair today")
         bot.reply_to(message, f"So that's {artist_requested_by_user}'s favourite words:\n\n"
-                                          f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
-                                          f"Please consider I have tried to exclude articles, preverbs and "
-                                          f"constructinal words like 'am', 'have', 'been', etc. If you find "
-                                          f"some words like this, feel free to contact me (check 'about')")
+                              f"{lyrics_inspector_full_cycle(artist_requested_by_user)}\n\n"
+                              f"Please consider I have tried to exclude articles, preverbs and "
+                              f"constructinal words like 'am', 'have', 'been', etc. If you find "
+                              f"some words like this, feel free to contact me (check 'about')")
+
 
 bot.polling(none_stop=True)
