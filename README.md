@@ -5,4 +5,4 @@ Lyricality is a [Telegram bot](https://t.me/Lyrics_Inspector_Bot) who returns mo
 Direct link:
 [https://t.me/Lyrics_Inspector_Bot](https://t.me/Lyrics_Inspector_Bot)
 
-Feel free to ask me anything [in telegram](t.me/sadzax) or here 
+Feel free to ask me anything [in telegram](https://t.me/sadzax) or here 
