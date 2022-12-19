@@ -1,7 +1,7 @@
-# lyrics
-Returns most common words in artists' lyrics
+# Lyricality
 
-it's working here:
+Lyricality is a [Telegram bot]<https://t.me/Lyrics_Inspector_Bot> who returns most common words in artists' lyrics
 
-https://t.me/Lyrics_Inspector_Bot
+Direct link:
+[https://t.me/Lyrics_Inspector_Bot]<https://t.me/Lyrics_Inspector_Bot>
 
