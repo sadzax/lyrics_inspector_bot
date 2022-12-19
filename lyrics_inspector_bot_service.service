@@ -1,0 +1,10 @@
+[Unit]
+Description=lyrics_inspector_bot
+
+[Service]
+WorkingDirectory=/home/support/lyrics_inspector_bot
+ExecStart=python3 /home/support/lyrics_inspector_bot/bot.py
+Restart=always
+
+[Install]
+WantedBy=default.target
