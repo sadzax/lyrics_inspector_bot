@@ -1,0 +1,22 @@
+# локальное окружение, на сервер не копировать
+.venv/
+venv/
+env/
+
+# секрет бота: кладётся на сервер отдельно, не через git
+token.txt
+.env
+.env.*
+
+# кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# служебное
+*.log
+.idea/
+.vscode/

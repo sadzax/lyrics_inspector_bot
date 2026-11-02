@@ -1,6 +1,5 @@
-bs4
-requests
-urllib3
-spacy
-telebot
-pyTelegramBotAPI
+beautifulsoup4==4.15.0
+requests==2.34.2
+urllib3==2.8.0
+spacy==3.8.18
+pyTelegramBotAPI==4.37.1

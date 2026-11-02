@@ -1,10 +1,19 @@
+# User и каталог — учётная запись на сервере, куда ставится бот.
+# Интерпретатор берётся из venv этого каталога, не из системного python3.
+
 [Unit]
-Description=lyrics_inspector_bot
+Description=Lyrics Inspector Telegram bot
+After=network-online.target
+Wants=network-online.target
 
 [Service]
+Type=simple
+User=support
 WorkingDirectory=/home/support/lyrics_inspector_bot
-ExecStart=python3 /home/support/lyrics_inspector_bot/bot.py
-Restart=always
+ExecStart=/home/support/lyrics_inspector_bot/.venv/bin/python bot.py
+Restart=on-failure
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
 
 [Install]
-WantedBy=default.target
+WantedBy=multi-user.target
